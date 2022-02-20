@@ -35,6 +35,20 @@ body {
     text-decoration: none;
 }
 
+#menu a:hover {
+    background-color: aquamarine;
+    padding: 2px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#main-picture {
+    overflow: hidden;
+    height: 600px;
+    width: 100%;
+    background: url('../images/main-picture.jpg') center center/cover no-repeat;
+}
+
 .full-height {
     min-height: 100vh;
     text-align: center;

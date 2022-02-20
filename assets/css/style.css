@@ -3,3 +3,40 @@
     padding: 0;
     border: none;
 }
+
+#club-name {
+    float: left;
+    margin-left: 5px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.full-height {
+    min-height: 100vh;
+    text-align: center;
+}
+
+#menu {
+    position: fixed;
+    top: 0;
+}
+
+#home {
+    background: yellow;
+}
+
+#about-us {
+    background: lightblue;
+}
+
+#gallery {
+    background: lightgreen;
+}
+
+#contact-us {
+    background: cyan;
+}
+
+#events {
+    background: lightcoral;
+}

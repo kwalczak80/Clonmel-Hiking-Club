@@ -58,15 +58,27 @@ body {
     margin-top: 20px;
     font-size: 150%;
     
-
-}
-#about-us h2 {
+    }
+#about-us h2, h3 {
     text-align: center;
     text-transform: uppercase;
 }
 
 #about-us p {
     text-align: center;
+}
+
+#about-us div {
+    
+    vertical-align: top;
+    margin-top: 15px;
+    display: inline-block;
+    height: auto;
+    width: 30%;    
+    /*padding-right: 10px;*/
+    border: 2px #2b2727 solid;
+    border-radius: 10px;
+
 }
 
 

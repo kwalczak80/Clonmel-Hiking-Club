@@ -1,11 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     border: none;
+    color: #3a3a3a;
 }
 
 body {
     background-color: rgb(217, 221, 201);
+    font-family: Lato, sans-serif;
+    
 }
 
 #club-name {
@@ -36,10 +41,10 @@ body {
 }
 
 #menu a:hover {
-    background-color: aquamarine;
+    background-color: rgb(193, 211, 205);
     padding: 2px;
-    border: 2px solid black;
-    border-radius: 10px;
+    border: 1px solid black;
+    border-radius: 7px;
 }
 
 #main-picture {
@@ -49,16 +54,13 @@ body {
     background: url('../images/main-picture.jpg') center center/cover no-repeat;
 }
 
-/*.full-height {
-    min-height: 100vh;
-    text-align: center;
-}
-*/
 #about-us {
     margin-top: 20px;
     font-size: 150%;
+    margin-left: 30px;
     
     }
+
 #about-us h2, h3 {
     text-align: center;
     text-transform: uppercase;
@@ -69,17 +71,19 @@ body {
 }
 
 #about-us div {
-    
+   
     vertical-align: top;
     margin-top: 15px;
     display: inline-block;
     height: auto;
     width: 30%;    
-    /*padding-right: 10px;*/
+    
     border: 2px #2b2727 solid;
     border-radius: 10px;
 
+
 }
+
 /* Gallery */
 #gallery {
     margin-top: 20px;
@@ -200,8 +204,22 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+/*
+#container {
+    display: flex;
+    background-color: #777;
+    align-content: center;
+    justify-content: center;
+}
 
+#container div {
+    background-color: aqua;
+    align-items: center;
+    margin: 10px;
+    width: 30%;
+}
 
+*/
 
 
 

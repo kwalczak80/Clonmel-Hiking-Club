@@ -4,11 +4,35 @@
     border: none;
 }
 
+body {
+    background-color: rgb(217, 221, 201);
+}
+
 #club-name {
     float: left;
     margin-left: 5px;
     letter-spacing: 3px;
     text-transform: uppercase;
+    
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 3px;
+    }
+
+#menu, #club-name {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    margin-right: 30px;
+    list-style-type: none;
+    }
+ 
+#menu a {
+    text-decoration: none;
 }
 
 .full-height {
@@ -16,7 +40,7 @@
     text-align: center;
 }
 
-#menu {
+/*#menu {
     position: fixed;
     top: 0;
 }
@@ -40,3 +64,4 @@
 #events {
     background: lightcoral;
 }
+*/

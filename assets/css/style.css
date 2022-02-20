@@ -80,6 +80,66 @@ body {
     border-radius: 10px;
 
 }
+/* Gallery */
+#gallery {
+    margin-top: 20px;
+    font-size: 150%;
+}
+
+#gallery h2, h3 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+.horizontal_slider {
+    display: block;
+    width: 100%;
+    overflow-x: scroll;
+    margin-top: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: transparent;
+}
+
+.slider_container {
+    display: block;
+    white-space: nowrap;
+}
+.item {
+    display: inline-block;
+    margin: 1px;
+}
+.item img {
+    border-radius: 5px;
+    width: auto;
+    height: 600px;
+    object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

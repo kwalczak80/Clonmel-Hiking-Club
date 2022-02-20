@@ -49,11 +49,32 @@ body {
     background: url('../images/main-picture.jpg') center center/cover no-repeat;
 }
 
-.full-height {
+/*.full-height {
     min-height: 100vh;
     text-align: center;
 }
+*/
+#about-us {
+    margin-top: 20px;
+    font-size: 150%;
+    
 
+}
+#about-us h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#about-us p {
+    text-align: center;
+}
+
+
+
+/*nav {
+    position: sticky;
+}
+*/
 /*#menu {
     position: fixed;
     top: 0;

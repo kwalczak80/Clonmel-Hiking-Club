@@ -85,12 +85,12 @@ body {
 #about-us p {
     text-align: center;
 }
-
+/*
 #about-us div {
    
     vertical-align: top;
     margin: auto;
-    /*margin-top: 15px;*/
+    margin-top: 15px;
     display: inline-block;
     height: auto;
     width: 30%;    
@@ -100,7 +100,7 @@ body {
 
 
 }
-
+*/
 /* Gallery */
 #gallery {
     margin-top: 20px;
@@ -221,6 +221,35 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+
+
+.container {
+	border: 1px solid black;
+	padding: 10px 0;
+	text-align: center;
+	}
+
+.box {
+	height: auto;
+	width: 32%;
+	display: inline-block;
+	margin: auto;
+    border: 2px #2b2727 solid;
+    vertical-align: top;
+    margin-bottom: 5px;
+    border-radius: 10px;
+
+}
+
+/*vertical-align: top;
+margin: auto;
+margin-top: 15px;
+display: inline-block;
+height: auto;
+width: 30%;    
+padding-right: 10px;
+border: 2px #2b2727 solid;
+border-radius: 10px;
 /*
 #container {
     display: flex;

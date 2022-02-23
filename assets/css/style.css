@@ -82,7 +82,7 @@ h2
     overflow: hidden;
     height: 600px;
     width: 100%;
-    background: url('../images/main-picture.jpg') center center/cover no-repeat;
+    background: url('../images/main-picture.webp') center center/cover no-repeat;
 }
 
 #about-us 
@@ -165,11 +165,24 @@ h2
 }
 
 .contact-box {
-    /*margin: 100px 10% 0 0; */
+    /*margin: 150px 10% 0 0;*/
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 300px;
+    /*position: absolute;*/
+    margin: 0 auto;
+    left: 10%;
+    padding: 30px;
+
+    
+    
+    
+    
+    /*margin: 100px 10% 0 0; 
     top:10%;
     color: white;
     background-color: rgba(60, 60, 60, 0.5);
-    max-width: 450px;
+    max-width: 400px;
     margin: 0 auto;
     padding: 30px;
     /*max-width: 450px;
@@ -195,11 +208,11 @@ form{
         text-align: center;
 }
 .input-field {
-    width: 400px;
+    width: 300px;
     height: 40px;
     margin-top: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
     border: 1px solid #777;
     border-radius: 10px;
     outline: none;
@@ -247,6 +260,7 @@ footer {
 	text-align: center;
 	}
 
+
 .box {
 	height: auto;
 	width: 32%;
@@ -260,6 +274,14 @@ footer {
 
 
 @media screen and (max-width: 950px) {
+
+    #club-name 
+{
+    float: left;
+    margin-left: 3px;
+    letter-spacing: 3px;
+    font-size: 150%;
+}
 
     .box {
         height: auto;
@@ -291,16 +313,22 @@ footer {
             }
             .item img {
                 width:100%;
-   height:400px;
+   height:300px;
    object-fit:cover;
    object-position:50% 50%;
-                /*border-radius: 5px;
-                width: auto;
-                height: 600px;
-                object-fit: cover;*/
                 }
-            .horizontal_slider::-webkit-scrollbar {
+            /*.horizontal_slider::-webkit-scrollbar {
                 display: none;
+            }*/
+
+            .contact-box {
+                             top:10%;
+                color: white;
+                background-color: rgba(60, 60, 60, 0.5);
+                width: 300%;
+                margin: 0 auto;
+                /*padding: 30px;*/
+         
             }
 
 }

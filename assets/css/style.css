@@ -43,57 +43,51 @@ h2
     letter-spacing: 3px;
 }
 
-#menu, #club-name 
-{
+
+#club-name {
     line-height: 75px;
 }
 
-#menu li 
-{
+#menu li {
     float: right;
     margin-right: 25px;
     list-style-type: none;
 }
- 
-#menu a 
-{
+
+#menu a {
     text-decoration: none;
     color: inherit;
 }
 
-#menu a:hover 
-{
+#menu a:hover {
     background-color: rgb(193, 211, 205);
     padding: 2px;
     border: 1px solid black;
     border-radius: 7px;
 }
 
-#logo-outer 
-{
+#logo-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
-#main-logo 
-{
+#main-logo {
     overflow: hidden;
     height: 600px;
     width: 100%;
     background: url('../images/main-picture.webp') center center/cover no-repeat;
 }
 
-#about-us 
-{
+#about-us {
     margin-top: 20px;
     font-size: 120%;
 }
 
-#about-us h2, h3 
-{
-   text-transform: uppercase;
+#about-us h2,
+h3 {
+    text-transform: uppercase;
 }
 
 #about-us p {
@@ -106,7 +100,8 @@ h2
     font-size: 120%;
 }
 
-#gallery h2, h3 {
+#gallery h2,
+h3 {
     text-transform: uppercase;
 }
 
@@ -125,78 +120,51 @@ h2
     display: block;
     white-space: nowrap;
 }
+
 .item {
     display: inline-block;
     margin: 1px;
 }
+
 .item img {
     border-radius: 5px;
     width: auto;
     height: 600px;
     object-fit: cover;
-    }
+}
 
 /*Events section*/
 
 #events {
     margin-top: 20px;
-    /*margin-bottom: 20px;*/
     font-size: 120%;
 }
 
-#events h2, h4, h5 {
+#events h2,
+h4,
+h5 {
     text-align: center;
     text-transform: uppercase;
 }
 
 /*Contact Us section*/
 
-#contact-us 
-{
+#contact-us {
     margin-top: 20px;
     font-size: 120%;
-    
+    height: 500px;
+
 }
 
-#contact-us h2 
-{
-      text-transform: uppercase;
+#contact-us h2 {
+    text-transform: uppercase;
 
 }
 
 .contact-box {
-    /*margin: 150px 10% 0 0;*/
-    color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
-    max-width: 300px;
-    /*position: absolute;*/
+    background-color: rgba(102, 91, 91, 0.6);
+    max-width: 350px;
     margin: 0 auto;
-    left: 10%;
-    padding: 30px;
-
-    
-    
-    
-    
-    /*margin: 100px 10% 0 0; 
-    top:10%;
-    color: white;
-    background-color: rgba(60, 60, 60, 0.5);
-    max-width: 400px;
-    margin: 0 auto;
-    padding: 30px;
-    /*max-width: 450px;
-    background-color: rgba(167, 218, 211, 0.5);
-    /*box-shadow: 0 0 20px 0 #999;*/
-    /*margin: 100px 10% 0 0;*/
-    /*position: relative;
-    left: 50%;
-    /*margin: 0 auto;*/
-    /*top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    position: relative;*/
-
 }
 
 #events-map {
@@ -204,11 +172,12 @@ h2
     height: 300px;
 }
 
-form{
-        text-align: center;
+form {
+    text-align: center;
 }
+
 .input-field {
-    width: 300px;
+    width: 320px;
     height: 40px;
     margin-top: 20px;
     padding-left: 5px;
@@ -217,31 +186,33 @@ form{
     border-radius: 10px;
     outline: none;
 }
+
 .textarea-field {
     height: 150px;
     padding-top: 10px;
 }
+
 .btn {
     border-radius: 10px;
     color: #fff;
     margin-top: 18px;
     padding: 10px;
-    background-color: #47c35a;
+    background-color: #31920a;
     font-size: 12px;
     border: none;
     cursor: pointer;
     margin-bottom: 10px;
-    }
+}
 
 footer {
     height: 150px;
-    }
+}
 
 .social-networks {
     text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
@@ -252,20 +223,18 @@ footer {
     color: #3a3a3a;
 }
 
-
 .container {
-	border: 1px solid black;
-	margin: 1px;
+    border: 1px solid black;
+    margin: 1px;
     padding: 10px 0;
-	text-align: center;
-	}
-
+    text-align: center;
+}
 
 .box {
-	height: auto;
-	width: 32%;
-	display: inline-block;
-	margin: auto;
+    height: auto;
+    width: 32%;
+    display: inline-block;
+    margin: auto;
     border: 2px #2b2727 solid;
     vertical-align: top;
     margin-bottom: 5px;
@@ -273,17 +242,19 @@ footer {
 }
 
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 950px) 
+{
 
     #club-name 
-{
-    float: left;
-    margin-left: 3px;
-    letter-spacing: 3px;
-    font-size: 150%;
-}
+    {
+        float: left;
+        margin-left: 3px;
+        letter-spacing: 3px;
+        font-size: 150%;
+    }
 
-    .box {
+    .box 
+    {
         height: auto;
         width: 90%;
         display: inline-block;
@@ -293,45 +264,47 @@ footer {
         margin-bottom: 5px;
         border-radius: 10px;
     }
-    #menu {
+
+    #menu 
+    {
         font-size: 80%;
         letter-spacing: 3px;
         clear: left;
         float: left;
         margin-bottom: 20px;
         line-height: 25px;
-        }
-        #menu li {
-            float: right;
-            margin-left: 2px;
-            list-style-type: none;
-            }
+    }
 
-            .item {
-                display: block;
-                margin: 1px;
-            }
-            .item img {
-                width:100%;
-   height:300px;
-   object-fit:cover;
-   object-position:50% 50%;
-                }
-            /*.horizontal_slider::-webkit-scrollbar {
-                display: none;
-            }*/
+    #menu li 
+    {
+        float: right;
+        margin-left: 2px;
+        list-style-type: none;
+    }
 
-            .contact-box {
-                             top:10%;
-                color: white;
-                background-color: rgba(60, 60, 60, 0.5);
-                width: 300%;
-                margin: 0 auto;
-                /*padding: 30px;*/
-         
-            }
+    .item 
+    {
+        display: block;
+        margin: 1px;
+    }
 
+    .item img 
+    {
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        object-position: 50% 50%;
+    }
+
+  /*  .contact-box 
+    {
+        top: 10%;
+        color: white;
+        background-color: rgba(60, 60, 60, 0.5);
+        margin: 0 auto;
+    }*/
 }
+
 
 
 

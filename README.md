@@ -102,3 +102,16 @@ All the images that are used on the Clonmel Hiking Club website were downloaded 
  
 </ul>
 <hr>
+  
+# **Deployment**
+### **GitHub Pages**
+<p>The project was deployed to GitHub pages using the following steps...</p>
+<ol type="1">
+<li>Log in to GitHub</li>
+<li>On the left hand side, click the Clonmel Hiking Club project</li>
+<li>At the top of page locate the "Settings" button in the menu section</li>
+<li>Scroll down to find out "GitHub Pages" section and the click on "Check it out here!"</li>
+<li>Under "Source", select "Main" from dropdown branch menu</li>
+<li>Click "Save" and the page will refresh automatically.</li>
+<li>Scroll back down through the page to locate published site <a href="https://kwalczak80.github.io/Clonmel-Hiking-Club/">link</a> in the "GitHub Pages" section.</li></ol>
+<hr>

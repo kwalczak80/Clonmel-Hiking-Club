@@ -1,8 +1,8 @@
 # **Clonmel Hiking Club**
 **[Click here to visit Clonmel Hiking Club website](https://kwalczak80.github.io/Clonmel-Hiking-Club)**<br>
 <p>Welcome to the official Clonmel Hiking Club website.
-  The website is designed to provide information about hiking club in Clonmel area. Website consist of sections where visitors  can find relevant infomation about the club and upcoming events</p>
-
+  The website is designed to provide information about hiking club in Clonmel area. Website consists of sections where visitors can find relevant infomation about the club and upcoming events</p>
+  
 ![Responsive Design](assets/images/responsive-design.PNG "Responsive Design of Clonmel Hiking Club website")
 <hr>
 
@@ -31,18 +31,60 @@
 <li>The grouping of text information and images on the website is to ensure the most convenient use for visitors. When viewing the page on large screens, text information is grouped into three columns and images can be moved from left to right with the slider. For smaller screens, text information is displayed in a single column, similar to photos</li>
   </ul>
   </ul>
-<hr>
-
-# **Navigation**
+  
+# **Features**
+<ul>
+  <li><strong>Navigation</strong></li>
 <ul>
 <li>
 The navigation menu is located at the top of the page. The page navigation system consists of club name which is located on the left hand side while the other navigation links are located on the right hand side.</li>
 <li>
-Please note that this navigation layout differ (website navigation links) depending on which screen size is displayed</li>
-<li>The navigation bar is very intuitive and easy to use </li>
+Please note that this navigation layout differ (website navigation links) depending on which screen size is displayed
+</li>
+<li>
+The navigation bar is very intuitive and easy to use 
+</li>
+</ul>
 </ul>
 
 ![Navigation](assets/images/navigation-bar.PNG "Navigation Bar")
+<ul>
+  <li><strong>About Us</strong></li>
+<ul>
+<li>
+  The About Us section contains basic information about the club
+</li>
+<li>
+Additionally, this section contains information intended to encourage other people to start their adventure with hiking
+</li>
+</ul>
+</ul>
+<ul>
+  <li><strong>About Us</strong></li>
+<ul>
+<li>
+  The About Us section contains basic information about the club
+</li>
+<li>
+Additionally, this section contains information intended to encourage other people to start their adventure with hiking
+</li>
+</ul>
+</ul>
+
+![Navigation](assets/images/about-us-section.PNG "About Us section")
+<ul>
+  <li><strong>Gallery</strong></li>
+<ul>
+<li>
+ The content of this section is showing photos taken by the club members from their hiking trips
+</li>
+<li>
+This section can be very inspiring for both new and existing club members
+</li>
+</ul>
+</ul>
+
+![Navigation](assets/images/gallery-section.PNG "Gallery sectionn Bar")
 <hr>
 
 # **Testing**
@@ -81,13 +123,6 @@ I can confirm that all sections are all readable and easy to understand.
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/HTML5">HTML5</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a></li>
-</ul>
-<hr>
-
-# **Features**
-<ul>
-<li>Reponsive on all devices sizes</li>
-<li>Interactive elements</li>
 </ul>
 <hr>
 
@@ -161,4 +196,12 @@ All the images that are used on the Clonmel Hiking Club website were downloaded 
 <li>Under "Source", select "Main" from dropdown branch menu</li>
 <li>Click "Save" and the page will refresh automatically.</li>
 <li>Scroll back down through the page to locate published site <a href="https://kwalczak80.github.io/Clonmel-Hiking-Club/">link</a> in the "GitHub Pages" section.</li></ol>
+<hr>
+
+  
+ # **Features**
+<ul>
+<li>Reponsive on all devices sizes</li>
+<li>Interactive elements</li>
+</ul>
 <hr>

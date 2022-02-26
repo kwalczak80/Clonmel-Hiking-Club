@@ -6,13 +6,41 @@
 ![Responsive Design](assets/images/responsive-design.PNG "Responsive Design of Clonmel Hiking Club website")
 <hr>
 
+# **Design**
+<ul>
+<li><strong>Colour Scheme</strong></li>
+<ul>
+<li>The colors used on the website are to be in line with the theme of hiking in the mountains. The appropriate shade of colors on the page ensures that there are no large contrasts between the individual sections of the page</li>
+</ul>
+</ul>
+<ul>
+<li><strong>Typography</strong></li>
+<ul>
+<li>The Lato font is the main font used in this project with Oswald as the second font. Both fonts were imported from Google fonts website.</li> 
+</ul>
+</ul>
+<ul>
+<li><strong>Images</strong></li>
+<ul>
+<li>The photos in the gallery section are a very important part of this site as they allow users to view photos uploaded by other users which can be an inspiration for hiking trips for other people</li>
+</ul>
+</ul> 
+<ul>
+  <li><strong>Information grouping</strong></li>
+<ul>
+<li>The grouping of text information and images on the website is to ensure the most convenient use for visitors. When viewing the page on large screens, text information is grouped into three columns and images can be moved from left to right with the slider. For smaller screens, text information is displayed in a single column, similar to photos</li>
+  </ul>
+  </ul>
+<hr>
+
 # **Navigation**
 <ul>
 <li>
 The navigation menu is located at the top of the page. The page navigation system consists of club name which is located on the left hand side while the other navigation links are located on the right hand side.</li>
 <li>
 Please note that this navigation layout differ (website navigation links) depending on which screen size is displayed</li>
-<li>The navigation bar is very intuitive and easy to use </li></ul>
+<li>The navigation bar is very intuitive and easy to use </li>
+</ul>
 
 ![Navigation](assets/images/navigation-bar.PNG "Navigation Bar")
 <hr>

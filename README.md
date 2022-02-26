@@ -94,6 +94,14 @@ I can confirm that all sections are all readable and easy to understand.
 </ul>
 <hr>
 
+# **Bugs**
+### **Solved Bugs**
+<ul>
+<li>
+When project was deployed to Github I noticed that images in gallery section were not displayed correctly. To fix the issue I went to GitPod application and I right clicked on each picture to obtain a copy of relative path. Once the code was updated and pushed to Github this problem was no longer an issue.
+</li></ul>
+<hr>
+  
 # **Media**
 <ul>
 <li> 

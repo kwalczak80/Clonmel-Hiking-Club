@@ -3,7 +3,7 @@
 <p>Welcome to the official Clonmel Hiking Club website.
   The website is designed to provide information about hiking club in Clonmel area. Website consist of sections where visitors  can find relevant infomation about the club and upcoming events</p>
 
-![Responsive Design](assets/images/responsive-design.png "Responsive Design of Clonmel Hiking Club website")
+![Responsive Design](assets/images/responsive-design.PNG "Responsive Design of Clonmel Hiking Club website")
 <hr>
 
 # **Testing**
@@ -36,6 +36,46 @@ I can confirm that all sections are all readable and easy to understand.
 </li>
 </ul>
 <hr>
+
+# **Languages Used**
+<p>The following languages have been used during design process:</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/HTML5">HTML5</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a></li>
+</ul>
+<hr>
+
+# **Features**
+<ul>
+<li>Reponsive on all devices sizes</li>
+<li>Interactive elements</li>
+</ul>
+<hr>
+
+# **Frameworks, Libraries & Programs Used**
+<ol type="1">
+<li><a href="https://fonts.google.com/">Google Fonts</a></li>
+<ul>
+<li>Official Google Fonts website was used to import relevant fonts which are used in the project</li>
+</ul>
+<li><a href="https://fontawesome.com/">Font Awesome</a></li>
+<ul>
+<li>Font Awesome was used to add icons which represents links to social media</li>
+</ul>
+<li><a href="https://github.com/">GitHub</a></li>
+<ul>
+<li>GitHub was used to store all the project files.</li>
+</ul>
+<li><a href="https://picresize.com/">The Internet's Original Picture Resizing Tool</a></li>
+<ul>
+<li>Picture Online Resizing Tool was used to resize relevant images which are displayed in gallery section</li>
+</ul>
+<li><a href="https://convert-dpi.com/">Online DPI Converter</a></li>
+<ul>
+<li>Online DPI Converter was used to change DPI ratio of the images downloaded from Pexels website</li>
+</ol>
+<hr>
+
 
 
 ## Gitpod Reminders

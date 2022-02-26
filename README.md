@@ -6,6 +6,17 @@
 ![Responsive Design](assets/images/responsive-design.PNG "Responsive Design of Clonmel Hiking Club website")
 <hr>
 
+# **Navigation**
+<ul>
+<li>
+The navigation menu is located at the top of the page. The page navigation system consists of club name which is located on the left hand side while the other navigation links are located on the right hand side.</li>
+<li>
+Please note that this navigation layout differ (website navigation links) depending on which screen size is displayed</li>
+<li>The navigation bar is very intuitive and easy to use </li></ul>
+
+![Navigation](assets/images/navigation-bar.PNG "Navigation Bar")
+<hr>
+
 # **Testing**
 <ul>
 <li>

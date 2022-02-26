@@ -1,11 +1,42 @@
 # **Clonmel Hiking Club**
 **[Click here to visit Clonmel Hiking Club website](https://kwalczak80.github.io/Clonmel-Hiking-Club)**<br>
+<p>Welcome to the official Clonmel Hiking Club website.
+  The website is designed to provide information about hiking club in Clonmel area. Website consist of sections where visitors  can find relevant infomation about the club and upcoming events</p>
 
-Welcome kwalczak80,
+![Responsive Design](assets/images/responsive-design.png "Responsive Design of Clonmel Hiking Club website")
+<hr>
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+# **Testing**
+<ul>
+<li>
+The website has been tested using the browsers listed below and it's confirmed to work correctly on each one of them
+<ul>
+<li>
+  Chrome
+</li>
+<li>
+  Firefox
+</li>
+<li>
+  Safari
+</li>
+<li>
+  Edge
+</li>
+</ul>
+</li>
+<li>
+The website was also viewed on a variety of different devices such as Desktop, Laptop, iPhone 7, iPhone 8, iPhone X, iPhone 12, Google Pixel 4
+</li>
+<li>
+I can confirm that the website is fully operational and it's design allows users easy navigation. 
+</li>
+<li>
+I can confirm that all sections are all readable and easy to understand.  
+</li>
+</ul>
+<hr>
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
 
 ## Gitpod Reminders
 

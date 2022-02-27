@@ -199,7 +199,7 @@ form {
     padding-top: 10px;
 }
 
-.btn {
+.button {
     border-radius: 10px;
     color: #fff;
     margin-top: 18px;
@@ -263,13 +263,6 @@ footer {
     .box 
     {
         width: 90%;
-        /*height: auto;
-        display: inline-block;
-        margin: auto;
-        border: 2px #2b2727 solid;
-        vertical-align: top;
-        margin-bottom: 5px;
-        border-radius: 10px;*/
     }
 
     #menu 
@@ -302,14 +295,6 @@ footer {
         object-fit: cover;
         object-position: 50% 50%;
     }
-
-  /*  .contact-box 
-    {
-        top: 10%;
-        color: white;
-        background-color: rgba(60, 60, 60, 0.5);
-        margin: 0 auto;
-    }*/
 }
 
 @media screen and (max-width: 800px) 
@@ -325,13 +310,6 @@ footer {
     .box 
     {
         width: 90%;
-        /*height: auto;
-        display: inline-block;
-        margin: auto;
-        border: 2px #2b2727 solid;
-        vertical-align: top;
-        margin-bottom: 5px;
-        border-radius: 10px;*/
     }
 
     #menu 
@@ -350,57 +328,3 @@ footer {
         list-style-type: none;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*nav {
-    position: sticky;
-}
-*/
-/*#menu {
-    position: fixed;
-    top: 0;
-}
-
-#home {
-    background: yellow;
-}
-
-#about-us {
-    background: lightblue;
-}
-
-#gallery {
-    background: lightgreen;
-}
-
-#contact-us {
-    background: cyan;
-}
-
-#events {
-    background: lightcoral;
-}
-*/

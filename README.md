@@ -59,17 +59,6 @@ Additionally, this section contains information intended to encourage other peop
 </li>
 </ul>
 </ul>
-<ul>
-  <li><strong>About Us</strong></li>
-<ul>
-<li>
-  The About Us section contains basic information about the club
-</li>
-<li>
-Additionally, this section contains information intended to encourage other people to start their adventure with hiking
-</li>
-</ul>
-</ul>
 
 ![Navigation](assets/images/about-us-section.PNG "About Us section")
 <ul>
@@ -114,8 +103,14 @@ Relevant information must be provided in order to sent message
 </ul>
 
 ![Navigation](assets/images/contact-us.PNG "Contact Us section")
+<ul>
+  <li>Responsive design</li>
+  <ul>
+<li>This website is designed to be reponsive on all devices sizes</li>
+<li>Additionally contains interactive elements</li>
+  </ul>
+</ul>
 <hr>
-
 
 # **Testing**
 <ul>

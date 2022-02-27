@@ -7,51 +7,41 @@
     color: #3a3a3a;
 }
 
-body 
-{
+body {
     background-color: rgb(217, 221, 201);
     font-family: Lato, sans-serif;
 }
 
-h1 
-{
-    font-family: Oswald, sans-serif;
-    text-transform: uppercase;
-}
-
-h2 
-{
+h2 {
     background-color: #809283;
     padding: 3px;
     text-align: center;
     border-radius: 5px;
     margin: 1px;
-}
-h2, h3 
-{
     text-transform: uppercase;
 }
 
-h3, h4 
-{
+h3,
+h4 {
     text-align: center;
 }
 
-#club-name
-{
+#club-name {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
     float: left;
     margin-left: 5px;
     letter-spacing: 3px;
     font-size: 250%;
 }
 
-#menu 
-{
+#menu {
     font-size: 110%;
     letter-spacing: 3px;
 }
 
-#menu, #club-name {
+#menu,
+#club-name {
     line-height: 75px;
 }
 
@@ -66,16 +56,14 @@ h3, h4
     color: inherit;
 }
 
-#menu a:hover 
-{
+#menu a:hover {
     background-color: rgb(193, 211, 205);
     padding: 2px;
     border: 1px solid black;
     border-radius: 7px;
 }
 
-#logo-outer 
-{
+#logo-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
@@ -89,8 +77,10 @@ h3, h4
     background: url('../images/main-picture.webp') center center/cover no-repeat;
 }
 
-#about-us, #gallery, #events, #contact-us
-{
+#about-us,
+#gallery,
+#events,
+#contact-us {
     margin-top: 20px;
     font-size: 120%;
 }
@@ -110,8 +100,7 @@ h3, h4
     background-color: transparent;
 }
 
-.slider_container 
-{
+.slider_container {
     display: block;
     white-space: nowrap;
 }
@@ -128,19 +117,6 @@ h3, h4
     object-fit: cover;
 }
 
-/*Events section*/
-/*
-#events h2, h3, h4  
-{
-    text-align: center;
-    text-transform: uppercase;
-}
-
-#contact-us h2 {
-    text-transform: uppercase;
-
-}
-*/
 .contact-box {
     background-color: rgba(145, 135, 135, 0.2);
     max-width: 400px;
@@ -153,8 +129,7 @@ h3, h4
     height: 300px;
 }
 
-form 
-{
+form {
     text-align: center;
 }
 
@@ -224,24 +199,20 @@ footer {
 }
 
 
-@media screen and (max-width: 950px) 
-{
+@media screen and (max-width: 950px) {
 
-    #club-name 
-    {
+    #club-name {
         float: left;
         margin-left: 3px;
         letter-spacing: 3px;
         font-size: 200%;
     }
 
-    .box 
-    {
+    .box {
         width: 90%;
     }
 
-    #menu 
-    {
+    #menu {
         font-size: 110%;
         letter-spacing: 3px;
         clear: left;
@@ -250,21 +221,18 @@ footer {
         line-height: 25px;
     }
 
-    #menu li 
-    {
+    #menu li {
         float: right;
         margin-right: 15px;
         list-style-type: none;
     }
 
-    .item 
-    {
+    .item {
         display: block;
         margin: 1px;
     }
 
-    .item img 
-    {
+    .item img {
         width: 100%;
         height: 300px;
         object-fit: cover;
@@ -272,23 +240,19 @@ footer {
     }
 }
 
-@media screen and (max-width: 800px) 
-{
-    #club-name 
-    {
+@media screen and (max-width: 800px) {
+    #club-name {
         float: left;
         margin-left: 3px;
         letter-spacing: 3px;
         font-size: 150%;
     }
 
-    .box 
-    {
+    .box {
         width: 90%;
     }
 
-    #menu 
-    {
+    #menu {
         font-size: 80%;
         letter-spacing: 3px;
         clear: left;
@@ -296,8 +260,8 @@ footer {
         margin-bottom: 20px;
         line-height: 25px;
     }
-    #menu li 
-    {
+
+    #menu li {
         float: right;
         margin-right: 8px;
         list-style-type: none;

@@ -94,10 +94,26 @@ This section can be very inspiring for both new and existing club members
 <li>
 Information in this section is uploaded in advance to make sure that users can plan their hiking trip accordingly
 </li>
+<li>
+Interactive map allows users to check where hikng hiking trip will start
+</li>
 </ul>
 </ul>
 
 ![Navigation](assets/images/upcoming-events.PNG "Upcoming Events section")
+<ul>
+  <li><strong>Contact Us</strong></li>
+<ul>
+<li>
+ This section allows users to send a message with their queries
+</li>
+<li>
+Relevant information must be provided in order to sent message
+</li>
+</ul>
+</ul>
+
+![Navigation](assets/images/contact-us.PNG "Contact Us section")
 <hr>
 
 

@@ -85,7 +85,21 @@ This section can be very inspiring for both new and existing club members
 </ul>
 
 ![Navigation](assets/images/gallery-section.PNG "Gallery sectionn Bar")
+<ul>
+  <li><strong>Upcoming events</strong></li>
+<ul>
+<li>
+ The content of this section allows club members to find information about upcoming hiking trips
+</li>
+<li>
+Information in this section is uploaded in advance to make sure that users can plan their hiking trip accordingly
+</li>
+</ul>
+</ul>
+
+![Navigation](assets/images/upcoming-events.PNG "Upcoming Events section")
 <hr>
+
 
 # **Testing**
 <ul>
@@ -110,10 +124,10 @@ The website has been tested using the browsers listed below and it's confirmed t
 The website was also viewed on a variety of different devices such as Desktop, Laptop, iPhone 7, iPhone 8, iPhone X, iPhone 12, Google Pixel 4
 </li>
 <li>
-I can confirm that the website is fully operational and it's design allows users easy navigation. 
+It is confirmed that the website is fully operational and it's design allows users for easy navigation. 
 </li>
 <li>
-I can confirm that all sections are all readable and easy to understand.  
+It is confirmed that all sections are all readable and easy to understand.  
 </li>
 </ul>
 <hr>

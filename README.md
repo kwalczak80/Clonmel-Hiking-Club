@@ -180,6 +180,8 @@ It is confirmed that all sections are all readable and easy to understand.
 <li>HTML - No errors were found during the code validation process when using the official W3C Validator.</li>
 <li>CSS - No errors were found during the code validation process when using the official (Jigsaw) Validator.</li>
 </ul>
+  
+  ![Navigation](assets/images/accessibility-performance.PNG "Navigation Bar")
 <hr>
 
 # **Bugs**
@@ -221,12 +223,4 @@ All the images that are used on the Clonmel Hiking Club website were downloaded 
 <li>Under "Source", select "Main" from dropdown branch menu</li>
 <li>Click "Save" and the page will refresh automatically.</li>
 <li>Scroll back down through the page to locate published site <a href="https://kwalczak80.github.io/Clonmel-Hiking-Club/">link</a> in the "GitHub Pages" section.</li></ol>
-<hr>
-
-  
- # **Features**
-<ul>
-<li>Reponsive on all devices sizes</li>
-<li>Interactive elements</li>
-</ul>
 <hr>

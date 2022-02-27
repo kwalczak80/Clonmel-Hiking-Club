@@ -27,11 +27,14 @@ h2
     border-radius: 5px;
     margin: 1px;
 }
+h2, h3 
+{
+    text-transform: uppercase;
+}
 
 h3, h4 
 {
     text-align: center;
-
 }
 
 #club-name
@@ -80,36 +83,21 @@ h3, h4
 }
 
 #main-logo {
-    overflow: hidden;
+    /*overflow: hidden;*/
     height: 600px;
     width: 100%;
     background: url('../images/main-picture.webp') center center/cover no-repeat;
 }
 
-#about-us {
+#about-us, #gallery, #events, #contact-us
+{
     margin-top: 20px;
     font-size: 120%;
-}
-
-#about-us h2, h3 
-{
-    text-transform: uppercase;
 }
 
 #about-us p {
     padding: 1px;
     text-align: center;
-}
-
-#gallery 
-{
-    margin-top: 20px;
-    font-size: 120%;
-}
-
-#gallery h2, h3 
-{
-    text-transform: uppercase;
 }
 
 .horizontal_slider {
@@ -141,32 +129,18 @@ h3, h4
 }
 
 /*Events section*/
-
-#events {
-    margin-top: 20px;
-    font-size: 120%;
-}
-
+/*
 #events h2, h3, h4  
 {
     text-align: center;
     text-transform: uppercase;
 }
 
-/*Contact Us section*/
-
-#contact-us {
-    margin-top: 20px;
-    font-size: 120%;
-    height: 500px;
-
-}
-
 #contact-us h2 {
     text-transform: uppercase;
 
 }
-
+*/
 .contact-box {
     background-color: rgba(145, 135, 135, 0.2);
     max-width: 400px;
@@ -179,7 +153,8 @@ h3, h4
     height: 300px;
 }
 
-form {
+form 
+{
     text-align: center;
 }
 

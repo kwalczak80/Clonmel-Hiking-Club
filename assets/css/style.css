@@ -4,7 +4,12 @@
     margin: 0;
     padding: 0;
     border: none;
-    color: #3a3a3a;
+    /*color: #3a3a3a;*/
+    color:#000;
+}
+
+html {
+font-size: 62.5%;
 }
 
 body {
@@ -21,7 +26,7 @@ header {
 
   .nav-list {
     background: rgb(155, 163, 126);
-    padding: 0.1rem 0;
+    padding: 0.5rem 0;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -33,18 +38,16 @@ header {
   }
   
   .nav-item a {
-    font-size: 110%;
+    font-size: 2rem;
     text-decoration: none;
     letter-spacing: 2px;
-    /*color: black;*/
-      }
+    }
   
   .nav-item a:hover {
     color: rgb(41, 177, 41);
     background-color: rgb(55, 83, 74);
-    padding: 3px;
-    border: 1px solid #000;
-    border-radius: 3px;
+    padding: 2rem;  
+    font-weight: 900;   /*bold effect*/
   }
   
   .nav-item:first-child {
@@ -69,19 +72,19 @@ h4 {
 #club-name {
     font-family: "Oswald", sans-serif;
     text-transform: uppercase;
-    font-size: 250%;
+    font-size: 3.5rem;
 }
 
 #logo-outer {
-    height: 600px;
+    height: 500px;
     width: 100%;
-    overflow: hidden;
-    position: relative;
+    /*overflow: hidden;
+    position: relative;*/
 }
 
 #main-logo {
     /*overflow: hidden;*/
-    height: 600px;
+    height: 500px;
     width: 100%;
     background: url('../images/main-picture.webp') center center/cover no-repeat;
 }
@@ -90,8 +93,9 @@ h4 {
 #gallery,
 #events,
 #contact-us {
-    margin-top: 20px;
-    font-size: 120%;
+    /*margin-top: 1px;*/
+    font-size: 2rem;
+    
 }
 
 #about-us p {
@@ -122,7 +126,7 @@ h4 {
 .item img {
     border-radius: 5px;
     width: auto;
-    height: 600px;
+    height: 500px;
     object-fit: cover;
 }
 
@@ -214,11 +218,11 @@ footer {
         float: left;
         margin-left: 3px;
         letter-spacing: 3px;
-        font-size: 200%;
+        font-size: 3rem;
     }
 
     .box {
-        width: 90%;
+        width: 99%;
     }
 
     #menu {
@@ -251,28 +255,30 @@ footer {
 
 @media screen and (max-width: 768px) {
     #club-name {
-        float: left;
-        margin-left: 3px;
-        letter-spacing: 3px;
-        font-size: 150%;
+        font-size: 1rem;
     }
 
     .box {
-        width: 90%;
+        width: 95%;
     }
 
-    #menu {
-        font-size: 80%;
-        letter-spacing: 3px;
-        clear: left;
-        float: left;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
+    .nav-item a {
+        font-size: 0.5rem;
+        text-decoration: none;
+        letter-spacing: 2px;
+        /*flex-wrap: wrap;*/
+        }
 
-    #menu li {
-        float: right;
-        margin-right: 8px;
-        list-style-type: none;
-    }
+       /* .nav-item:first-child {
+            margin-right: auto;
+            margin-left: 0.3rem;
+          }*/
+          .nav-list {
+            background: rgb(155, 163, 126);
+            margin-left: 2px;
+            /*padding: 0.5rem 0;*/
+            display: flex;
+            justify-content: flex-start;
+            /*align-items: center;*/
+          }
 }

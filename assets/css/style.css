@@ -12,6 +12,46 @@ body {
     font-family: "Lato", sans-serif;
 }
 
+header {
+    position: sticky;
+    top:0;
+    box-sizing: border-box;
+    z-index: 1;
+  }
+
+  .nav-list {
+    background: rgb(155, 163, 126);
+    padding: 0.1rem 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .nav-item {
+    list-style: none;
+    margin-right: 2rem;
+  }
+  
+  .nav-item a {
+    font-size: 110%;
+    text-decoration: none;
+    letter-spacing: 2px;
+    /*color: black;*/
+      }
+  
+  .nav-item a:hover {
+    color: rgb(41, 177, 41);
+    background-color: rgb(55, 83, 74);
+    padding: 3px;
+    border: 1px solid #000;
+    border-radius: 3px;
+  }
+  
+  .nav-item:first-child {
+    margin-right: auto;
+    margin-left: 1rem;
+  }
+
 h2 {
     background-color: #809283;
     padding: 3px;
@@ -29,38 +69,7 @@ h4 {
 #club-name {
     font-family: "Oswald", sans-serif;
     text-transform: uppercase;
-    float: left;
-    margin-left: 5px;
-    letter-spacing: 3px;
     font-size: 250%;
-}
-
-#menu {
-    font-size: 110%;
-    letter-spacing: 3px;
-}
-
-#menu,
-#club-name {
-    line-height: 75px;
-}
-
-#menu li {
-    float: right;
-    margin-right: 25px;
-    list-style-type: none;
-}
-
-#menu a {
-    text-decoration: none;
-    color: inherit;
-}
-
-#menu a:hover {
-    background-color: rgb(193, 211, 205);
-    padding: 2px;
-    border: 1px solid #000;
-    border-radius: 7px;
 }
 
 #logo-outer {
@@ -240,7 +249,7 @@ footer {
     }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 768px) {
     #club-name {
         float: left;
         margin-left: 3px;

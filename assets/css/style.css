@@ -10,12 +10,29 @@
 
 html {
 font-size: 62.5%;
+scroll-padding-top: 54px;
 }
 
 body {
     background-color: rgb(217, 221, 201);
     font-family: "Lato", sans-serif;
+    
     }
+
+    .grit-wrapper{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+        
+    }
+    img{
+        width: 100%;
+        border-radius: 5px;
+    }
+    
+    .grit-box {
+        padding: 5px;
+    }
+
 
 header {
     position: sticky;
@@ -26,7 +43,7 @@ header {
 
   .nav-list {
     background: rgb(155, 163, 126);
-    padding: 0.5rem 0;
+    /*padding: 5px 0;*/
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -73,6 +90,7 @@ h4 {
     font-family: "Oswald", sans-serif;
     text-transform: uppercase;
     font-size: 3.5rem;
+    padding: 0;
 }
 
 #logo-outer {
@@ -93,7 +111,7 @@ h4 {
 #gallery,
 #events,
 #contact-us {
-    line-height: 2rem;
+    
     font-size: 2rem;
     
 }
@@ -101,33 +119,6 @@ h4 {
 #about-us p {
     padding: 1px;
     text-align: center;
-}
-
-.horizontal_slider {
-    display: block;
-    width: 100%;
-    overflow-x: scroll;
-    margin-top: 5px;
-    padding: 5px;
-    box-sizing: border-box;
-    background-color: transparent;
-}
-
-.slider_container {
-    display: block;
-    white-space: nowrap;
-}
-
-.item {
-    display: inline-block;
-    margin: 1px;
-}
-
-.item img {
-    border-radius: 5px;
-    width: auto;
-    height: 500px;
-    object-fit: cover;
 }
 
 .contact-box {
@@ -241,17 +232,6 @@ footer {
         margin-left: 1rem;
     }
 
-    .item {
-        display: block;
-        margin: 1px;
-    }
-
-    .item img {
-        width: 100%;
-        height: 300px;
-        object-fit: cover;
-        object-position: 50% 50%;
-    }
     .nav-item a:hover {
         padding: 5px;  
         font-weight: 400;   /*bold effect*/

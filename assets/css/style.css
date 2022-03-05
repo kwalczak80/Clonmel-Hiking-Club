@@ -15,7 +15,7 @@ font-size: 62.5%;
 body {
     background-color: rgb(217, 221, 201);
     font-family: "Lato", sans-serif;
-}
+    }
 
 header {
     position: sticky;
@@ -46,14 +46,14 @@ header {
   .nav-item a:hover {
     color: rgb(41, 177, 41);
     background-color: rgb(55, 83, 74);
-    padding: 2rem;  
+    padding: 10px;  
     font-weight: 900;   /*bold effect*/
   }
   
-  .nav-item:first-child {
+  /*.nav-item:first-child {
     margin-right: auto;
     margin-left: 1rem;
-  }
+  }*/
 
 h2 {
     background-color: #809283;
@@ -93,7 +93,7 @@ h4 {
 #gallery,
 #events,
 #contact-us {
-    /*margin-top: 1px;*/
+    line-height: 2rem;
     font-size: 2rem;
     
 }
@@ -211,33 +211,34 @@ footer {
     border-radius: 10px;
 }
 
+@media screen and (max-width: 1920px) {
+    .nav-item:first-child {
+        margin-right: auto;
+        margin-left: 1rem;
+    }
+      
+}
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 850px) {
 
     #club-name {
-        float: left;
-        margin-left: 3px;
-        letter-spacing: 3px;
-        font-size: 3rem;
+             font-size: 2rem;
     }
 
     .box {
-        width: 99%;
+        width: 32%;
     }
-
+/*
     #menu {
-        font-size: 110%;
-        letter-spacing: 3px;
-        clear: left;
-        float: left;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
+        font-size: 1.5rem;
 
-    #menu li {
-        float: right;
-        margin-right: 15px;
-        list-style-type: none;
+    }*/
+    .nav-item a {
+        font-size: 1.5rem;      }
+
+    .nav-item:first-child {
+        margin-right: auto;
+        margin-left: 1rem;
     }
 
     .item {
@@ -251,34 +252,37 @@ footer {
         object-fit: cover;
         object-position: 50% 50%;
     }
+    .nav-item a:hover {
+        padding: 5px;  
+        font-weight: 400;   /*bold effect*/
+      }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 480px) {
     #club-name {
-        font-size: 1rem;
+        font-size: 2rem;
     }
 
     .box {
-        width: 95%;
+        width: 99%;
     }
-
-    .nav-item a {
-        font-size: 0.5rem;
-        text-decoration: none;
-        letter-spacing: 2px;
-        /*flex-wrap: wrap;*/
-        }
-
-       /* .nav-item:first-child {
-            margin-right: auto;
-            margin-left: 0.3rem;
-          }*/
-          .nav-list {
-            background: rgb(155, 163, 126);
-            margin-left: 2px;
-            /*padding: 0.5rem 0;*/
-            display: flex;
-            justify-content: flex-start;
-            /*align-items: center;*/
+    .nav-list {
+        padding: 10px 0;
+        flex-direction: column;
+      }
+    .nav-item {
+        margin-top: 10px;
+      }
+    
+      .nav-item a {
+        font-size: 1.5rem;
+        margin-bottom: 100px;
+      }
+    
+      .nav-item a:hover {
+        color: rgb(41, 177, 41);
+        padding: 2px;
+        font-weight: 400;
           }
+
 }

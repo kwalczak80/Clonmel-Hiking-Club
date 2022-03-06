@@ -38,12 +38,12 @@ h4 {
 }
 
 #logo-outer {
-    height: 600px;
+    height: 500px;
     width: 100%;
 }
 
 #main-logo {
-    height: 600px;
+    height: 500px;
     width: 100%;
     background: url('../images/main-picture.webp') center center/cover no-repeat;
 }
@@ -251,6 +251,7 @@ footer {
     .nav-list {
         padding: 2px 0;
         flex-direction: column;
+        justify-content: flex-start;
     }
 
     .nav-item {

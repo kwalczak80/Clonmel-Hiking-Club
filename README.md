@@ -38,6 +38,12 @@
 <li><strong>Colour Scheme</strong></li>
 <ul>
 <li>The colors used on the website are to be in line with the theme of hiking in the mountains. The appropriate shade of colors on the page ensures that there are no large contrasts between the individual sections of the page.</li>
+
+![Responsive Design](assets/images/main-website-colors.PNG "Main website colors")
+<ul>
+<li>#9BA37E is the main back-ground color for menu section,</li>
+<li>#D9DDC9 is the main back-ground color for the body of the website,</li>
+<li>##000000 is the main color for all text information displayed on the webpage.</li>
 </ul>
 </ul>
 <ul>

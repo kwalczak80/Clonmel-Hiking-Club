@@ -41,9 +41,9 @@
 
 ![Responsive Design](assets/images/main-website-colors.PNG "Main website colors")
 <ul>
-<li>#9BA37E is the main back-ground color for menu section,</li>
-<li>#D9DDC9 is the main back-ground color for the body of the website,</li>
-<li>##000000 is the main color for all text information displayed on the webpage.</li>
+<li>#9BA37E is the main background color for the menu section,</li>
+<li>#D9DDC9 is the main background color for the body of the website,</li>
+<li>#000000 is the main color for all text information displayed on the webpage.</li>
 </ul>
 </ul>
 <ul>

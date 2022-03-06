@@ -37,25 +37,25 @@
 <ul>
 <li><strong>Colour Scheme</strong></li>
 <ul>
-<li>The colors used on the website are to be in line with the theme of hiking in the mountains. The appropriate shade of colors on the page ensures that there are no large contrasts between the individual sections of the page</li>
+<li>The colors used on the website are to be in line with the theme of hiking in the mountains. The appropriate shade of colors on the page ensures that there are no large contrasts between the individual sections of the page.</li>
 </ul>
 </ul>
 <ul>
 <li><strong>Typography</strong></li>
 <ul>
-<li>The Lato font is the main font used in this project with Oswald as the second font. Both fonts were imported from Google fonts website.</li> 
+<li>The Lato font is the main font used in this project with Oswald as the second font used for club name. Both fonts were imported from Google fonts website.</li> 
 </ul>
 </ul>
 <ul>
 <li><strong>Images</strong></li>
 <ul>
-<li>The photos in the gallery section are a very important part of this site as they allow users to view photos uploaded by other users which can be an inspiration for hiking trips for other people</li>
+<li>The photos in the gallery section are very important part of this website as they allow users to view photos uploaded by other users which can be an inspiration for hiking trips for other people.</li>
 </ul>
 </ul> 
 <ul>
   <li><strong>Information grouping</strong></li>
 <ul>
-<li>The grouping of text information and images on the website is to ensure the most convenient use for visitors. When viewing the page on large screens, text information is grouped into three columns and images can be moved from left to right with the slider. For smaller screens, text information is displayed in a single column, similar to photos</li>
+<li>Grouping text information and images on the website is to ensure the most comfortable use by visitors. When viewing this website on large screens, text information is grouped into three columns. The images from the gallery section are automatically scaled to allow the appropriate view on the screen. For smaller screens, text information is displayed in a single column, similar to photos</li>
   </ul>
   </ul>
   
@@ -64,12 +64,14 @@
   <li><strong>Navigation</strong></li>
 <ul>
 <li>
-The navigation menu is located at the top of the page. The page navigation system consists of club name which is located on the left hand side while the other navigation links are located on the right hand side.</li>
+The navigation menu is located at the top of the page. The page navigation system consists of club name which is located on the left hand side while the other navigation links are located on the right hand side,</li>
 <li>
-Please note that this navigation layout differ (website navigation links) depending on which screen size is displayed
-</li>
+Please note that this navigation layout differ (website navigation links) depending on which screen size the website is displayed,</li>
 <li>
 The navigation bar is very intuitive and easy to use 
+</li>
+<li>
+The navigation bar is at the top of the page at all times to allow visitors to quickly switch between sections of the page 
 </li>
 </ul>
 </ul>
@@ -79,10 +81,10 @@ The navigation bar is very intuitive and easy to use
   <li><strong>About Us</strong></li>
 <ul>
 <li>
-  The About Us section contains basic information about the club
+  The About-Us section contains a basic information about the club,
 </li>
 <li>
-Additionally, this section contains information intended to encourage other people to start their adventure with hiking
+Additionally, this section contains information intended to encourage other people to start their adventure with hiking.
 </li>
 </ul>
 </ul>
@@ -92,10 +94,10 @@ Additionally, this section contains information intended to encourage other peop
   <li><strong>Gallery</strong></li>
 <ul>
 <li>
- The content of this section is showing photos taken by the club members from their hiking trips
+ The content of this section is showing photos taken by the club members from their hiking trips,
 </li>
 <li>
-This section can be very inspiring for both new and existing club members
+This section can be very inspiring for both new and existing club members.
 </li>
 </ul>
 </ul>
@@ -105,13 +107,13 @@ This section can be very inspiring for both new and existing club members
   <li><strong>Upcoming events</strong></li>
 <ul>
 <li>
- The content of this section allows club members to find information about upcoming hiking trips
+ The content of this section allows club members or just visitors to find information about upcoming hiking trips,
 </li>
 <li>
-Information in this section is uploaded in advance to make sure that users can plan their hiking trip accordingly
+Information in this section is uploaded in advance to make sure that people can plan their hiking trip accordingly,
 </li>
 <li>
-Interactive map allows users to check where hikng hiking trip will start
+Interactive map allows users to check where the hikng hiking trip will start.
 </li>
 </ul>
 </ul>
@@ -121,10 +123,10 @@ Interactive map allows users to check where hikng hiking trip will start
   <li><strong>Contact Us</strong></li>
 <ul>
 <li>
- This section allows users to send a message with their queries
+ This section allows users to send a message with their queries,
 </li>
 <li>
-Relevant information must be provided in order to sent message
+Relevant information must be provided in order to sent message i.e. All sections of the form must be fill in order to send message.
 </li>
 </ul>
 </ul>
@@ -142,7 +144,7 @@ Relevant information must be provided in order to sent message
 # **Testing**
 <ul>
 <li>
-The website has been tested using the browsers listed below and it's confirmed to work correctly on each one of them
+The website was tested using the browsers listed below and it's confirmed to work correctly on each one of them:
 <ul>
 <li>
   Chrome
@@ -199,6 +201,11 @@ It is confirmed that all sections are all readable and easy to understand.
 <li><a href="https://convert-dpi.com/">Online DPI Converter</a></li>
 <ul>
 <li>Online DPI Converter was used to change DPI ratio of the images downloaded from Pexels website</li>
+</ul>
+<li><a href="https://ezgif.com/jpg-to-webp">Online JPG to WEBP Converter</a></li>
+<ul>
+<li>Online JPG to WEBP Converter was used to change images type from JPG to WEBP</li>
+</ul>
 </ol>
 <hr>
 
@@ -218,11 +225,11 @@ It is confirmed that all sections are all readable and easy to understand.
 When project was deployed to Github I noticed that images in gallery section were not displayed correctly. To fix the issue I went to GitPod application and I right clicked on each picture to obtain a copy of relative path. Once the code was updated and pushed to Github this problem was no longer an issue.
 </li>
 <li>
-During Lighthouse testing the performance result was quite low. This was related to size of the pictures displayed in the gallery section. In order to improve site overall performence the following steps were performed
+During the Lighthouse testing I discovered that the website performance result was quite low(69%). This was related to size of the pictures(static) displayed in the gallery section. In order to improve the website overall performance the following steps were performed:
 <ul>
 <li>Size all pictures was reduced to 600x400px,</li>
 <li>DPI was reduced from 300 to 72,</li>
-<li>All pictures were converted from JPG to WEBP using tools available online</li>
+<li>All pictures were converted from JPG to WEBP using WEBP Converter</li>
 </ul>
 
 </ul>
@@ -254,10 +261,10 @@ All the images that are used on the Clonmel Hiking Club website were downloaded 
 <ol type="1">
 <li>Log in to GitHub</li>
 <li>On the left hand side, click the Clonmel Hiking Club project</li>
-<li>At the top of page locate the "Settings" button in the menu section</li>
-<li>Scroll down to find out "GitHub Pages" section and the click on "Check it out here!"</li>
-<li>Under "Source", select "Main" from dropdown branch menu</li>
-<li>Click "Save" and the page will refresh automatically.</li>
+<li>At the top of page locate the <strong>Settings</strong> button in the menu section</li>
+<li>Scroll down to find out <strong>GitHub Pages</strong> section and the click on "Check it out here!"</li>
+<li>Under <strong>Source</strong>, select <strong>Main</strong> from dropdown branch menu</li>
+<li>Click <strong>Save</strong> and the page will refresh automatically.</li>
 <li>Scroll back down through the page to locate published site <a href="https://kwalczak80.github.io/Clonmel-Hiking-Club/">link</a> in the "GitHub Pages" section.</li></ol>
 <hr>
 

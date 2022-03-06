@@ -3,7 +3,7 @@
 <p>Welcome to the official Clonmel Hiking Club website.
   The website is designed to provide information about hiking club in Clonmel area. Website consists of sections where visitors can find relevant infomation about the club, check the new pictures in the gallery, find out about upcoming events and to contact the club if thay have any queries.</p>
   
-![Responsive Design](assets/images/responsive-design.PNG "Responsive Design of Clonmel Hiking Club website")
+![Responsive Design](docs/responsive-design.PNG "Responsive Design of Clonmel Hiking Club website")
 <hr>
 
 # **User Experience (UX)**
@@ -39,7 +39,7 @@
 <ul>
 <li>The colors used on the website are to be in line with the theme of hiking in the mountains. The appropriate shade of colors on the page ensures that there are no large contrasts between the individual sections of the page.</li>
 
-![Responsive Design](assets/images/main-website-colors.PNG "Main website colors")
+![Responsive Design](docs/main-website-colors.PNG "Main website colors")
 <ul>
 <li>#9BA37E is the main background color for the menu section,</li>
 <li>#D9DDC9 is the main background color for the body of the website,</li>
@@ -82,7 +82,7 @@ The navigation bar is at the top of the page at all times to allow visitors to q
 </ul>
 </ul>
 
-![Navigation](assets/images/navigation-bar.PNG "Navigation Bar")
+![Navigation](docs/navigation-bar.PNG "Navigation Bar")
 <ul>
   <li><strong>About Us</strong></li>
 <ul>
@@ -95,7 +95,7 @@ Additionally, this section contains information intended to encourage other peop
 </ul>
 </ul>
 
-![Navigation](assets/images/about-us-section.PNG "About Us section")
+![Navigation](docs/about-us-section.PNG "About Us section")
 <ul>
   <li><strong>Gallery</strong></li>
 <ul>
@@ -108,7 +108,7 @@ This section can be very inspiring for both new and existing club members.
 </ul>
 </ul>
 
-![Navigation](assets/images/gallery-section.PNG "Gallery sectionn Bar")
+![Navigation](docs/gallery-section.PNG "Gallery sectionn Bar")
 <ul>
   <li><strong>Upcoming events</strong></li>
 <ul>
@@ -124,7 +124,7 @@ Interactive map allows users to check where the hikng hiking trip will start.
 </ul>
 </ul>
 
-![Navigation](assets/images/upcoming-events.PNG "Upcoming Events section")
+![Navigation](docs/upcoming-events.PNG "Upcoming Events section")
 <ul>
   <li><strong>Contact Us</strong></li>
 <ul>
@@ -137,7 +137,7 @@ Relevant information must be provided in order to sent message i.e. All sections
 </ul>
 </ul>
 
-![Navigation](assets/images/contact-us.PNG "Contact Us section")
+![Navigation](docs/contact-us.PNG "Contact Us section")
 <ul>
   <li>Responsive design</li>
   <ul>
@@ -225,7 +225,7 @@ It is confirmed that all sections are all readable and easy to understand.
 <li>CSS - No errors were found during the code validation process when using the official (Jigsaw) Validator.</li>
 </ul>
   
-  ![Navigation](assets/images/accessibility-performance.PNG "Navigation Bar")
+  ![Navigation](docs/accessibility-performance.PNG "Navigation Bar")
 <hr>
 
 # **Bugs**

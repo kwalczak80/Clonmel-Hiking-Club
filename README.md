@@ -6,6 +6,33 @@
 ![Responsive Design](assets/images/responsive-design.PNG "Responsive Design of Clonmel Hiking Club website")
 <hr>
 
+# **User Experience (UX)**
+<ul>
+<li><h3>User Stories</h3></li>
+  <ul><li><strong>First-time Visitor Goals</strong>
+<ul>
+    <li>As a first-time visitor, I would like to easily understand what the website is about and easely navigate throughout its content,</li>
+<li>As a first-time visitor, I would like read information about the Clonmel Hiking Club and find other interesting information I'm looking for.
+</ul>
+</ul>
+
+<ul><li><strong>Returning Visitor Goals</strong>
+<ul>
+    <li>As a returning visitor, i would like to find more information about the club in social media channels,</li>
+  <li>As a returning visitor, i want to find/use a contact form page.</li>
+  </ul>
+</ul>
+<ul><li><strong>Frequent User Goals</strong>
+<ul>
+    <li>As a frequent user, I want to check if the gallery has been updated with new photos that might inspire for hiking trips,</li>
+  <li>As a frequent user, I want to find information about upcoming events that might be suitable for me,</li>
+  <li>As a frequent user, I want to use contact form to get more information about the topic I'm interested about.</li>
+  </ul>
+</ul>  
+</ul>
+</ul>
+</ul>
+
 # **Design**
 <ul>
 <li><strong>Colour Scheme</strong></li>

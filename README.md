@@ -61,7 +61,7 @@
 <ul>
   <li><strong>Information grouping</strong></li>
 <ul>
-<li>Grouping text information and images on the website is to ensure the most comfortable use by visitors. When viewing this website on large screens, text information is grouped into three columns. The images from the gallery section are automatically scaled to allow the appropriate view on the screen. For smaller screens, text information is displayed in a single column, similar to photos</li>
+<li>Grouping text information and images on the website is to ensure the most comfortable use by visitors. When viewing this website on large screens, text information is grouped into three columns. The images from the gallery section are automatically scaled to allow the appropriate view on the screen. For smaller screens, text information is displayed in a single column, similar to photos.</li>
   </ul>
   </ul>
   
@@ -74,10 +74,10 @@ The navigation menu is located at the top of the page. The page navigation syste
 <li>
 Please note that this navigation layout differ (website navigation links) depending on which screen size the website is displayed,</li>
 <li>
-The navigation bar is very intuitive and easy to use 
+The navigation bar is very intuitive and easy to use, 
 </li>
 <li>
-The navigation bar is at the top of the page at all times to allow visitors to quickly switch between sections of the page 
+The navigation bar is at the top of the page at all times to allow visitors to quickly switch between sections of the page.
 </li>
 </ul>
 </ul>
@@ -211,6 +211,10 @@ It is confirmed that all sections are all readable and easy to understand.
 <li><a href="https://ezgif.com/jpg-to-webp">Online JPG to WEBP Converter</a></li>
 <ul>
 <li>Online JPG to WEBP Converter was used to change images type from JPG to WEBP</li>
+</ul>
+<li><a href="https://coolors.co">The super fast color palettes generator</a></li>
+<ul>
+<li>An online tool was used to determine the appropriate color scheme for the website</li>
 </ul>
 </ol>
 <hr>

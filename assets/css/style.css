@@ -38,12 +38,12 @@ h4 {
 }
 
 #logo-outer {
-    height: 500px;
+    height: 400px;
     width: 100%;
 }
 
 #main-logo {
-    height: 500px;
+    height: 400px;
     width: 100%;
     background: url('../images/main-picture.webp') center center/cover no-repeat;
 }
@@ -90,8 +90,7 @@ header {
     background-color: rgb(55, 83, 74);
     padding: 10px;
     font-weight: 900;
-    /*bold effect*/
-}
+    }
 
 /*About Us section*/
 
@@ -103,7 +102,7 @@ header {
 .container {
     border: 1px solid #000;
     margin: 1px;
-    padding: 10px 0;
+    padding: 5px 0;
     text-align: center;
 }
 
@@ -111,10 +110,11 @@ header {
     height: auto;
     width: 32%;
     display: inline-block;
-    margin: auto;
+    /*margin: auto;*/
     border: 2px #2b2727 solid;
     vertical-align: top;
-    margin-bottom: 5px;
+    margin: 2px 0;
+    /*margin-bottom: 5px;*/
     border-radius: 10px;
 }
 

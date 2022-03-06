@@ -173,7 +173,7 @@ It is confirmed that all sections are all readable and easy to understand.
 # **Languages Used**
 <p>The following languages have been used during design process:</p>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/HTML5">HTML5</a></li>
+<li><a href="https://en.wikipedia.org/wiki/HTML5">HTML</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a></li>
 </ul>
 <hr>
@@ -216,7 +216,16 @@ It is confirmed that all sections are all readable and easy to understand.
 <ul>
 <li>
 When project was deployed to Github I noticed that images in gallery section were not displayed correctly. To fix the issue I went to GitPod application and I right clicked on each picture to obtain a copy of relative path. Once the code was updated and pushed to Github this problem was no longer an issue.
-</li></ul>
+</li>
+<li>
+During Lighthouse testing the performance result was quite low. This was related to size of the pictures displayed in the gallery section. In order to improve site overall performence the following steps were performed
+<ul>
+<li>Size all pictures was reduced to 600x400px,</li>
+<li>DPI was reduced from 300 to 72,</li>
+<li>All pictures were converted from JPG to WEBP using tools available online</li>
+</ul>
+
+</ul>
 <hr>
   
 # **Media**
@@ -251,3 +260,9 @@ All the images that are used on the Clonmel Hiking Club website were downloaded 
 <li>Click "Save" and the page will refresh automatically.</li>
 <li>Scroll back down through the page to locate published site <a href="https://kwalczak80.github.io/Clonmel-Hiking-Club/">link</a> in the "GitHub Pages" section.</li></ol>
 <hr>
+
+# **Acknowledgements**
+<ul>
+<li>My Mentor Simen Daehlin for continuous helpful feedback.</li>
+<li>Code Institute's Slack community for their support.</li>
+</ul>

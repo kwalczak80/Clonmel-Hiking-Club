@@ -4,74 +4,18 @@
     margin: 0;
     padding: 0;
     border: none;
-    /*color: #3a3a3a;*/
-    color:#000;
+    color: #000;
 }
 
 html {
-font-size: 62.5%;
-scroll-padding-top: 54px;
+    font-size: 62.5%;
+    scroll-padding-top: 54px;
 }
 
 body {
     background-color: rgb(217, 221, 201);
     font-family: "Lato", sans-serif;
-    
-    }
-
-    .grit-wrapper{
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-        
-    }
-    img{
-        width: 100%;
-        border-radius: 5px;
-    }
-    
-    .grit-box {
-        padding: 5px;
-    }
-
-
-header {
-    position: sticky;
-    top:0;
-    box-sizing: border-box;
-    z-index: 1;
-  }
-
-  .nav-list {
-    background: rgb(155, 163, 126);
-    /*padding: 5px 0;*/
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-  }
-  
-  .nav-item {
-    list-style: none;
-    margin-right: 2rem;
-  }
-  
-  .nav-item a {
-    font-size: 2rem;
-    text-decoration: none;
-    letter-spacing: 2px;
-    }
-  
-  .nav-item a:hover {
-    color: rgb(41, 177, 41);
-    background-color: rgb(55, 83, 74);
-    padding: 10px;  
-    font-weight: 900;   /*bold effect*/
-  }
-  
-  /*.nav-item:first-child {
-    margin-right: auto;
-    margin-left: 1rem;
-  }*/
-
+}
 h2 {
     background-color: #809283;
     padding: 3px;
@@ -90,19 +34,16 @@ h4 {
     font-family: "Oswald", sans-serif;
     text-transform: uppercase;
     font-size: 3.5rem;
-    padding: 0;
+    /*padding: 0;*/
 }
 
 #logo-outer {
-    height: 500px;
+    height: 600px;
     width: 100%;
-    /*overflow: hidden;
-    position: relative;*/
 }
 
 #main-logo {
-    /*overflow: hidden;*/
-    height: 500px;
+    height: 600px;
     width: 100%;
     background: url('../images/main-picture.webp') center center/cover no-repeat;
 }
@@ -111,13 +52,99 @@ h4 {
 #gallery,
 #events,
 #contact-us {
-    
+    padding-bottom: 5px;
     font-size: 2rem;
-    
+
 }
+
+
+/*Menu section*/
+header {
+    position: sticky;
+    top: 0;
+    box-sizing: border-box;
+    z-index: 1;
+}
+
+.nav-list {
+    background: rgb(155, 163, 126);
+    /*padding: 5px 0;*/
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.nav-item {
+    list-style: none;
+    margin-right: 2rem;
+}
+
+.nav-item a {
+    font-size: 2rem;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+
+.nav-item a:hover {
+    color: rgb(41, 177, 41);
+    background-color: rgb(55, 83, 74);
+    padding: 10px;
+    font-weight: 900;
+    /*bold effect*/
+}
+
+/*About Us section*/
 
 #about-us p {
     padding: 1px;
+    text-align: center;
+}
+
+.container {
+    border: 1px solid #000;
+    margin: 1px;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.box {
+    height: auto;
+    width: 32%;
+    display: inline-block;
+    margin: auto;
+    border: 2px #2b2727 solid;
+    vertical-align: top;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+/*Gallery section*/
+
+.grit-wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+
+}
+
+img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.grit-box {
+    padding: 5px;
+}
+
+/*Upcoming Events section*/
+
+#events-map {
+    width: 100%;
+    height: 300px;
+}
+
+/* Contact Us section*/
+
+form {
     text-align: center;
 }
 
@@ -126,15 +153,6 @@ h4 {
     max-width: 400px;
     margin: 0 auto;
     border: 1px solid #000;
-}
-
-#events-map {
-    width: 100%;
-    height: 300px;
-}
-
-form {
-    text-align: center;
 }
 
 .input-field {
@@ -165,6 +183,8 @@ form {
     margin-bottom: 10px;
 }
 
+/* Footer with social links section*/
+
 footer {
     height: 150px;
 }
@@ -178,54 +198,35 @@ footer {
 }
 
 .social-networks i {
-    font-size: 160%;
+    font-size: 2.5rem;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a;
+    /*color: ;*/
 }
 
-.container {
-    border: 1px solid #000;
-    margin: 1px;
-    padding: 10px 0;
-    text-align: center;
-}
-
-.box {
-    height: auto;
-    width: 32%;
-    display: inline-block;
-    margin: auto;
-    border: 2px #2b2727 solid;
-    vertical-align: top;
-    margin-bottom: 5px;
-    border-radius: 10px;
-}
+/* Media query section*/
 
 @media screen and (max-width: 1920px) {
     .nav-item:first-child {
         margin-right: auto;
         margin-left: 1rem;
     }
-      
+
 }
 
 @media screen and (max-width: 850px) {
 
     #club-name {
-             font-size: 2rem;
+        font-size: 2rem;
     }
 
     .box {
         width: 32%;
     }
-/*
-    #menu {
-        font-size: 1.5rem;
 
-    }*/
     .nav-item a {
-        font-size: 1.5rem;      }
+        font-size: 1.5rem;
+    }
 
     .nav-item:first-child {
         margin-right: auto;
@@ -233,9 +234,9 @@ footer {
     }
 
     .nav-item a:hover {
-        padding: 5px;  
-        font-weight: 400;   /*bold effect*/
-      }
+        padding: 5px;
+        font-weight: 400;
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -246,23 +247,25 @@ footer {
     .box {
         width: 99%;
     }
+
     .nav-list {
-        padding: 10px 0;
+        padding: 2px 0;
         flex-direction: column;
-      }
+    }
+
     .nav-item {
-        margin-top: 10px;
-      }
-    
-      .nav-item a {
+        margin-top: 5px;
+    }
+
+    .nav-item a {
         font-size: 1.5rem;
-        margin-bottom: 100px;
-      }
-    
-      .nav-item a:hover {
+        /*margin-bottom: 100px;*/
+    }
+
+    .nav-item a:hover {
         color: rgb(41, 177, 41);
         padding: 2px;
-        font-weight: 400;
-          }
+        font-weight: 500;
+    }
 
 }

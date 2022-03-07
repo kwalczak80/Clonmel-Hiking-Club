@@ -18,12 +18,13 @@ body {
     font-family: "Lato", sans-serif;
 }
 
+
 h2 {
     background-color: #809283;
-    padding: 3px;
+    /*padding: 3px;*/
     text-align: center;
-    border-radius: 0.5rem;
-    margin: 1px;
+    /*border-radius: 0.5rem;*/
+    /*margin: 1px;*/
     text-transform: uppercase;
 }
 
@@ -35,7 +36,7 @@ header {
     position: sticky;
     top: 0;
     box-sizing: border-box;
-    z-index: 1;
+    z-index: 9999;
 }
 
 form {
@@ -78,7 +79,7 @@ form {
 .nav-item {
     list-style: none;
     margin-right: 2rem;
-}
+    }
 
 .nav-item a {
     font-size: 2rem;
@@ -89,7 +90,7 @@ form {
 .nav-item a:hover {
     color: rgb(41, 177, 41);
     background-color: rgb(55, 83, 74);
-    padding: 10px;
+    /*padding: 3px;*/
     font-weight: 900;
 }
 
@@ -210,7 +211,11 @@ footer {
     #club-name {
         font-size: 2rem;
     }
-
+/*
+    section {
+        padding: 3px;
+    }
+*/
     .box {
         width: 99%;
     }

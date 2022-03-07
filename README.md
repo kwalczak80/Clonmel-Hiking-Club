@@ -214,7 +214,7 @@ It is confirmed that all sections are all readable and easy to understand.
 </ul>
 <li><a href="https://convert-dpi.com/">Online DPI Converter</a></li>
 <ul>
-<li>Online DPI Converter was used to change DPI ratio of the images downloaded from Pexels website</li>
+<li>An online DPI Converter was used to change DPI ratio of the images downloaded from Pexels website</li>
 </ul>
 <li><a href="https://ezgif.com/jpg-to-webp">Online JPG to WEBP Converter</a></li>
 <ul>
@@ -223,6 +223,10 @@ It is confirmed that all sections are all readable and easy to understand.
 <li><a href="https://coolors.co">The super fast color palettes generator</a></li>
 <ul>
 <li>An online tool was used to determine the appropriate color scheme for the website</li>
+</ul>
+<li><a href="https://balsamiq.com">UI Design</a></li>
+<ul>
+<li>An online tool was used to visual draft of the Clonmel Hinikg Club webpage</li>
 </ul>
 </ol>
 <hr>

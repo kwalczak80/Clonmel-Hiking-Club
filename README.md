@@ -35,8 +35,12 @@
 
 # **Wireframe**
 <ul>
-  <li>Balsamiq softfare was used to create initial layout of the Clonmel Hiking Club webpage</li>
+  <li>Balsamiq softfare was used to create the initial layout of the Clonmel Hiking Club webpage</li>
+  <ul>
   <li>The file in PDF format can be found <a href="wireframe/clonmel- hiking-club-wireframe.pdf">here</a></li>
+  </ul>
+</ul>
+
 # **Design**
 <ul>
 <li><strong>Colour Scheme</strong></li>

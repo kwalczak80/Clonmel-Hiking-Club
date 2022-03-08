@@ -165,7 +165,7 @@ img {
     height: 4rem;
     margin-top: 2rem;
     padding-left: 0.5rem;
-    padding-right: 0.5rem;
+    /*padding-right: 0.5rem;*/
     border: 1px solid #777;
     border-radius: 1rem;
     outline: none;
@@ -216,7 +216,7 @@ footer {
 @media screen and (min-width: 320px) and (max-width: 520px) {
     
     html {
-        scroll-padding-top: 120px;
+        scroll-padding-top: 136px;
          }
     #club-name {
         font-size: 2rem;

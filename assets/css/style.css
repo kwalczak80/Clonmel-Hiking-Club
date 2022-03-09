@@ -9,7 +9,7 @@
 
 html {
     font-size: 62.5%;
-    scroll-padding-top: 54px;
+    scroll-padding-top: 5.4rem;
     scroll-behavior: smooth;
 }
 
@@ -18,12 +18,15 @@ body {
     font-family: "Lato", sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
 
 h2 {
     background-color: #809283;
     text-align: center;
     text-transform: uppercase;
-    margin-bottom: 5px;
+    margin-bottom: 0.5rem;
 }
 
 header {
@@ -33,11 +36,6 @@ header {
     z-index: 9999;
 }
 
-/*
-form {
-    text-align: center;
-}
-*/
 #club-name {
     font-family: "Oswald", sans-serif;
     text-transform: uppercase;
@@ -46,19 +44,19 @@ form {
 
 #logo-outer {
     width: 100%;
-    height: 400px;
-    
+    height: 40rem;
+
 }
 
 #main-logo {
     width: 100%;
-    height: 400px;
+    height: 40rem;
     background: url('../images/main-picture.webp') center center/cover no-repeat;
 }
 
 .common-section {
     font-size: 2rem;
-    }
+}
 
 /*Menu section*/
 
@@ -72,11 +70,10 @@ form {
 .nav-item {
     list-style: none;
     margin-right: 2rem;
-    }
+}
 
 .nav-item a {
     font-size: 2rem;
-    text-decoration: none;
     letter-spacing: 2px;
 }
 
@@ -96,7 +93,7 @@ form {
 .container {
     border: 1px solid #000;
     margin: 1px;
-    padding: 5px 0;
+    padding: 0.5rem 0;
     text-align: center;
 }
 
@@ -110,21 +107,23 @@ form {
     border-radius: 1rem;
 }
 
-/*Gallery section*/
+/*Upcoming-Events section*/
 
-.event-details {
+.information-list {
     display: flex;
-	flex-direction: column;
-	justify-content: flex-start;
-    }
+    flex-direction: column;
+    justify-content: flex-start;
+    list-style: none;
+}
 
-.event-item{
+.information-item {
     font-size: 2.5rem;
     font-weight: bold;
     text-align: center;
     padding-bottom: 0.5rem;
 }
 
+/*Gallery section*/
 .grit-wrapper {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
@@ -139,11 +138,9 @@ img {
     padding: 0.5rem;
 }
 
-/*Upcoming-Events section*/
-
 #events-map {
     width: 100%;
-    height: 300px;
+    height: 30rem;
 }
 
 /* Contact Us section*/
@@ -157,7 +154,7 @@ img {
     box-sizing: border-box;
     border: 1px solid #000;
     background-color: rgba(145, 135, 135, 0.2);
- 
+
 }
 
 .input-field {
@@ -165,7 +162,6 @@ img {
     height: 4rem;
     margin-top: 2rem;
     padding-left: 0.5rem;
-    /*padding-right: 0.5rem;*/
     border: 1px solid #777;
     border-radius: 1rem;
     outline: none;
@@ -178,7 +174,6 @@ img {
 }
 
 .button {
-    /*width: 20%;*/
     margin: 0 auto;
     border-radius: 1rem;
     color: #fff;
@@ -186,9 +181,7 @@ img {
     padding: 1rem;
     background-color: #3a3a3a;
     font-size: 1.5rem;
-    border: none;
     cursor: pointer;
-    /*margin-bottom: 1rem;*/
 }
 
 /* Footer with social links section*/
@@ -211,21 +204,36 @@ footer {
     padding: 5%;
 }
 
+/*Form submission confirmation page*/
+
+.button a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button-container {
+    margin-top: 2rem;
+}
+
+.nav-bar {
+    width: 100%;
+    background: rgb(155, 163, 126);
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
 /* Media query section*/
 
 @media screen and (min-width: 320px) and (max-width: 520px) {
-    
+
     html {
         scroll-padding-top: 136px;
-         }
+    }
+
     #club-name {
         font-size: 2rem;
     }
-/*
-    section {
-        padding: 3px;
-    }
-*/
+
     .box {
         width: 99%;
     }
@@ -252,6 +260,9 @@ footer {
 
 @media screen and (min-width: 521px) and (max-width: 1000px) {
 
+    html {
+        scroll-padding-top: 3rem;
+    }
     #club-name {
         font-size: 2rem;
     }
@@ -283,6 +294,3 @@ footer {
     }
 
 }
-
-
-

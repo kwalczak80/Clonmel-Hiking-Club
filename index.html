@@ -156,11 +156,11 @@
     </section>
     <section id="events" class="common-section">
         <h2>Upcoming Events</h2>
-        <ul class="event-details">
-            <li class="event-item">Mahon Falls Walk</li>
-            <li class="event-item">Start: 09:00am</li>
-            <li class="event-item">26 May 2022 Mahon Falls Car Park</li>
-            <li class="event-item">Estimated time: 4.5 hrs</li>
+        <ul class="information-list">
+            <li class="information-item">Mahon Falls Walk</li>
+            <li class="information-item">Start: 09:00am</li>
+            <li class="information-item">26 May 2022 Mahon Falls Car Park</li>
+            <li class="information-item">Estimated time: 4.5 hrs</li>
         </ul>
         <iframe id="events-map" title="Events Map"
             src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=mahon%20falls%20car%20park+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
@@ -170,10 +170,13 @@
         <h2>Contact Us</h2>
         <div class="contact-box">
             <form action="thank-you.html">
-                <input type="text" class="input-field" placeholder="Your Name" required>
-                <input type="text" class="input-field" placeholder="Your Email" required>
+                <label for="fname"></label>
+                <input id="fname" type="text" class="input-field" placeholder="Your Name" name="full_name" required>
+                <label for="email"></label>
+                <input id="email" type="email" class="input-field" placeholder="Your Email" name="email" required>
                 <input type="text" class="input-field" placeholder="Subject" required>
-                <textarea class="input-field textarea-field" placeholder="Your Message" required></textarea>
+                <label for="message"></label>
+                <textarea id="message" class="input-field textarea-field" placeholder="Your Message" name="message" required></textarea>
                 <button type="submit" class="button">Send message</button>
             </form>
         </div>

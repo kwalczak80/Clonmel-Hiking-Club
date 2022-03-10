@@ -152,6 +152,17 @@
 ![Navigation](docs/contact-us.PNG "Contact Us section")
 
 ![Navigation](docs/contact-form-submission-confirmation.PNG "Contact form submission confirmation")
+
+  <li><strong>Social Media section</strong></li>
+<ul>
+<li>This section allows users to open the club social media channels,</li>
+<li>There is a four different social media platforms that users can chose from,</li>
+<li>On social media channels users can find even more information about the club, events, etc.</li>
+</ul>
+</ul>
+
+![Navigation](docs/social-media-channels.PNG "Social media channels")
+
 <hr>
 
 # **Responsive design**
@@ -183,7 +194,7 @@ The website was tested using the browsers listed below and it's confirmed to wor
 </ul>
 </li>
 <li>
-The website was also viewed on a variety of different devices such as Desktop, Laptop, iPhone 7, iPhone 8, iPhone X, iPhone 12, Google Pixel 4
+The website was also viewed on a variety of different devices such as Desktop, Laptop, iPhone 7, iPhone 8, iPhone X, iPhone 12, Google Pixel 4a
 </li>
 <li>
 It is confirmed that the website is fully operational and it's design allows users for easy navigation. 
@@ -243,6 +254,7 @@ It is confirmed that all sections are all readable and easy to understand.
 <ul>
 <li>HTML - No errors were found during the code validation process when using the official W3C Validator.</li>
 <li>CSS - No errors were found during the code validation process when using the official (Jigsaw) Validator.</li>
+<li>The Lighthouse tool was used to access the website accessibility and the results are shown below</li>
 </ul>
   
   ![Navigation](docs/accessibility-performance.PNG "Navigation Bar")
@@ -297,11 +309,11 @@ All the images that are used on the Clonmel Hiking Club website were downloaded 
 <li>Scroll down to find out <strong>GitHub Pages</strong> section and click on <strong>Check it out here!</strong></li>
 <li>Under <strong>Source</strong>, select <strong>Main</strong> from dropdown branch menu</li>
 <li>Click <strong>Save</strong> and the page will refresh automatically.</li>
-<li>Scroll back down through the page to locate published site <a href="https://kwalczak80.github.io/Clonmel-Hiking-Club/">link</a> in the "GitHub Pages" section.</li></ol>
+<li>Scroll back down through the page to locate published <a href="https://kwalczak80.github.io/Clonmel-Hiking-Club/">Clonme Hinking Club </a>website in the "GitHub Pages" section.</li></ol>
 <hr>
 
 # **Acknowledgements**
 <ul>
-<li>My Mentor Simen Daehlin for continuous helpful feedback.</li>
-<li>Code Institute's Slack community for their support.</li>
+<li>My Mentor <a href="https://github.com/Eventyret">Simen Daehlin</a> for continuous helpful feedback.</li>
+<li>Code Institute's <a href="https://app.slack.com/client/">Slack</a> community for their support.</li>
 </ul>

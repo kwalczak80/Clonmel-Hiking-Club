@@ -79,7 +79,8 @@
 <ul>
 <li><strong>Typography</strong></li>
 <ul>
-<li>The Lato font is the main font used in this project with Oswald as the second font used for club name. Both fonts were imported from Google fonts website.</li> 
+<li>I vistied <a href="https://fonts.google.com/">Google fonts </a> website to explore available font options for my project. After consideration two font types were selected as appropirate.</li>
+<li>I decided to use <a href="https://fonts.google.com/?query=Lato">Lato</a> font as the main font in this project with <a href="https://fonts.google.com/?query=oswald">Oswald</a> as the second font used for the club name. Both fonts were imported from Google fonts website.</li> 
 </ul>
 </ul>
 <ul>

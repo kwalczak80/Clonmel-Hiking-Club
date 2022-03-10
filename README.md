@@ -116,7 +116,7 @@
   <li><strong>About Us</strong></li>
 <ul>
 <li>The About-Us section contains basic information about the club,</li>
-<li>Additionally, this section contains information intended to encourage other people to start their adventure with hiking.</li>
+<li>Additionally this section contains information intended to encourage other people to start their adventure with hiking.</li>
 </ul>
 </ul>
 
@@ -124,7 +124,7 @@
 <ul>
   <li><strong>Gallery</strong></li>
 <ul>
-<li> The content of this section is showing the photos taken by the club members from their hiking trips,</li>
+<li>The content of this section is showing the photos taken by the club members from their hiking trips,</li>
 <li>This section can be very inspiring for both new and existing club members.</li>
 </ul>
 </ul>
@@ -144,7 +144,7 @@
   <li><strong>Contact Us</strong></li>
 <ul>
 <li>This section allows users to send a message with their queries,</li>
-<li>Relevant information must be provided in order to send message i.e. All sections of the form must be fill in order to send message.</li>
+<li>Relevant information must be provided in order to send message i.e., all sections of the form must be filled in order to send a message.</li>
 <li>After the user clicks on <strong>Send message</strong> button a confirmation page will be open(in the same window) informing that their message has been sent</li>
 </ul>
 </ul>
@@ -156,7 +156,7 @@
   <li><strong>Social Media section</strong></li>
 <ul>
 <li>This section allows users to open the club social media channels,</li>
-<li>There is a four different social media platforms that users can chose from,</li>
+<li>There are four different social media platforms that users can chose from,</li>
 <li>On social media channels users can find even more information about the club, events, etc.</li>
 </ul>
 </ul>

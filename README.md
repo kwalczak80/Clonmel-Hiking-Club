@@ -100,20 +100,18 @@
 <ul>
   <li><strong>Navigation</strong></li>
 <ul>
-<li>
-The navigation menu is located at the top of the page. The page navigation system consists of club name which is located on the left hand side while the other navigation links are located on the right hand side,</li>
-<li>
-Please note that this navigation layout differ (website navigation links) depending on which screen size the website is displayed,</li>
-<li>
-The navigation bar is very intuitive and easy to use, 
-</li>
-<li>
-The navigation bar is at the top of the page at all times to allow visitors to quickly switch between sections of the page.
-</li>
+<li>The navigation menu is located at the top of the page. The page navigation system consists of the club name which is located on the left hand side while the other navigation links are located on the right hand side,</li>
+<li>The navigation bar is very intuitive and easy to use,</li>
+<li>The Navigation bar is positioned on top of the page(sticky) at all the time to allow user quickly move between individual sections of the page,</li>
+<li>The navigation menu layout differ (website navigation links) depending on which screen size the website is displayed,</li>
+<li>Once the relevant menu link is clicked by the user the website will automatically scroll up or scroll down in order to display selected section.</li>
 </ul>
 </ul>
 
 ![Navigation](docs/navigation-bar.PNG "Navigation Bar")
+
+![Navigation](docs/navigation-bar-mobile.PNG "Navigation Bar Mobile")
+
 <ul>
   <li><strong>About Us</strong></li>
 <ul>
@@ -131,7 +129,7 @@ Additionally, this section contains information intended to encourage other peop
   <li><strong>Gallery</strong></li>
 <ul>
 <li>
- The content of this section is showing photos taken by the club members from their hiking trips,
+ The content of this section is showing the photos taken by the club members from their hiking trips,
 </li>
 <li>
 This section can be very inspiring for both new and existing club members.

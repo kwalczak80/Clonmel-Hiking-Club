@@ -126,7 +126,7 @@ header {
 /*Gallery section*/
 .grit-wrapper {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
 }
 
 img {
@@ -143,7 +143,7 @@ img {
     height: 30rem;
 }
 
-/* Contact Us section*/
+/*Contact Us section*/
 
 .contact-box {
     margin: 0px auto 0;
@@ -154,7 +154,6 @@ img {
     box-sizing: border-box;
     border: 1px solid #000;
     background-color: rgba(145, 135, 135, 0.2);
-
 }
 
 .input-field {
@@ -205,7 +204,7 @@ footer {
     padding: 5%;
 }
 
-/*Form submission confirmation page*/
+/*Contact form section*/
 
 .button a {
     text-decoration: none;

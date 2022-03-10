@@ -165,6 +165,7 @@ img {
     border: 1px solid #777;
     border-radius: 1rem;
     outline: none;
+    background-color: #EBEBEC;
 }
 
 .textarea-field {

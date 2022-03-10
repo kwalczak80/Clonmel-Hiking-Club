@@ -55,9 +55,9 @@
 <ul>
   <li>I used Balsamiq softfare to create the initial layout of the Clonmel Hiking Club webpage. Please find my wireframes below</li>
   <ul>
-  <li>Desktop wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-desktop">here</a></li>
-  <li>Tablet wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-tablet">here</a></li>
-  <li>Mobile wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-mobile">here</a></li>
+  <li>Desktop wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-desktop.pdf">here</a></li>
+  <li>Tablet wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-tablet.pdf">here</a></li>
+  <li>Mobile wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-mobile.pdf">here</a></li>
   </ul>
 </ul>
 

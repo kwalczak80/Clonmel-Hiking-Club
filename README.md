@@ -7,31 +7,50 @@
 <hr>
 
 # **User Experience (UX)**
-<ul>
-<li><h3>User Stories</h3></li>
-  <ul><li><strong>First-time Visitor Goals</strong>
-<ul>
-    <li>As a first-time visitor, I would like to easily understand what the website is about and easely navigate throughout its content,</li>
-<li>As a first-time visitor, I would like read information about the Clonmel Hiking Club and find other interesting information I'm looking for.
+
+<h2>User Goals</h2>
+  <ul><li><strong>First-time User Goals</strong>
+  <ul>
+  <li>The website has to be easy to and intuitive to use,</li>
+  <li>The website has to work well on mobile phones, tables and desktops,</li>
+  <li>The website is visually attractive,</li>
+  <li>As the website is displayed on one page all sections are clearly visually separated.</li>
+  </ul>
+  </ul>
+<h2>User Stories</h2>
+  <ul><li><strong>First-time User Goals</strong>
+  <ul>
+  <li>As a first-time user I would like to easily understand what the website is about,</li>
+  <li>As a first-time user I would like to easily navigate throughout the website content,</li>
+  <li>As a first-time user I would like to read information about the Clonmel Hiking Club,</li>
+  <li>As a first-time user I would like to easily read the text information displayed on the webpage regardless of the device screen size I'm using,</li>
+  <li>As a first-time user I would like to find other interesting information I'm looking for.</li>
 </ul>
 </ul>
 
 <ul><li><strong>Returning Visitor Goals</strong>
 <ul>
-    <li>As a returning visitor, i would like to find more information about the club in social media channels,</li>
-  <li>As a returning visitor, i want to find/use a contact form page.</li>
+  <li>As a returning user I would like to find more information about the club in social media channels,</li>
+  <li>As a returning user I would like to be able to use the contact form to send a message regarding my inquiries.</li>
   </ul>
 </ul>
 <ul><li><strong>Frequent User Goals</strong>
 <ul>
-    <li>As a frequent user, I want to check if the gallery has been updated with new photos that might inspire for hiking trips,</li>
-  <li>As a frequent user, I want to find information about upcoming events that might be suitable for me,</li>
-  <li>As a frequent user, I want to use contact form to get more information about the topic I'm interested about.</li>
-  </ul>
+  <li>As a frequent user I would like to check if the gallery has been updated with new photos that might inspire me for hiking trips,</li>
+  <li>As a frequent user I would like to find information about upcoming events that might be suitable for me,</li>
+  <li>As a frequent user I would like to use a contact form to get more information about the topic I'm interested about.</li>
+</ul>
 </ul>  
 </ul>
 </ul>
 </ul>
+<h2>Site owners Goals</h2>
+<ul>
+  <li>Have a visually appealing website dedicated to hiking trips for people from Clonmel and the surrounding area,</li>
+  <li>Have a website  with simple navigation, thanks to which the user will be able to easily find the information they are interested about,</li>
+  <li>Have a information in the gallery and upcoming events sections so the users can find information about the club's ongoing activities,</li>
+</ul>
+  
 
 # **Wireframe**
 <ul>

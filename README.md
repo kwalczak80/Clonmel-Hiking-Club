@@ -1,7 +1,7 @@
 # **Clonmel Hiking Club**
 **[Click here to visit Clonmel Hiking Club website](https://kwalczak80.github.io/Clonmel-Hiking-Club)**<br>
 <p>Welcome to the official Clonmel Hiking Club website.
-  The website is designed to provide information about hiking club in Clonmel area. Website consists of sections where visitors can find relevant infomation about the club, check the new pictures in the gallery, find out about upcoming events and to contact the club if thay have any queries.</p>
+  The website is designed to provide information about hiking club in Clonmel area. The website consists of sections where users can find relevant infomation about the club, check the new pictures in the gallery section, find out information about upcoming events and to contact the club if they have any queries.</p>
   
 ![Responsive Design](docs/responsive-design.PNG "Responsive Design of Clonmel Hiking Club website")
 <hr>
@@ -48,12 +48,12 @@
 <ul>
   <li>Have a visually appealing website dedicated to hiking trips for people from Clonmel and the surrounding area,</li>
   <li>Have a website  with simple navigation, thanks to which the user will be able to easily find the information they are interested about,</li>
-  <li>Have a information in the gallery and upcoming events sections so the users can find information about the club's ongoing activities,</li>
+  <li>Have an up-to-date information in the gallery and upcoming events sections so the users can find information about the club's ongoing activities,</li>
 </ul>
 
 # **Wireframe**
 <ul>
-  <li>I used Balsamiq softfare to create the initial layout of the Clonmel Hiking Club webpage. Please find my wireframes below</li>
+  <li>I used Balsamiq softfare to create the visual layout of the Clonmel Hiking Club webpage. You can find my wireframes below.</li>
   <ul>
   <li>Desktop wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-desktop.pdf">here</a></li>
   <li>Tablet wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-tablet.pdf">here</a></li>
@@ -65,36 +65,36 @@
 <ul>
 <li><strong>Colour Scheme</strong></li>
 <ul>
-<li>The colors used on the website are to be in line with the theme of hiking in the mountains. The appropriate shade of colors on the page ensures that there are no large contrasts between the individual sections of the page.</li>
-<li>I have used <a href="https://coolors.co">Coolors</a> to come up with a color scheme. I used a contrast checker in order to make sure that the contrast is sufficient and there is no issues with website  readability.</li>
+  <li>The colors used on the website are to be in line with the theme of hiking in the mountains. The appropriate shade of colors on the page ensures that there are no large contrasts between the individual sections of the page.</li>
+  <li>I have used <a href="https://coolors.co">Coolors</a> to come up with a color scheme. I used a contrast checker in order to make sure that the contrast is sufficient and there is no issues with website  readability.</li>
 
 ![Responsive Design](docs/main-website-colors.PNG "Main website colors")
 <ul>
-<li>#9BA37E is the main background color for the menu section,</li>
-<li>#D9DDC9 is the main background color for the body of the website,</li>
-<li>#EBEBEC is the main backgroung color for the contact form input fields</li>
-<li>#000000 is the main color for all text information displayed on the webpage.</li>
+  <li>#9BA37E is the main background color for the menu section,</li>
+  <li>#D9DDC9 is the main background color for the body of the website,</li>
+  <li>#EBEBEC is the main backgroung color for the contact form input fields</li>
+  <li>#000000 is the main color for all text information displayed on the webpage.</li>
 </ul>
 </ul>
 <ul>
 <li><strong>Typography</strong></li>
 <ul>
-<li>I vistied <a href="https://fonts.google.com/">Google fonts </a> website to explore available font options for my project. After consideration two font types were selected as appropirate.</li>
-<li>I decided to use <a href="https://fonts.google.com/?query=Lato">Lato</a> font as the main font in this project with <a href="https://fonts.google.com/?query=oswald">Oswald</a> as the second font used for the club name. Both fonts were imported from Google fonts website.</li> 
+  <li>I vistied <a href="https://fonts.google.com/">Google fonts </a> website to explore available font options for my project. After consideration two font types were selected as appropirate.</li>
+  <li>I decided to use <a href="https://fonts.google.com/?query=Lato">Lato</a> font as the main font in this project with <a href="https://fonts.google.com/?query=oswald">Oswald</a> as the second font used for the club name. Both fonts were imported from Google fonts website.</li> 
 </ul>
 </ul>
 <ul>
 <li><strong>Images</strong></li>
 <ul>
-<li>The photos in the gallery section are a very important part of this website as they allow users to view photos of other users' hiking tours. This can be very inspiring for other club members to plan some interesting hiking trips.</li>
+<li>The photos in the gallery section are a very important part of this website as they allow users to view photos of other users' hiking tours. This can be very inspiring for other users to plan some interesting hiking trips.</li>
 </ul>
 </ul> 
 <ul>
   <li><strong>Information grouping</strong></li>
 <ul>
 <li>Appropirate grouping of text information and images is to ensure the most convinient use of the website. When viewing this website on large screens, the text information is grouped into three columns and two rows. The images in the gallery section are automatically scaled to allow the appropriate view on the screen. For smaller screens, the text information is displayed in a single column, similar to photos.</li>
-  </ul>
-  </ul>
+</ul>
+</ul>
   
 # **Features**
 <ul>
@@ -115,12 +115,8 @@
 <ul>
   <li><strong>About Us</strong></li>
 <ul>
-<li>
-  The About-Us section contains a basic information about the club,
-</li>
-<li>
-Additionally, this section contains information intended to encourage other people to start their adventure with hiking.
-</li>
+<li>The About-Us section contains basic information about the club,</li>
+<li>Additionally, this section contains information intended to encourage other people to start their adventure with hiking.</li>
 </ul>
 </ul>
 
@@ -128,12 +124,8 @@ Additionally, this section contains information intended to encourage other peop
 <ul>
   <li><strong>Gallery</strong></li>
 <ul>
-<li>
- The content of this section is showing the photos taken by the club members from their hiking trips,
-</li>
-<li>
-This section can be very inspiring for both new and existing club members.
-</li>
+<li> The content of this section is showing the photos taken by the club members from their hiking trips,</li>
+<li>This section can be very inspiring for both new and existing club members.</li>
 </ul>
 </ul>
 
@@ -141,15 +133,9 @@ This section can be very inspiring for both new and existing club members.
 <ul>
   <li><strong>Upcoming events</strong></li>
 <ul>
-<li>
- The content of this section allows club members or just visitors to find information about upcoming hiking trips,
-</li>
-<li>
-Information in this section is uploaded in advance to make sure that people can plan their hiking trip accordingly,
-</li>
-<li>
-Interactive map allows users to check where the hikng hiking trip will start.
-</li>
+  <li>The content of this section allows users to find information about upcoming hiking trips,</li>
+  <li>Information in this section is uploaded in advance to make sure that people can plan their hiking trips accordingly,</li>
+  <li>Interactive map allows users to check where the hikng hiking trip will start.</li>
 </ul>
 </ul>
 
@@ -157,16 +143,18 @@ Interactive map allows users to check where the hikng hiking trip will start.
 <ul>
   <li><strong>Contact Us</strong></li>
 <ul>
-<li>
- This section allows users to send a message with their queries,
-</li>
-<li>
-Relevant information must be provided in order to sent message i.e. All sections of the form must be fill in order to send message.
-</li>
+<li>This section allows users to send a message with their queries,</li>
+<li>Relevant information must be provided in order to send message i.e. All sections of the form must be fill in order to send message.</li>
+<li>After the user clicks on <strong>Send message</strong> button a confirmation page will be open(in the same window) informing that their message has been sent</li>
 </ul>
 </ul>
 
 ![Navigation](docs/contact-us.PNG "Contact Us section")
+
+![Navigation](docs/contact-form-submission-confirmation.PNG "Contact form submission confirmation")
+<hr>
+
+# **Responsive design**
 <ul>
   <li>Responsive design</li>
   <ul>
@@ -174,7 +162,6 @@ Relevant information must be provided in order to sent message i.e. All sections
 <li>Additionally contains interactive elements</li>
   </ul>
 </ul>
-<hr>
 
 # **Testing**
 <ul>
@@ -247,7 +234,7 @@ It is confirmed that all sections are all readable and easy to understand.
 </ul>
 <li><a href="https://balsamiq.com">UI Design</a></li>
 <ul>
-<li>An online tool was used to visual draft of the Clonmel Hinikg Club webpage</li>
+<li>Balsamiq software was used to create a visual draft the Clonmel Hinikg Club webpage. Three separated wireframes were created for desktop, tablet and mobile screens.</li>
 </ul>
 </ol>
 <hr>
@@ -264,20 +251,22 @@ It is confirmed that all sections are all readable and easy to understand.
 # **Bugs**
 ### **Solved Bugs**
 <ul>
-<li>
-When project was deployed to Github I noticed that images in gallery section were not displayed correctly. To fix the issue I went to GitPod application and I right clicked on each picture to obtain a copy of relative path. Once the code was updated and pushed to Github this problem was no longer an issue.
-</li>
-<li>
-During the Lighthouse testing I discovered that the website performance result was quite low(69%). This was related to size of the pictures(static) displayed in the gallery section. In order to improve the website overall performance the following steps were performed:
-<ul>
-<li>Size all pictures was reduced to 600x400px,</li>
-<li>DPI was reduced from 300 to 72,</li>
-<li>All pictures were converted from JPG to WEBP using WEBP Converter</li>
-</ul>
-
+<li>When project was deployed to Github I noticed that images in gallery section were not displayed correctly. To fix the issue I went to GitPod application and I right clicked on each picture to obtain a copy of relative path. Once the code was updated and pushed to Github this problem was no longer an issue.</li>
 </ul>
 <hr>
-  
+
+# **Website Performance**
+<ul>
+  <li>During the Lighthouse testing I discovered that the website performance result was quite low(69%). This was related to size of the pictures(static) displayed in the gallery section. In order to improve the website overall performance the following steps were performed:</li>
+<ul>
+  <li>Size all pictures was reduced to 600x400px,</li>
+  <li>DPI was reduced from 300 to 72,</li>
+  <li>All pictures were converted from JPG to WEBP using WEBP Converter</li>
+</ul>
+  <li>All links to the pragrams that were used to complete setps above can be found in <strong>Frameworks, Libraries & Programs Used</strong> section of this document</li>
+</ul>
+<hr>
+
 # **Media**
 <ul>
 <li> 

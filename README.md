@@ -86,13 +86,13 @@
 <ul>
 <li><strong>Images</strong></li>
 <ul>
-<li>The photos in the gallery section are very important part of this website as they allow users to view photos uploaded by other users which can be an inspiration for hiking trips for other people.</li>
+<li>The photos in the gallery section are a very important part of this website as they allow users to view photos of other users' hiking tours. This can be very inspiring for other club members to plan some interesting hiking trips.</li>
 </ul>
 </ul> 
 <ul>
   <li><strong>Information grouping</strong></li>
 <ul>
-<li>Grouping text information and images on the website is to ensure the most comfortable use by visitors. When viewing this website on large screens, text information is grouped into three columns. The images from the gallery section are automatically scaled to allow the appropriate view on the screen. For smaller screens, text information is displayed in a single column, similar to photos.</li>
+<li>Appropirate grouping of text information and images is to ensure the most convinient use of the website. When viewing this website on large screens, the text information is grouped into three columns and two rows. The images in the gallery section are automatically scaled to allow the appropriate view on the screen. For smaller screens, the text information is displayed in a single column, similar to photos.</li>
   </ul>
   </ul>
   

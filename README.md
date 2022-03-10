@@ -50,12 +50,13 @@
   <li>Have a website  with simple navigation, thanks to which the user will be able to easily find the information they are interested about,</li>
   <li>Have a information in the gallery and upcoming events sections so the users can find information about the club's ongoing activities,</li>
 </ul>
-  
 
 # **Wireframe**
 <ul>
-  <li>Balsamiq softfare was used to create the initial layout of the Clonmel Hiking Club webpage</li>
+  <li>I used Balsamiq softfare to create the initial layout of the Clonmel Hiking Club webpage</li>
   <ul>
+  <li>The file in PDF format can be found <a href="wireframe/clonmel- hiking-club-wireframe.pdf">here</a></li>
+  <li>The file in PDF format can be found <a href="wireframe/clonmel- hiking-club-wireframe.pdf">here</a></li>
   <li>The file in PDF format can be found <a href="wireframe/clonmel- hiking-club-wireframe.pdf">here</a></li>
   </ul>
 </ul>

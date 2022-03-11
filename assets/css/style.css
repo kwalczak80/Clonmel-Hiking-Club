@@ -135,7 +135,7 @@ img {
 }
 
 .grit-box {
-    padding: 0.5rem;
+    padding: 0.2rem;
 }
 
 #events-map {
@@ -204,7 +204,7 @@ footer {
     padding: 5%;
 }
 
-/*Contact form section*/
+/*Contact-Us*/
 
 .button a {
     text-decoration: none;
@@ -222,12 +222,12 @@ footer {
     margin-bottom: 2rem;
 }
 
-/* Media query section*/
+/* Media query*/
 
 @media screen and (min-width: 320px) and (max-width: 640px) {
 
     html {
-        scroll-padding-top: 136px;
+        scroll-padding-top: 13.6rem;
     }
 
     #club-name {
@@ -256,16 +256,19 @@ footer {
         padding: 2px;
         font-weight: 500;
     }
+    .grit-wrapper {
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    }
 }
 
 @media screen and (min-width: 641px) and (max-width: 1000px) {
 
     html {
-        scroll-padding-top: 3rem;
+        scroll-padding-top: 5.2rem;
     }
 
     #club-name {
-        font-size: 2.2rem;
+        font-size: 2.5rem;
     }
 
     .nav-item {

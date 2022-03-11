@@ -264,7 +264,7 @@ footer {
 @media screen and (min-width: 641px) and (max-width: 1000px) {
 
     html {
-        scroll-padding-top: 5.2rem;
+        scroll-padding-top: 3.7rem;
     }
 
     #club-name {

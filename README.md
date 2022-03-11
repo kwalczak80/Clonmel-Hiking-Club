@@ -303,11 +303,11 @@ It is confirmed that all sections are all readable and easy to understand.
 </ul>
 <li>As a first-time user I would like to easily read the text information displayed on the webpage regardless of the device screen size I'm using</li>
 <ul>
-<li>The club's website has been designed to be displayed on a various screen of mobile phones, tablets, iPads, laptops and desktops. The layout of the page content changes dynamically depending on the screen resolution on which the page is displayed</li>
+<li>The club website allows the user to display its content on various screens of mobile phones, tablets, iPads, laptops and desktops. The layout of the page content changes dynamically depending on the resolution of the screen on which the page is displayed</li>
 </ul>
 <li>As a first-time user I would like to find other interesting information I'm looking for</li>
 <ul>
-<li>The website has been divided into thematic sections where the user can find interesting information. The content of each section has been designed to be easily readable to convey as much information as possible. In addition, the sticky menu bar helps in quickly navigation through the page content</li>
+<li>The website has been divided into thematic sections where the user can find interesting information. The content of each section has been designed to be easily readable and to convey as much information as possible. In addition, the sticky menu bar helps in quickly navigation through the page content</li>
 </ul>
 </ul>
 </ul>
@@ -360,7 +360,7 @@ All the images that are used on the Clonmel Hiking Club website were downloaded 
 <li>Scroll down to find out <strong>GitHub Pages</strong> section and click on <strong>Check it out here!</strong></li>
 <li>Under <strong>Source</strong>, select <strong>Main</strong> from dropdown branch menu</li>
 <li>Click <strong>Save</strong> and the page will refresh automatically.</li>
-<li>Scroll back down through the page to locate published <a href="https://kwalczak80.github.io/Clonmel-Hiking-Club/">Clonme Hinking Club </a>website in the "GitHub Pages" section.</li></ol>
+<li>Scroll back down through the page to locate published the <a href="https://kwalczak80.github.io/Clonmel-Hiking-Club/">Clonme Hinking Club </a>website in the "GitHub Pages" section.</li></ol>
 <hr>
 
 # **Acknowledgements**

@@ -23,7 +23,7 @@
   <li>As a first-time user I would like to easily understand what the website is about,</li>
   <li>As a first-time user I would like to easily navigate throughout the website content,</li>
   <li>As a first-time user I would like to read information about the Clonmel Hiking Club,</li>
-  <li>As a first-time user I would like to easily read the text information displayed on the webpage regardless of the device screen size I'm using,</li>
+  <li>As a first-time user I would like to easily read the information displayed on the webpage regardless of the device screen size I'm using,</li>
   <li>As a first-time user I would like to find other interesting information I'm looking for.</li>
 </ul>
 </ul>
@@ -217,10 +217,10 @@ The website was tested using the browsers listed below and it's confirmed to wor
 </ul>
 </li>
 <li>
-The website was also viewed on a variety of different devices such as Desktop, Laptop, iPhone 7, iPhone 8, iPhone X, iPhone 12, Google Pixel 4a
+The website was also viewed on a variety of different devices such as Desktop, Laptop, iPad, Tablet, iPhone 7, iPhone 8, iPhone X, iPhone 12, Google Pixel 4a.
 </li>
 <li>
-It is confirmed that the website is fully operational and it's design allows users for easy navigation. 
+It is confirmed that the website is fully operational and it's design allows users for easy navigation, 
 </li>
 <li>
 It is confirmed that all sections are all readable and easy to understand.  
@@ -270,18 +270,43 @@ It is confirmed that all sections are all readable and easy to understand.
 <ul>
 <li>Balsamiq software was used to create a visual draft the Clonmel Hinikg Club webpage. Three separated wireframes were created for desktop, tablet and mobile screens.</li>
 </ul>
+<li><a href="https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB">Unicorn Revealer</a></li>
+<ul>
+<li>Extremly helpful tool that helped me to find out where overflows were located on my website.</li>
+</ul>
 </ol>
 <hr>
 
 # **Validator Testing**
 <ul>
-<li>HTML - No errors were found during the code validation process when using the official W3C Validator.</li>
-<li>CSS - No errors were found during the code validation process when using the official (Jigsaw) Validator.</li>
-<li>The Lighthouse tool was used to access the website accessibility and the results are shown below</li>
+<li>HTML - No errors and warnings were found during the code validation process when using the official W3C Validator.</li>
+<li>CSS - No errors and warnings were found during the code validation process when using the official (Jigsaw) Validator.</li>
+<li>The Lighthouse tool was used to assess the website accessibility and the results are shown below.</li>
 </ul>
   
   ![Navigation](docs/accessibility-performance.PNG "Navigation Bar")
 <hr>
+
+# **Testing User Stories from User Experience (UX) Section**
+<ul>
+<li>As a first-time user I would like to easily understand what the website is about</li>
+<ul>
+<li>After starting the website, the user is immediately displayed a navigation bar with the name of the club and a menu bar under which there is a photo inspiring hiking. The name of the club clearly explains the content of this page</li>
+</ul>
+<li>As a first-time user I would like to easily navigate throughout the website content</li>
+<ul>
+<li>The site navigation is very simple and intuitive. The menu bar is permanently stuck at the top of the page, allowing the user to quickly switch between the individual sections of the page. In addition, all links in the menu precisely define the individual sections of the page and highlight their name upon hover. To speed up operation, the page automatically scrolls its content to the section selected by the user.</li>
+</ul>
+<li>As a first-time user I would like to read information about the Clonmel Hiking Club</li>
+<ul>
+<li>The about us section very clearly and briefly describes what the Clonmel hiking club is and inspires website visitors to join its group.</li>
+</ul>
+<li>As a first-time user I would like to easily read the text information displayed on the webpage regardless of the device screen size I'm using</li>
+<ul>
+<li>The club's website has been designed to be dislpayed on the screens of mobile phones, tablets, iPads, laptops and desktops. The layout of the page content changes dynamically depending on the screen resolution on which the page is displayed</li>
+<ul>
+</ul>
+</ul>
 
 # **Bugs**
 ### **Solved Bugs**

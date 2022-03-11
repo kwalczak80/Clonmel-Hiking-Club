@@ -9,7 +9,7 @@
 # **User Experience (UX)**
 
 <h2>User Goals</h2>
-  <ul><li><strong>First-time User Goals</strong>
+<ul><li><strong>First-time User Goals</strong>
   <ul>
   <li>The website has to be easy to and intuitive to use,</li>
   <li>The website has to work well on mobile phones, tables and desktops,</li>
@@ -50,16 +50,34 @@
   <li>Have a website  with simple navigation, thanks to which the user will be able to easily find the information they are interested about,</li>
   <li>Have an up-to-date information in the gallery and upcoming events sections so the users can find information about the club's ongoing activities,</li>
 </ul>
+<h2>User Requirements and Expectations</h2>
+<ul>
+<li>Requirements</li>
+<ul>
+<li>Easy to navigate through the website by using links in the menu,</li>
+<li>Appealing website with a functional structure,</li>
+<li>Ability to contact the club with any enquires.</li>
+</ul>
+<li>Expectations</li>
+<ul>
+  <li>To have a nicely design web layout that can be seen on different screen sizes,</li>
+  <li>It should be easy to contact the club by using a simple contact form,</li>
+  <li>To receive a message from the club in a timely manner after using contact form,</li>
+  <li>To have a content of the website updated regularly i.e., Gallery, Upcoming Events.</li>
+  </ul>
+</ul>
+<hr>
 
 # **Wireframe**
 <ul>
-  <li>I used Balsamiq softfare to create the visual layout of the Clonmel Hiking Club webpage. You can find my wireframes below.</li>
+  <li>I used Balsamiq software to create a visual layout of the Clonmel Hiking Club webpage. You can find my wireframes below.</li>
   <ul>
   <li>Desktop wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-desktop.pdf">here</a></li>
   <li>Tablet wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-tablet.pdf">here</a></li>
   <li>Mobile wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-mobile.pdf">here</a></li>
   </ul>
 </ul>
+<hr>
 
 # **Design**
 <ul>
@@ -95,6 +113,7 @@
 <li>Appropirate grouping of text information and images is to ensure the most convinient use of the website. When viewing this website on large screens, the text information is grouped into three columns and two rows. The images in the gallery section are automatically scaled to allow the appropriate view on the screen. For smaller screens, the text information is displayed in a single column, similar to photos.</li>
 </ul>
 </ul>
+<hr>
   
 # **Features**
 <ul>
@@ -104,6 +123,7 @@
 <li>The navigation bar is very intuitive and easy to use,</li>
 <li>The Navigation bar is positioned on top of the page(sticky) at all the time to allow user quickly move between individual sections of the page,</li>
 <li>The navigation menu layout differ (website navigation links) depending on which screen size the website is displayed,</li>
+<li>A hover effect is implemented to visually highlight menu links when the user hovers over them</li> 
 <li>Once the relevant menu link is clicked by the user the website will automatically scroll up or scroll down in order to display selected section.</li>
 </ul>
 </ul>

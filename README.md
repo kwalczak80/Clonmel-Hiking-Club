@@ -1,9 +1,8 @@
 # **Clonmel Hiking Club**
 **[Click here to visit Clonmel Hiking Club website](https://kwalczak80.github.io/Clonmel-Hiking-Club)**<br>
 <p>Welcome to the official Clonmel Hiking Club website.
-  The website is designed to provide information about hiking club in Clonmel area. The website consists of sections where users can find relevant infomation about the club, view the pictures in the gallery section and find information about upcoming events.</p>
-<p>In addition if the user have any quiries they can use a simple contact form in order to send a message to the club.</p>
-  
+  The website is designed to provide information about hiking club in Clonmel area. The website consists of sections where users can find relevant infomation about the club, view the pictures in the gallery section and find information about upcoming events. In addition if the user have any queries they can use a simple contact form in order to send a message to the club.</p>
+
 ![Responsive Design](docs/responsive-design.PNG "Responsive Design of Clonmel Hiking Club website")
 <hr>
 
@@ -13,9 +12,9 @@
 <ul><li><strong>First-time User Goals</strong>
   <ul>
   <li>The website has to be easy to and intuitive to use,</li>
-  <li>The website has to work well on mobile phones, tables and desktops,</li>
+  <li>The website has to work well on mobile phones, ipads, tables and desktops,</li>
   <li>The website is visually attractive,</li>
-  <li>As the website is displayed on one page all sections are clearly visually separated.</li>
+  <li>As the website is displayed on a single page all sections are clearly visually separated.</li>
   </ul>
   </ul>
 <h2>User Stories</h2>
@@ -56,12 +55,12 @@
 <li>Requirements</li>
 <ul>
 <li>Easy to navigate through the website by using links in the menu,</li>
-<li>Appealing website with a functional structure,</li>
-<li>Ability to contact the club with any enquires.</li>
+<li>Visually appealing website with a functional structure,</li>
+<li>Ability to contact the club with any enquiries.</li>
 </ul>
 <li>Expectations</li>
 <ul>
-  <li>To have a nicely design web layout that can be seen on different screen sizes,</li>
+  <li>To have a nicely designed web layout that can be seen on different screen sizes,</li>
   <li>It should be easy to contact the club by using a simple contact form,</li>
   <li>To receive a message from the club in a timely manner after using contact form,</li>
   <li>To have a content of the website updated regularly i.e., Gallery, Upcoming Events.</li>
@@ -98,7 +97,7 @@
 <ul>
 <li><strong>Typography</strong></li>
 <ul>
-  <li>I vistied <a href="https://fonts.google.com/">Google fonts </a> website to explore available font options for my project. After consideration two font types were selected as appropirate.</li>
+  <li>I vistied <a href="https://fonts.google.com/">Google fonts </a> website to explore available font options for my project. After consideration I selected two font types as appropirate.</li>
   <li>I decided to use <a href="https://fonts.google.com/?query=Lato">Lato</a> font as the main font in this project with <a href="https://fonts.google.com/?query=oswald">Oswald</a> as the second font used for the club name. Both fonts were imported from Google fonts website.</li> 
 </ul>
 </ul>
@@ -111,7 +110,7 @@
 <ul>
   <li><strong>Information grouping</strong></li>
 <ul>
-<li>Appropirate grouping of text information and images is to ensure the most convinient use of the website. When viewing this website on large screens, the text information is grouped into three columns and two rows. The images in the gallery section are automatically scaled to allow the appropriate view on the screen. For smaller screens, the text information is displayed in a single column, similar to photos.</li>
+<li>Appropirate grouping of text information and images is to ensure the most convinient use of the website. When viewing this website on large screens, the text information is grouped into three columns and two rows. The images in the gallery section are automatically scaled to allow appropriate view on the screen. For smaller screens, the text information is displayed in a single column, similar to photos.</li>
 </ul>
 </ul>
 <hr>
@@ -124,7 +123,7 @@
 <li>The navigation bar is very intuitive and easy to use,</li>
 <li>The Navigation bar is positioned on top of the page(sticky) at all the time to allow user quickly move between individual sections of the page,</li>
 <li>The navigation menu layout differ (website navigation links) depending on which screen size the website is displayed,</li>
-<li>A hover effect is implemented to visually highlight menu links when the user hovers over them</li> 
+<li>A hover effect is implemented to visually highlight menu links when the user hovers over them,</li> 
 <li>Once the relevant menu link is clicked by the user the website will automatically scroll up or scroll down in order to display selected section.</li>
 </ul>
 </ul>
@@ -136,7 +135,7 @@
 <ul>
   <li><strong>About Us</strong></li>
 <ul>
-<li>The About-Us section contains basic information about the club,</li>
+<li>The About-Us section contains a basic information about the club,</li>
 <li>Additionally this section contains information intended to encourage other people to start their adventure with hiking.</li>
 </ul>
 </ul>
@@ -156,7 +155,8 @@
 <ul>
   <li>The content of this section allows users to find information about upcoming hiking trips,</li>
   <li>Information in this section is uploaded in advance to make sure that people can plan their hiking trips accordingly,</li>
-  <li>Interactive map allows users to check where the hikng hiking trip will start.</li>
+  <li>Interactive map allows users to check where the hikng hiking trip will start,</li>
+  <li>User can use the contact form to contact the club in order to get more information about the event.</li>
 </ul>
 </ul>
 
@@ -164,9 +164,12 @@
 <ul>
   <li><strong>Contact Us</strong></li>
 <ul>
-<li>This section allows users to send a message with their queries,</li>
-<li>Relevant information must be provided in order to send message i.e., all sections of the form must be filled in order to send a message.</li>
-<li>After the user clicks on <strong>Send message</strong> button a confirmation page will be open(in the same window) informing that their message has been sent</li>
+<li>This section allows user to send a message with their queries,</li>
+<li>Relevant information must be provided in order to send a message i.e., all sections of the form must be filled with appropirate information,</li>
+<li>Once the user clicks on a <strong>Send message</strong> button a confirmation page will open(in the same window) informing that their message was received,</li>
+<li>All information gathered in 'Contact Us' form is technically ready to be send to the database using POST method as each input field has its own id and name,</li>
+<li>However after consultation with my mentor I decided not to use a POST method to send information to https://formdump.codeinstitute.net due to security reasons,</li>
+<li>Instead of that and as mention above after the form is submitted a single page will open to inform the user that their message has been received.</li>
 </ul>
 </ul>
 
@@ -174,16 +177,15 @@
 
 ![Navigation](docs/contact-form-submission-confirmation.PNG "Contact form submission confirmation")
 
-  <li><strong>Social Media section</strong></li>
+<li><strong>Social Media section</strong></li>
 <ul>
-<li>This section allows users to open the club social media channels,</li>
+<li>This section allows user to open the club social media channels,</li>
 <li>There are four different social media platforms that users can chose from,</li>
 <li>On social media channels users can find even more information about the club, events, etc.</li>
 </ul>
 </ul>
 
 ![Navigation](docs/social-media-channels.PNG "Social media channels")
-
 <hr>
 
 # **Responsive design**
@@ -227,7 +229,7 @@ It is confirmed that all sections are all readable and easy to understand.
 <hr>
 
 # **Languages Used**
-<p>The following languages have been used during design process:</p>
+<p>The following languages have been used during the website design process:</p>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/HTML5">HTML</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a></li>
@@ -316,8 +318,7 @@ All the images that are used on the Clonmel Hiking Club website were downloaded 
  <ul>
   <li><a href="https://blog.tentree.com/10-reasons-you-should-take-a-hike/">The Environmentor</a></li>
   </ul>
- 
-</ul>
+ </ul>
 <hr>
   
 # **Deployment**

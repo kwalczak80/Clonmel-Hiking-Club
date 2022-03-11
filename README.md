@@ -28,7 +28,7 @@
 </ul>
 </ul>
 
-<ul><li><strong>Returning Visitor Goals</strong>
+<ul><li><strong>Returning User Goals</strong>
 <ul>
   <li>As a returning user I would like to find more information about the club in social media channels,</li>
   <li>As a returning user I would like to be able to use the contact form to send a message regarding my inquiries.</li>
@@ -279,8 +279,8 @@ It is confirmed that all sections are all readable and easy to understand.
 
 # **Validator Testing**
 <ul>
-<li>HTML - No errors and warnings were found during the code validation process when using the official W3C Validator.</li>
-<li>CSS - No errors and warnings were found during the code validation process when using the official (Jigsaw) Validator.</li>
+<li>HTML - No errors or warnings were found during the code validation process when using the official W3C Validator.</li>
+<li>CSS - No errors or warnings were found during the code validation process when using the official (Jigsaw) Validator.</li>
 <li>The Lighthouse tool was used to assess the website accessibility and the results are shown below.</li>
 </ul>
   
@@ -288,6 +288,8 @@ It is confirmed that all sections are all readable and easy to understand.
 <hr>
 
 # **Testing User Stories from User Experience (UX) Section**
+<ul>
+<li>First-time user</li>
 <ul>
 <li>As a first-time user I would like to easily understand what the website is about</li>
 <ul>
@@ -310,7 +312,12 @@ It is confirmed that all sections are all readable and easy to understand.
 <li>The website has been divided into thematic sections where the user can find interesting information. The content of each section has been designed to be easily readable and to convey as much information as possible. In addition, the sticky menu bar helps in quickly navigation through the page content</li>
 </ul>
 </ul>
+<li>Returning User</li>
+<ul>
+<li>As a returning user I would like to find more information about the club in social media channels</li>
 </ul>
+</ul>
+</li>
 
 # **Bugs**
 ### **Solved Bugs**

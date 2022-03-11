@@ -1,7 +1,7 @@
 # **Clonmel Hiking Club**
 **[Click here to visit Clonmel Hiking Club website](https://kwalczak80.github.io/Clonmel-Hiking-Club)**<br>
 <p>Welcome to the official Clonmel Hiking Club website.
-  The website is designed to provide information about hiking club in Clonmel area. The website consists of sections where users can find relevant infomation about the club, view the pictures in the gallery section and find information about upcoming events. In addition if the user have any queries they can use a simple contact form in order to send a message to the club.</p>
+  The website is designed to provide information about hiking club in Clonmel area. The website consists of sections where users can find relevant infomation about the club, view the pictures in the gallery section and find information about upcoming events. In addition, if the user has any queries, they can use a simple contact form in order to send a message to the club.</p>
 
 ![Responsive Design](docs/responsive-design.PNG "Responsive Design of Clonmel Hiking Club website")
 <hr>
@@ -192,8 +192,8 @@
 <ul>
   <li>Responsive design</li>
   <ul>
-<li>This website is designed to be reponsive on all devices sizes</li>
-<li>Additionally contains interactive elements</li>
+<li>This website is designed to be reponsive on all devices sizes,</li>
+<li>Additionally contains interactive elements.</li>
   </ul>
 </ul>
 

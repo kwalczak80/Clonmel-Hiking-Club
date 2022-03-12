@@ -50,7 +50,6 @@ header {
 #main-logo {
     width: 100%;
     height: 40rem;
-    /*background: url('../images/main-picture.webp') center center/cover no-repeat;*/
     background: url('../images/main-picture.jpg');
     background-repeat: no-repeat;
     background-size: auto;
@@ -88,7 +87,7 @@ header {
 /*About Us*/
 
 #about-us p {
-    padding: 1px;
+    padding: 1px 5px;
     text-align: center;
 }
 

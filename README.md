@@ -261,7 +261,7 @@
             Firefox
          </li>
          <li>
-            Safari
+            Opera
          </li>
          <li>
             Edge
@@ -363,7 +363,8 @@
    <ul>
       <li>Size all pictures were reduced to 600x400px.</li>
       <li>DPI was reduced from 300 to 72.</li>
-      <li>All pictures were converted from JPG to WEBP using WEBP Converter.</li>
+      <li>All pictures in gallery section were converted from JPG to WEBP using WEBP Converter.</li>
+      <li>The main picture is still in jpg format as after conversion its appearance was too dark therefore I decided not to change the format.</li>
    </ul>
    <li>All links to the programs that were used to complete the steps above can be found in the Frameworks, Libraries & Programs Used section of this document.</li>
 </ul>

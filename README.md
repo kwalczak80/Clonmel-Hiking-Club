@@ -372,7 +372,7 @@
 # **Media**
 <ul>
    <li> 
-      All the images that are used on the Clonmel Hiking Club website were downloaded from <a href="https://www.pexels.com/">Pexels.com</a>
+      All the images that are used on the Clonmel Hiking Club website were downloaded from <a href="https://www.rawpixel.com/">rawpixel.com</a>
    </li>
 </ul>
 <hr>

@@ -1,7 +1,8 @@
 # **Clonmel Hiking Club**
 **[Click here to visit Clonmel Hiking Club website](https://kwalczak80.github.io/Clonmel-Hiking-Club)**<br>
 <p>Welcome to the official Clonmel Hiking Club website. The website is designed to provide information about the Hiking Club in the Clonmel area. The website consists of sections where users can find relevant information about the club, view the pictures in the gallery section, and find information about upcoming events. In addition, if the user has any queries, they can use a simple contact form to send a message to the club.</p>
-![Responsive Design](docs/responsive-design.PNG "Responsive Design of Clonmel Hiking Club website")
+
+![Responsive Design](assets/docs/responsive-design.PNG "Responsive Design of Clonmel Hiking Club website")
 <hr>
 
 # **User Experience (UX)**
@@ -127,9 +128,9 @@
    </ul>
 </ul>
 
-![Navigation](docs/navigation-bar.PNG "Navigation Bar")
+![Navigation](assets/docs/navigation-bar.PNG "Navigation Bar")
 
-![Navigation](docs/navigation-bar-mobile.PNG "Navigation Bar Mobile")
+![Navigation](assets/docs/navigation-bar-mobile.PNG "Navigation Bar Mobile")
 
 <ul>
    <li><strong>About Us</strong></li>
@@ -139,7 +140,7 @@
    </ul>
 </ul>
 
-![Navigation](docs/about-us-section.PNG "About Us section")
+![Navigation](assets/docs/about-us-section.PNG "About Us section")
 <ul>
    <li><strong>Gallery</strong></li>
    <ul>
@@ -148,7 +149,7 @@
    </ul>
 </ul>
 
-![Navigation](docs/gallery-section.PNG "Gallery sectionn Bar")
+![Navigation](assets/docs/gallery-section.PNG "Gallery sectionn Bar")
 <ul>
    <li><strong>Upcoming events</strong></li>
    <ul>
@@ -159,7 +160,7 @@
    </ul>
 </ul>
 
-![Navigation](docs/upcoming-events.PNG "Upcoming Events section")
+![Navigation](assets/docs/upcoming-events.PNG "Upcoming Events section")
 <ul>
    <li><strong>Contact Us</strong></li>
    <ul>
@@ -168,7 +169,7 @@
    </ul>
 </ul>
 
-![Navigation](docs/contact-us.PNG "Contact Us section")
+![Navigation](assets/docs/contact-us.PNG "Contact Us section")
 <ul>
    <li><strong>Form Confirmation</strong></li>
    <ul>
@@ -177,7 +178,7 @@
    </ul>
 </ul>
 
-![Navigation](docs/contact-form-submission-confirmation.PNG "Contact form submission confirmation")
+![Navigation](assets/docs/contact-form-submission-confirmation.PNG "Contact form submission confirmation")
 
 <ul>
    <li><strong>Social Media section</strong></li>
@@ -188,7 +189,7 @@
    </ul>
 </ul>
 
-![Navigation](docs/social-media-channels.PNG "Social media channels")
+![Navigation](assets/docs/social-media-channels.PNG "Social media channels")
 <hr>
 
 # **Responsive design**
@@ -287,7 +288,7 @@
    <li>The Lighthouse tool was used to assess the website accessibility and the results are shown below.</li>
 </ul>
 
-![Navigation](docs/accessibility-performance.PNG "Navigation Bar")
+![Navigation](assets/docs/accessibility-performance.PNG "Navigation Bar")
 <hr>
 
 # **Testing User Stories from User Experience (UX) Section**

@@ -405,6 +405,6 @@ All the images that are used on the Clonmel Hiking Club website were downloaded 
 <ul>
 <li>My Mentor <a href="https://github.com/Eventyret">Simen Daehlin</a> for continuous helpful feedback.</li>
 <li>Code Institute's <a href="https://app.slack.com/client/">Slack</a> community for their support.</li>
-<li>Tutorials on <a href="https://www.w3schools.com/html/">W3 Schools</a> as a fantastic source of knowledge.</li>
+<li>HTML and CSS tutorials on <a href="https://www.w3schools.com/html/">W3 Schools</a> as an additional source of knowledge.</li>
 <li>Mike's Dane <a href="https://www.youtube.com/watch?v=6FedyF0F2i8&t=3s">Flex-box</a> tutorial was agreat help to understand the flex-box concept.</li>
 </ul>

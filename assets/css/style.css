@@ -87,7 +87,7 @@ header {
 /*About Us*/
 
 #about-us p {
-    padding: 1px 5px;
+    padding: 1px 0.5rem;
     text-align: center;
 }
 
@@ -108,7 +108,7 @@ header {
     border-radius: 1rem;
     }
 
-/*Upcoming-Events section*/
+/*Upcoming Events*/
 
 .information-list {
     display: flex;
@@ -221,6 +221,89 @@ img {
 
 /*Media queries*/
 
+@media screen and (min-width: 320px) {
+
+    html {
+        scroll-padding-top: 13.6rem;
+    }
+
+    #club-name {
+        font-size: 2rem;
+    }
+
+    .box {
+        width: 99%;
+    }
+
+    .nav-list {
+        padding: 2px 0;
+        flex-direction: column;
+    }
+
+    .nav-item {
+        margin-top: 2px;
+    }
+
+    .nav-item a {
+        font-size: 1.5rem;
+    }
+
+    .nav-item a:hover {
+        color: rgb(41, 177, 41);
+        padding: 2px;
+        font-weight: 500;
+    }
+    .grit-wrapper {
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    }
+}
+
+@media screen and (min-width: 641px) {
+
+    html {
+        scroll-padding-top: 3.7rem;
+    }
+
+    #club-name {
+        font-size: 2.5rem;
+    }
+
+    .nav-item {
+        margin-right: 1rem;
+    }
+
+    .box {
+        width: 99%;
+    }
+
+    .nav-item a {
+        font-size: 1.8rem;
+        letter-spacing: 1px;
+    }
+
+    .nav-item:first-child {
+        margin-right: auto;
+        margin-left: 1rem;
+    }
+
+    .nav-item a:hover {
+        padding: 0px;
+        font-weight: 400;
+    }
+}
+
+@media screen and (min-width: 1001px) {
+
+    .nav-item:first-child {
+        margin-right: auto;
+        margin-left: 1rem;
+    }
+
+}
+
+
+
+/*
 @media screen and (min-width: 320px) and (max-width: 640px) {
 
     html {
@@ -300,4 +383,4 @@ img {
     }
 
 }
-
+*/

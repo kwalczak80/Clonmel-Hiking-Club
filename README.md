@@ -315,6 +315,12 @@ It is confirmed that all sections are all readable and easy to understand.
 <li>Returning User</li>
 <ul>
 <li>As a returning user I would like to find more information about the club in social media channels</li>
+<ul>
+<li>The user has a choice of four available social networking sites operated by Clonmel Hiking Club that provide additional information. Each of the selected social pages is displayed in a separate window to allow the user to quickly return to the club page</li>
+</ul>
+<ul>
+<li>As a returning user I would like to be able to use the contact form to send a message regarding my inquiries</li>
+</ul>
 </ul>
 </ul>
 </li>

@@ -202,16 +202,16 @@
    </ul>
 </ul>
 
-# **Languages Used**
-<p>The following languages have have used during the website design process:</p>
-<ul>
-   <li><a href="https://en.wikipedia.org/wiki/HTML5">HTML</a></li>
-   <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a></li>
-</ul>
-<hr>
-
 # **Technologies Used**
 <ol type="1">
+   <li><a href="https://en.wikipedia.org/wiki/HTML5">HTML</a></li>
+   <ul>
+   <li>Markup language </li>
+   </ul>
+   <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a></li>
+   <ul>
+   <li>Cascading Style Sheets</li>
+   </ul>
    <li><a href="https://fonts.google.com/">Google Fonts</a></li>
    <ul>
       <li>Official Google Fonts website was used to import relevant fonts which are used in the project</li>
@@ -250,7 +250,7 @@
    </ul>
    <li><a href="https://www.freeformatter.com/">HTML Formatter</a></li>
    <ul>
-      <li>An online tool used to improve code presentation.</li>
+      <li>An online tool which was used to improve HTML and CSS code presentation.</li>
    </ul>
 </ol>
 <hr>

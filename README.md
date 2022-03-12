@@ -19,11 +19,11 @@
 <h2>User Stories</h2>
   <ul><li><strong>First-time User Goals</strong>
   <ul>
-  <li>As a first-time user I would like to easily understand what the website is about.</li>
-  <li>As a first-time user I would like to easily navigate throughout the website content.</li>
-  <li>As a first-time user I would like to read information about the Clonmel Hiking Club.</li>
-  <li>As a first-time user I would like to easily read the information displayed on the webpage regardless of the device screen size I'm using.</li>
-  <li>As a first-time user I would like to find other interesting information I'm looking for.</li>
+  <li>As a first-time user, I would like to easily understand what the website is about.</li>
+  <li>As a first-time user, I would like to easily navigate through its content.</li>
+  <li>As a first-time user, I would like to read information about the Clonmel Hiking Club.</li>
+  <li>As a first-time user, I would like to easily read the information displayed on the webpage regardless of the device screen size I'm using.</li>
+  <li>As a first-time user, I would like to find other interesting information I'm looking for.</li>
 </ul>
 </ul>
 

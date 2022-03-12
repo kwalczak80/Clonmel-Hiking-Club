@@ -183,9 +183,9 @@
 <ul>
 <li><strong>Social Media section</strong></li>
 <ul>
-<li>This section allows user to open the club social media channels.</li>
-<li>There are four different social media platforms that users can chose from.</li>
-<li>On social media channels users can find even more information about the club, events, etc.</li>
+<li>This section allows the user to open the club's social media channels.</li>
+<li>There are four different social media platforms that users can choose from.</li>
+<li>On social media channels, users can find even more information about the club, events, etc.</li>
 </ul>
 </ul>
 

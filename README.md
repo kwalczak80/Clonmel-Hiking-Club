@@ -377,7 +377,7 @@ All the images that are used on the Clonmel Hiking Club website were downloaded 
 
 # **Content**
 <ul>
-<li>The text information in About Us section was copied from the following websites:
+<li>The text information in the About Us section was copied from the following websites:
 </li>
   <ul>
     <li><a href="https://www.tracks-and-trails.com/blog/10-reasons-to-go-hiking-this-summer">Track and Trails</a></li>
@@ -390,15 +390,15 @@ All the images that are used on the Clonmel Hiking Club website were downloaded 
   
 # **Deployment**
 ### **GitHub Pages**
-<p>The project was deployed to GitHub pages using the following steps...</p>
+<p>The project was deployed to GitHub pages using the following steps:</p>
 <ol type="1">
 <li>Log in to GitHub</li>
-<li>On the left hand side, click the Clonmel Hiking Club project</li>
-<li>At the top of page locate the <strong>Settings</strong> button in the menu section</li>
-<li>Scroll down to find out <strong>GitHub Pages</strong> section and click on <strong>Check it out here!</strong></li>
-<li>Under <strong>Source</strong>, select <strong>Main</strong> from dropdown branch menu</li>
+<li>On the left-hand side, click the Clonmel Hiking Club project.</li>
+<li>At the top of the page locate the <strong>Settings</strong> button in the menu section.</li>
+<li>Scroll down to find <strong>GitHub Pages</strong> section and click on <strong>Check it out here!</strong></li>
+<li>Under <strong>Source</strong>, select <strong>Main</strong> from the dropdown branch menu.</li>
 <li>Click <strong>Save</strong> and the page will refresh automatically.</li>
-<li>Scroll back down through the page to locate published the <a href="https://kwalczak80.github.io/Clonmel-Hiking-Club/">Clonme Hinking Club </a>website in the "GitHub Pages" section.</li></ol>
+<li>Scroll back down through the page to locate published the <a href="https://kwalczak80.github.io/Clonmel-Hiking-Club/">Clonmel Hiking Club </a>website in the "GitHub Pages" section.</li></ol>
 <hr>
 
 # **Acknowledgements**

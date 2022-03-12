@@ -46,22 +46,22 @@
 <ul>
   <li>Have a visually appealing website dedicated to hiking trips for people from Clonmel and the surrounding area.</li>
   <li>Have a website  with simple navigation, thanks to which the user will be able to easily find the information they are interested about.</li>
-  <li>Have an up-to-date information in the gallery and upcoming events sections so the users can find information about the club's ongoing activities.</li>
+  <li>Have up-to-date information in the gallery and upcoming events sections so the users can find information about the club's ongoing activities.</li>
 </ul>
 <h2>User Requirements and Expectations</h2>
 <ul>
 <li>Requirements</li>
 <ul>
 <li>Easy to navigate through the website by using links in the menu.</li>
-<li>Visually appealing website with a functional structure.</li>
-<li>Ability to contact the club with any enquiries.</li>
+<li>A visually appealing website with a functional structure.</li>
+<li>Ability to contact the club with any inquiries.</li>
 </ul>
 <li>Expectations</li>
 <ul>
   <li>To have a nicely designed web layout that can be seen on different screen sizes.</li>
   <li>It should be easy to contact the club by using a simple contact form.</li>
-  <li>To receive a message from the club in a timely manner after using contact form.</li>
-  <li>To have a content of the website updated regularly i.e., Gallery, Upcoming Events.</li>
+  <li>To receive a message from the club in a timely manner after using the contact form.</li>
+  <li>To have the content of the website updated regularly i.e., Gallery, Upcoming Events.</li>
   </ul>
 </ul>
 <hr>

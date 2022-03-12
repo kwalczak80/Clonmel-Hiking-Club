@@ -328,16 +328,16 @@ It is confirmed that all sections are readable and easy to understand.
 </ul>
 </ul>
 <li>Frequent User</li>
-<ul><li>As a frequent user I would like to check if the gallery has been updated with new photos that might inspire me for hiking trips,</li>
+<ul><li>As a frequent user, I would like to check if the gallery has been updated with new photos that might inspire me for hiking trips.</li>
 <ul>
 <li>
-Photos in the gallery section are almost the most important pillar of this website. They allow the user to check the club's activities and can be a source of inspiration. In addition, the regular addition of new photos by club members can significantly encourage the user to visit the site frequently</li>
+Photos in the gallery section are almost the most important pillar of this website. They allow the user to check the club's activities and can be a source of inspiration. In addition, the regular addition of new photos by club members can significantly encourage the user to visit the site frequently.</li>
 </ul>
-<li>As a frequent user I would like to find information about upcoming events that might be suitable for me,</li>
+<li>As a frequent user, I would like to find information about upcoming events that might be suitable for me.</li>
 <ul>
 </ul>
 <ul>
-<li>The Upcoming Events section contains information about the currently planned hiking trip. It is presented in a very simple way by means of a short text information and an interactive google map with the exact location of the event. If interested, the user can always use the contact form to obtain additional information about the trip.</li>
+<li>The Upcoming Events section contains information about the currently planned hiking trip. It is presented in a very simple way using short text information and an interactive google map with the exact location of the event. If interested, the user can always use the contact form to obtain additional information about the trip.</li>
 </ul>
 </ul>
 </ul>

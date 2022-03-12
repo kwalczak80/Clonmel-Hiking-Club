@@ -112,6 +112,7 @@
 <li>Appropirate grouping of text information and images is to ensure the most convinient use of the website. When viewing this website on large screens, the text information is grouped into three columns and two rows. The images in the gallery section are automatically scaled to allow appropriate view on the screen. For smaller screens, the text information is displayed in a single column, similar to photos.</li>
 </ul>
 </ul>
+</ul>
 <hr>
   
 # **Features**
@@ -165,7 +166,6 @@
 <ul>
 <li>This section allows user to send a message with their queries,</li>
 <li>Relevant information must be provided in order to send a message i.e., all sections of the form must be filled with appropirate information,</li>
-<li>Once the user clicks on a <strong>Send message</strong> button a confirmation page will open(in the same window) informing that their message was received,</li>
 <li>All information gathered in 'Contact Us' form is technically ready to be send to the database using POST method as each input field has its own id and name,</li>
 <li>However after consultation with my mentor I decided not to use a POST method to send information to https://formdump.codeinstitute.net due to security reasons,</li>
 <li>Instead of that and as mention above after the form is submitted a single page will open to inform the user that their message has been received.</li>
@@ -173,6 +173,13 @@
 </ul>
 
 ![Navigation](docs/contact-us.PNG "Contact Us section")
+<ul>
+<li><strong>Form Confirmation</strong></li>
+<ul>
+<li>Once the user clicks on a <strong>Send message</strong> button a confirmation page will open(in the same window) informing that their message was received,</li>
+<li>The <strong>Home Page</strong> button provides a direct link back to the main page.
+</ul>
+</ul>
 
 ![Navigation](docs/contact-form-submission-confirmation.PNG "Contact form submission confirmation")
 
@@ -331,11 +338,17 @@ Photos in the gallery section are almost the most important pillar of this websi
 <li>As a frequent user I would like to find information about upcoming events that might be suitable for me,</li>
 <ul>
 </ul>
-<ul><li>The Upcoming Events section contains information about the currently planned hiking trip. It is presented in a very simple way by means of a short text information and an interactive google map with the exact location of the event. If interested, the user can always use the contact form to obtain additional information about the trip.<li>
+<ul>
+<li>The Upcoming Events section contains information about the currently planned hiking trip. It is presented in a very simple way by means of a short text information and an interactive google map with the exact location of the event. If interested, the user can always use the contact form to obtain additional information about the trip.</li>
 </ul>
 </ul>
 </ul>
 
+## **User Experience (UX) Testing Results**
+<ul>
+<li>After this website was designed , a link to the project was sent to my friends and true hiking enthusiasts with the request to test the website and to express general opinion about the website's appearance, content and its functionality. The feedback I got was very positive. The opinions expressed the fact that the website is very legible and easy to use. Some small bugs related mostly to the typo errors were corrected immediately.</li>
+<li>
+</ul>
 
 # **Bugs**
 ### **Solved Bugs**

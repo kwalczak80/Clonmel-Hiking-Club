@@ -353,6 +353,7 @@ Photos in the gallery section are almost the most important pillar of this websi
 ### **Solved Bugs**
 <ul>
 <li>When project was deployed to Github I noticed that images in gallery section were not displayed correctly. To fix the issue I went to GitPod application and I right clicked on each picture to obtain a copy of relative path. Once the code was updated and pushed to Github this problem was no longer an issue.</li>
+<li>During the design process I noticed that some elements in the footer section were not correctly positioned on the page. This was related to divs overflow. To quickly locate the problem I used Unicorn Revealer in order to make relavant corrections in the code.</li>
 </ul>
 <hr>
 

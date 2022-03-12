@@ -134,8 +134,9 @@
 <ul>
   <li><strong>About Us</strong></li>
 <ul>
-<li>The About-Us section contains a basic information about the club.</li>
-<li>Additionally this section contains information intended to encourage other people to start their adventure with hiking.</li>
+<li>The About-Us section contains basic information about the club.</li>
+<li>Additionally, this section contains information intended to encourage other people to start their adventure with hiking.
+</li>
 </ul>
 </ul>
 
@@ -152,10 +153,10 @@
 <ul>
   <li><strong>Upcoming events</strong></li>
 <ul>
-  <li>The content of this section allows users to find information about upcoming hiking trips,</li>
+  <li>The content of this section allows the user to find information about upcoming hiking trips,</li>
   <li>Information in this section is uploaded in advance to make sure that people can plan their hiking trips accordingly.</li>
-  <li>Interactive map allows users to check where the hikng hiking trip will start.</li>
-  <li>User can use the contact form to contact the club in order to get more information about the event.</li>
+  <li>The interactive map allows the user to check where the hiking trip will start.</li>
+  <li>The user can use the contact form to contact the club to get more information about the event.</li>
 </ul>
 </ul>
 

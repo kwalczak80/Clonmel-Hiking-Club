@@ -95,7 +95,7 @@
 <ul>
 <li><strong>Typography</strong></li>
 <ul>
-  <li>I vistied the <a href="https://fonts.google.com/">Google fonts </a> website to explore available font options for my project. After consideration, I selected two font types as appropriate.</li>
+  <li>I visited the <a href="https://fonts.google.com/">Google fonts </a> website to explore available font options for my project. After consideration, I selected two font types as appropriate.</li>
   <li>I decided to use <a href="https://fonts.google.com/?query=Lato">Lato</a> font as the main font in this project with <a href="https://fonts.google.com/?query=oswald">Oswald</a> as the second font used for the club name. Both fonts were imported from the Google fonts website.</li> 
 </ul>
 </ul>
@@ -196,13 +196,13 @@
 <ul>
   <li>Responsive design</li>
   <ul>
-<li>This website is designed to be reponsive on all devices sizes.</li>
+<li>This website is designed to be responsive on all devices sizes.</li>
 <li>Additionally contains interactive elements.</li>
   </ul>
 </ul>
 
 # **Languages Used**
-<p>The following languages have been used during the website design process:</p>
+<p>The following languages have have used during the website design process:</p>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/HTML5">HTML</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a></li>
@@ -217,7 +217,7 @@
 </ul>
 <li><a href="https://fontawesome.com/">Font Awesome</a></li>
 <ul>
-<li>Font Awesome was used to add icons which represents links to social media</li>
+<li>Font Awesome was used to add icons that represent links to social media</li>
 </ul>
 <li><a href="https://github.com/">GitHub</a></li>
 <ul>
@@ -225,11 +225,11 @@
 </ul>
 <li><a href="https://picresize.com/">The Internet's Original Picture Resizing Tool</a></li>
 <ul>
-<li>Picture Online Resizing Tool was used to resize relevant images which are displayed in gallery section</li>
+<li>Picture Online Resizing Tool was used to resize relevant images which are displayed in the gallery section</li>
 </ul>
 <li><a href="https://convert-dpi.com/">Online DPI Converter</a></li>
 <ul>
-<li>An online DPI Converter was used to change DPI ratio of the images downloaded from Pexels website</li>
+<li>An online DPI Converter was used to change the DPI ratio of the images downloaded from the Pexels website</li>
 </ul>
 <li><a href="https://ezgif.com/jpg-to-webp">Online JPG to WEBP Converter</a></li>
 <ul>
@@ -241,11 +241,11 @@
 </ul>
 <li><a href="https://balsamiq.com">UI Design</a></li>
 <ul>
-<li>Balsamiq software was used to create a visual draft the Clonmel Hinikg Club webpage. Three separated wireframes were created for desktop, tablet and mobile screens.</li>
+<li>Balsamiq software was used to create a visual draft of the Clonmel Hinikg Club webpage. Three separated wireframes were created for desktop, tablet, and mobile screens.</li>
 </ul>
 <li><a href="https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB">Unicorn Revealer</a></li>
 <ul>
-<li>Extremly helpful tool that helped me to find out where overflows were located on my website.</li>
+<li>An extremely helpful tool that helped me to find out where overflows were located on my website.</li>
 </ul>
 </ol>
 <hr>

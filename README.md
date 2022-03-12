@@ -29,8 +29,8 @@
 
 <ul><li><strong>Returning User Goals</strong>
 <ul>
-  <li>As a returning user I would like to find more information about the club in social media channels.</li>
-  <li>As a returning user I would like to be able to use the contact form to send a message regarding my inquiries.</li>
+  <li>As a returning user, I would like to find more information about the club on social media channels.</li>
+  <li>As a returning user, I would like to be able to use the contact form to send a message regarding my inquiries.</li>
   </ul>
 </ul>
 <ul><li><strong>Frequent User Goals</strong>

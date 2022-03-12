@@ -282,8 +282,8 @@
 
 # **Validator Testing**
 <ul>
-   <li>HTML - No errors or warnings were found during the code validation process when using the official W3C Validator.</li>
-   <li>CSS - No errors or warnings were found during the code validation process when using the official (Jigsaw) Validator.</li>
+   <li>HTML - No errors or warnings were found during the code validation process when using the official W3C Validator. Results can be found <a href="assets/docs/html-validator-check.PNG">here</a></li>
+   <li>CSS - No errors or warnings were found during the code validation process when using the official (Jigsaw) Validator.Results can be found <a href="assets/docs/css-validator-check.PNG">here</a></li>
    <li>The Lighthouse tool was used to assess the website accessibility and the results are shown below.</li>
 </ul>
 

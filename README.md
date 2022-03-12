@@ -210,7 +210,7 @@
 </ul>
 <hr>
 
-# **Frameworks, Libraries & Programs Used**
+# **Technologies Used**
 <ol type="1">
    <li><a href="https://fonts.google.com/">Google Fonts</a></li>
    <ul>
@@ -247,6 +247,10 @@
    <li><a href="https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB">Unicorn Revealer</a></li>
    <ul>
       <li>An extremely helpful tool that helped me to find out where overflows were located on my website.</li>
+   </ul>
+   <li><a href="https://www.freeformatter.com/">HTML Formatter</a></li>
+   <ul>
+      <li>An online tool used to improve code presentation.</li>
    </ul>
 </ol>
 <hr>

@@ -82,21 +82,21 @@
 <li><strong>Colour Scheme</strong></li>
 <ul>
   <li>The colors used on the website are to be in line with the theme of hiking in the mountains. The appropriate shade of colors on the page ensures that there are no large contrasts between the individual sections of the page.</li>
-  <li>I have used <a href="https://coolors.co">Coolors</a> to come up with a color scheme. I used a contrast checker in order to make sure that the contrast is sufficient and there is no issues with website  readability.</li>
+  <li>I have used <a href="https://coolors.co">Coolors</a> to come up with a color scheme. I used a contrast checker to make sure that the contrast is sufficient and there are no issues with website readability.</li>
 
 ![Responsive Design](docs/main-website-colors.PNG "Main website colors")
 <ul>
   <li>#9BA37E is the main background color for the menu section.</li>
   <li>#D9DDC9 is the main background color for the body of the website.</li>
-  <li>#EBEBEC is the main backgroung color for the contact form input fields.</li>
+  <li>#EBEBEC is the main background color for the contact form input fields.</li>
   <li>#000000 is the main color for all text information displayed on the webpage.</li>
 </ul>
 </ul>
 <ul>
 <li><strong>Typography</strong></li>
 <ul>
-  <li>I vistied <a href="https://fonts.google.com/">Google fonts </a> website to explore available font options for my project. After consideration I selected two font types as appropirate.</li>
-  <li>I decided to use <a href="https://fonts.google.com/?query=Lato">Lato</a> font as the main font in this project with <a href="https://fonts.google.com/?query=oswald">Oswald</a> as the second font used for the club name. Both fonts were imported from Google fonts website.</li> 
+  <li>I vistied the <a href="https://fonts.google.com/">Google fonts </a> website to explore available font options for my project. After consideration, I selected two font types as appropriate.</li>
+  <li>I decided to use <a href="https://fonts.google.com/?query=Lato">Lato</a> font as the main font in this project with <a href="https://fonts.google.com/?query=oswald">Oswald</a> as the second font used for the club name. Both fonts were imported from the Google fonts website.</li> 
 </ul>
 </ul>
 <ul>
@@ -108,7 +108,7 @@
 <ul>
   <li><strong>Information grouping</strong></li>
 <ul>
-<li>Appropirate grouping of text information and images is to ensure the most convinient use of the website. When viewing this website on large screens, the text information is grouped into three columns and two rows. The images in the gallery section are automatically scaled to allow appropriate view on the screen. For smaller screens, the text information is displayed in a single column, similar to photos.</li>
+<li>Appropriate grouping of text information and images is to ensure the most convenient use of the website. When viewing this website on large screens, the text information is grouped into three columns and two rows. The images in the gallery section are automatically scaled to allow an appropriate view on the screen. For smaller screens, the text information is displayed in a single column, similar to photos.</li>
 </ul>
 </ul>
 </ul>

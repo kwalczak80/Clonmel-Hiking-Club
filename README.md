@@ -35,8 +35,8 @@
 </ul>
 <ul><li><strong>Frequent User Goals</strong>
 <ul>
-  <li>As a frequent user I would like to check if the gallery has been updated with new photos that might inspire me for hiking trips.</li>
-  <li>As a frequent user I would like to find information about upcoming events that might be suitable for me.</li>
+  <li>As a frequent user, I would like to check if the gallery was updated with new photos that might inspire me for hiking trips.</li>
+  <li>As a frequent user, I would like to find information about upcoming events that might be suitable for me.</li>
  </ul>
 </ul>  
 </ul>

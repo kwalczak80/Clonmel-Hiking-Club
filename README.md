@@ -11,33 +11,33 @@
 <h2>User Goals</h2>
 <ul><li><strong>First-time User Goals</strong>
   <ul>
-  <li>The website has to be easy to and intuitive to use,</li>
-  <li>The website has to work well on mobile phones, ipads, tables and desktops,</li>
-  <li>The website is visually attractive,</li>
+  <li>The website has to be easy to and intuitive to use.</li>
+  <li>The website has to work well on mobile phones, ipads, tables and desktops.</li>
+  <li>The website is visually attractive.</li>
   <li>As the website is displayed on a single page all sections are clearly visually separated.</li>
   </ul>
   </ul>
 <h2>User Stories</h2>
   <ul><li><strong>First-time User Goals</strong>
   <ul>
-  <li>As a first-time user I would like to easily understand what the website is about,</li>
-  <li>As a first-time user I would like to easily navigate throughout the website content,</li>
-  <li>As a first-time user I would like to read information about the Clonmel Hiking Club,</li>
-  <li>As a first-time user I would like to easily read the information displayed on the webpage regardless of the device screen size I'm using,</li>
+  <li>As a first-time user I would like to easily understand what the website is about.</li>
+  <li>As a first-time user I would like to easily navigate throughout the website content.</li>
+  <li>As a first-time user I would like to read information about the Clonmel Hiking Club.</li>
+  <li>As a first-time user I would like to easily read the information displayed on the webpage regardless of the device screen size I'm using.</li>
   <li>As a first-time user I would like to find other interesting information I'm looking for.</li>
 </ul>
 </ul>
 
 <ul><li><strong>Returning User Goals</strong>
 <ul>
-  <li>As a returning user I would like to find more information about the club in social media channels,</li>
+  <li>As a returning user I would like to find more information about the club in social media channels.</li>
   <li>As a returning user I would like to be able to use the contact form to send a message regarding my inquiries.</li>
   </ul>
 </ul>
 <ul><li><strong>Frequent User Goals</strong>
 <ul>
-  <li>As a frequent user I would like to check if the gallery has been updated with new photos that might inspire me for hiking trips,</li>
-  <li>As a frequent user I would like to find information about upcoming events that might be suitable for me,</li>
+  <li>As a frequent user I would like to check if the gallery has been updated with new photos that might inspire me for hiking trips.</li>
+  <li>As a frequent user I would like to find information about upcoming events that might be suitable for me.</li>
  </ul>
 </ul>  
 </ul>
@@ -45,23 +45,23 @@
 </ul>
 <h2>Site owners Goals</h2>
 <ul>
-  <li>Have a visually appealing website dedicated to hiking trips for people from Clonmel and the surrounding area,</li>
-  <li>Have a website  with simple navigation, thanks to which the user will be able to easily find the information they are interested about,</li>
-  <li>Have an up-to-date information in the gallery and upcoming events sections so the users can find information about the club's ongoing activities,</li>
+  <li>Have a visually appealing website dedicated to hiking trips for people from Clonmel and the surrounding area.</li>
+  <li>Have a website  with simple navigation, thanks to which the user will be able to easily find the information they are interested about.</li>
+  <li>Have an up-to-date information in the gallery and upcoming events sections so the users can find information about the club's ongoing activities.</li>
 </ul>
 <h2>User Requirements and Expectations</h2>
 <ul>
 <li>Requirements</li>
 <ul>
-<li>Easy to navigate through the website by using links in the menu,</li>
-<li>Visually appealing website with a functional structure,</li>
+<li>Easy to navigate through the website by using links in the menu.</li>
+<li>Visually appealing website with a functional structure.</li>
 <li>Ability to contact the club with any enquiries.</li>
 </ul>
 <li>Expectations</li>
 <ul>
-  <li>To have a nicely designed web layout that can be seen on different screen sizes,</li>
-  <li>It should be easy to contact the club by using a simple contact form,</li>
-  <li>To receive a message from the club in a timely manner after using contact form,</li>
+  <li>To have a nicely designed web layout that can be seen on different screen sizes.</li>
+  <li>It should be easy to contact the club by using a simple contact form.</li>
+  <li>To receive a message from the club in a timely manner after using contact form.</li>
   <li>To have a content of the website updated regularly i.e., Gallery, Upcoming Events.</li>
   </ul>
 </ul>
@@ -87,9 +87,9 @@
 
 ![Responsive Design](docs/main-website-colors.PNG "Main website colors")
 <ul>
-  <li>#9BA37E is the main background color for the menu section,</li>
-  <li>#D9DDC9 is the main background color for the body of the website,</li>
-  <li>#EBEBEC is the main backgroung color for the contact form input fields</li>
+  <li>#9BA37E is the main background color for the menu section.</li>
+  <li>#D9DDC9 is the main background color for the body of the website.</li>
+  <li>#EBEBEC is the main backgroung color for the contact form input fields.</li>
   <li>#000000 is the main color for all text information displayed on the webpage.</li>
 </ul>
 </ul>
@@ -119,11 +119,11 @@
 <ul>
   <li><strong>Navigation</strong></li>
 <ul>
-<li>The navigation menu is located at the top of the page. The page navigation system consists of the club name which is located on the left hand side while the other navigation links are located on the right hand side,</li>
-<li>The navigation bar is very intuitive and easy to use,</li>
-<li>The Navigation bar is positioned on top of the page(sticky) at all the time to allow user quickly move between individual sections of the page,</li>
-<li>The navigation menu layout differ (website navigation links) depending on which screen size the website is displayed,</li>
-<li>A hover effect is implemented to visually highlight menu links when the user hovers over them,</li> 
+<li>The navigation menu is located at the top of the page. The page navigation system consists of the club name which is located on the left hand side while the other navigation links are located on the right hand side.</li>
+<li>The navigation bar is very intuitive and easy to use.</li>
+<li>The Navigation bar is positioned on top of the page(sticky) at all the time to allow user quickly move between individual sections of the page.</li>
+<li>The navigation menu layout differ (website navigation links) depending on which screen size the website is displayed.</li>
+<li>A hover effect is implemented to visually highlight menu links when the user hovers over them.</li> 
 <li>Once the relevant menu link is clicked by the user the website will automatically scroll up or scroll down in order to display selected section.</li>
 </ul>
 </ul>
@@ -135,7 +135,7 @@
 <ul>
   <li><strong>About Us</strong></li>
 <ul>
-<li>The About-Us section contains a basic information about the club,</li>
+<li>The About-Us section contains a basic information about the club.</li>
 <li>Additionally this section contains information intended to encourage other people to start their adventure with hiking.</li>
 </ul>
 </ul>
@@ -144,7 +144,7 @@
 <ul>
   <li><strong>Gallery</strong></li>
 <ul>
-<li>The content of this section is showing the photos taken by the club members from their hiking trips,</li>
+<li>The content of this section is showing the photos taken by the club members from their hiking trips.</li>
 <li>This section can be very inspiring for both new and existing club members.</li>
 </ul>
 </ul>
@@ -154,8 +154,8 @@
   <li><strong>Upcoming events</strong></li>
 <ul>
   <li>The content of this section allows users to find information about upcoming hiking trips,</li>
-  <li>Information in this section is uploaded in advance to make sure that people can plan their hiking trips accordingly,</li>
-  <li>Interactive map allows users to check where the hikng hiking trip will start,</li>
+  <li>Information in this section is uploaded in advance to make sure that people can plan their hiking trips accordingly.</li>
+  <li>Interactive map allows users to check where the hikng hiking trip will start.</li>
   <li>User can use the contact form to contact the club in order to get more information about the event.</li>
 </ul>
 </ul>
@@ -165,10 +165,7 @@
   <li><strong>Contact Us</strong></li>
 <ul>
 <li>This section allows user to send a message with their queries,</li>
-<li>Relevant information must be provided in order to send a message i.e., all sections of the form must be filled with appropirate information,</li>
-<li>All information gathered in 'Contact Us' form is technically ready to be send to the database using POST method as each input field has its own id and name,</li>
-<li>However after consultation with my mentor I decided not to use a POST method to send information to https://formdump.codeinstitute.net due to security reasons,</li>
-<li>Instead of that and as mention above after the form is submitted a single page will open to inform the user that their message has been received.</li>
+<li>Relevant information must be provided in order to send a message i.e., all sections of the form must be filled with appropirate information.</li>
 </ul>
 </ul>
 
@@ -176,17 +173,18 @@
 <ul>
 <li><strong>Form Confirmation</strong></li>
 <ul>
-<li>Once the user clicks on a <strong>Send message</strong> button a confirmation page will open(in the same window) informing that their message was received,</li>
+<li>Once the user clicks on a <strong>Send message</strong> button a confirmation page will open(in the same window) informing that their message was received.</li>
 <li>The <strong>Home Page</strong> button provides a direct link back to the main page.
 </ul>
 </ul>
 
 ![Navigation](docs/contact-form-submission-confirmation.PNG "Contact form submission confirmation")
 
+<ul>
 <li><strong>Social Media section</strong></li>
 <ul>
-<li>This section allows user to open the club social media channels,</li>
-<li>There are four different social media platforms that users can chose from,</li>
+<li>This section allows user to open the club social media channels.</li>
+<li>There are four different social media platforms that users can chose from.</li>
 <li>On social media channels users can find even more information about the club, events, etc.</li>
 </ul>
 </ul>
@@ -198,41 +196,10 @@
 <ul>
   <li>Responsive design</li>
   <ul>
-<li>This website is designed to be reponsive on all devices sizes,</li>
+<li>This website is designed to be reponsive on all devices sizes.</li>
 <li>Additionally contains interactive elements.</li>
   </ul>
 </ul>
-
-# **Testing**
-<ul>
-<li>
-The website was tested using the browsers listed below and it's confirmed to work correctly on each one of them:
-<ul>
-<li>
-  Chrome
-</li>
-<li>
-  Firefox
-</li>
-<li>
-  Safari
-</li>
-<li>
-  Edge
-</li>
-</ul>
-</li>
-<li>
-The website was also viewed on a variety of different devices such as Desktop, Laptop, iPad, Tablet, iPhone 7, iPhone 8, iPhone X, iPhone 12, Google Pixel 4a.
-</li>
-<li>
-It is confirmed that the website is fully operational and it's design allows users for easy navigation, 
-</li>
-<li>
-It is confirmed that all sections are all readable and easy to understand.  
-</li>
-</ul>
-<hr>
 
 # **Languages Used**
 <p>The following languages have been used during the website design process:</p>
@@ -281,6 +248,37 @@ It is confirmed that all sections are all readable and easy to understand.
 <li>Extremly helpful tool that helped me to find out where overflows were located on my website.</li>
 </ul>
 </ol>
+<hr>
+
+# **Testing**
+<ul>
+<li>
+The website was tested using the browsers listed below and it's confirmed to work correctly on each one of them:
+<ul>
+<li>
+  Chrome
+</li>
+<li>
+  Firefox
+</li>
+<li>
+  Safari
+</li>
+<li>
+  Edge
+</li>
+</ul>
+</li>
+<li>
+The website was also viewed on a variety of different devices such as Desktop, Laptop, iPad, Tablet, iPhone 7, iPhone 8, iPhone X, iPhone 12, Google Pixel 4a.
+</li>
+<li>
+It is confirmed that the website is fully operational and it's design allows users for easy navigation. 
+</li>
+<li>
+It is confirmed that all sections are all readable and easy to understand.  
+</li>
+</ul>
 <hr>
 
 # **Validator Testing**
@@ -347,8 +345,9 @@ Photos in the gallery section are almost the most important pillar of this websi
 ## **User Experience (UX) Testing Results**
 <ul>
 <li>After this website was designed , a link to the project was sent to my friends and true hiking enthusiasts with the request to test the website and to express general opinion about the website's appearance, content and its functionality. The feedback I got was very positive. The opinions expressed the fact that the website is very legible and easy to use. Some small bugs related mostly to the typo errors were corrected immediately.</li>
-<li>
 </ul>
+</ul>
+<hr>
 
 # **Bugs**
 ### **Solved Bugs**
@@ -405,4 +404,6 @@ All the images that are used on the Clonmel Hiking Club website were downloaded 
 <ul>
 <li>My Mentor <a href="https://github.com/Eventyret">Simen Daehlin</a> for continuous helpful feedback.</li>
 <li>Code Institute's <a href="https://app.slack.com/client/">Slack</a> community for their support.</li>
+<li>Tutorials on <a href="https://www.w3schools.com/html/">W3 Schools</a> as a fantastic source of knowledge.</li>
+<li>Mike's Dane <a href="https://www.youtube.com/watch?v=6FedyF0F2i8&t=3s">Flex-box</a> tutorial was agreat help to understand the flex-box concept.</li>
 </ul>

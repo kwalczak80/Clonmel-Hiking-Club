@@ -359,13 +359,13 @@ Photos in the gallery section are almost the most important pillar of this websi
 
 # **Website Performance**
 <ul>
-  <li>During the Lighthouse testing I discovered that the website performance result was quite low(69%). This was related to size of the pictures(static) displayed in the gallery section. In order to improve the website overall performance the following steps were performed:</li>
+  <li>During the Lighthouse testing, I discovered that the website performance result was quite low(69%). This was related to the size of the pictures displayed in the gallery section. To improve the website's overall performance the following steps were performed:</li>
 <ul>
-  <li>Size all pictures was reduced to 600x400px,</li>
-  <li>DPI was reduced from 300 to 72,</li>
-  <li>All pictures were converted from JPG to WEBP using WEBP Converter</li>
+  <li>Size all pictures were reduced to 600x400px.</li>
+  <li>DPI was reduced from 300 to 72.</li>
+  <li>All pictures were converted from JPG to WEBP using WEBP Converter.</li>
 </ul>
-  <li>All links to the pragrams that were used to complete setps above can be found in <strong>Frameworks, Libraries & Programs Used</strong> section of this document</li>
+  <li>All links to the programs that were used to complete the steps above can be found in the Frameworks, Libraries & Programs Used section of this document.</li>
 </ul>
 <hr>
 

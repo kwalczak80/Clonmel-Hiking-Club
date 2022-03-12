@@ -1,7 +1,6 @@
 # **Clonmel Hiking Club**
 **[Click here to visit Clonmel Hiking Club website](https://kwalczak80.github.io/Clonmel-Hiking-Club)**<br>
-<p>Welcome to the official Clonmel Hiking Club website.
-  The website is designed to provide information about hiking club in Clonmel area. The website consists of sections where users can find relevant infomation about the club, view the pictures in the gallery section and find information about upcoming events. In addition, if the user has any queries, they can use a simple contact form in order to send a message to the club.</p>
+<p>Welcome to the official Clonmel Hiking Club website. The website is designed to provide information about the Hiking Club in Clonmel area. The website consists of sections where users can find relevant information about the club, view the pictures in the gallery section, and find information about upcoming events. In addition, if the user has any queries, they can use a simple contact form to send a message to the club.</p>
 
 ![Responsive Design](docs/responsive-design.PNG "Responsive Design of Clonmel Hiking Club website")
 <hr>
@@ -11,10 +10,10 @@
 <h2>User Goals</h2>
 <ul><li><strong>First-time User Goals</strong>
   <ul>
-  <li>The website has to be easy to and intuitive to use.</li>
-  <li>The website has to work well on mobile phones, ipads, tables and desktops.</li>
+  <li>The website has to be easy and intuitive to use.</li>
+  <li>The website has to work well on mobile phones, tablets, and desktops.</li>
   <li>The website is visually attractive.</li>
-  <li>As the website is displayed on a single page all sections are clearly visually separated.</li>
+  <li>As the website is displayed on a single page all sections are visually separated.</li>
   </ul>
   </ul>
 <h2>User Stories</h2>

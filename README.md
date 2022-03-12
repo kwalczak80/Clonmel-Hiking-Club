@@ -70,9 +70,9 @@
 <ul>
   <li>I used Balsamiq software to create a visual layout of the Clonmel Hiking Club webpage. You can find my wireframes below.</li>
   <ul>
-  <li>Desktop wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-desktop.pdf">here</a></li>
-  <li>Tablet wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-tablet.pdf">here</a></li>
-  <li>Mobile wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-mobile.pdf">here</a></li>
+  <li>The desktop wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-desktop.pdf">here</a></li>
+  <li>The tablet wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-tablet.pdf">here</a></li>
+  <li>The mobile wireframe can be found <a href="assets/wireframe/clonmel-hiking-club-wireframe-mobile.pdf">here</a></li>
   </ul>
 </ul>
 <hr>

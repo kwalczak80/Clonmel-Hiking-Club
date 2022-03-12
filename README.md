@@ -344,7 +344,7 @@ Photos in the gallery section are almost the most important pillar of this websi
 
 ## **User Experience (UX) Testing Results**
 <ul>
-<li>After this website was designed , a link to the project was sent to my friends and true hiking enthusiasts with the request to test the website and to express general opinion about the website's appearance, content and its functionality. The feedback I got was very positive. The opinions expressed the fact that the website is very legible and easy to use. Some small bugs related mostly to the typo errors were corrected immediately.</li>
+<li>After this website was designed, a link to the project was sent to my friends and true hiking enthusiasts with the request to test the website and to express a general opinion about the website's appearance, content, and functionality. The feedback I got was very positive. The opinions expressed the fact that the website is very legible and easy to use. Some small bugs related mostly to the typo errors were corrected immediately.</li>
 </ul>
 </ul>
 <hr>
@@ -352,8 +352,8 @@ Photos in the gallery section are almost the most important pillar of this websi
 # **Bugs**
 ### **Solved Bugs**
 <ul>
-<li>When project was deployed to Github I noticed that images in gallery section were not displayed correctly. To fix the issue I went to GitPod application and I right clicked on each picture to obtain a copy of relative path. Once the code was updated and pushed to Github this problem was no longer an issue.</li>
-<li>During the design process I noticed that some elements in the footer section were not correctly positioned on the page. This was related to divs overflow. To quickly locate the problem I used Unicorn Revealer in order to make relavant corrections in the code.</li>
+<li>When the project was deployed to Github I noticed that images in the gallery section were not displayed correctly. To fix the issue I went to the GitPod application and I right-clicked on each picture to obtain a copy of the relative path. Once the code was updated and pushed to Github this problem was no longer an issue.</li>
+<li>During the design process, I noticed that some elements in the footer section were not correctly positioned on the page. This was related to divs overflow. To quickly locate the problem I used Unicorn Revealer to make relevant corrections in the code.</li>
 </ul>
 <hr>
 

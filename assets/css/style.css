@@ -15,7 +15,7 @@ html {
 
 body {
     background-color: rgb(217, 221, 201);
-    font-family: "Lato", sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 a {
@@ -37,7 +37,7 @@ header {
 }
 
 #club-name {
-    font-family: "Oswald", sans-serif;
+    font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     font-size: 3.5rem;
 }
@@ -45,20 +45,22 @@ header {
 #logo-outer {
     width: 100%;
     height: 40rem;
-
 }
 
 #main-logo {
     width: 100%;
     height: 40rem;
-    background: url('../images/main-picture.webp') center center/cover no-repeat;
-}
+    /*background: url('../images/main-picture.webp') center center/cover no-repeat;*/
+    background: url('../images/main-picture.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    }
 
 .common-section {
     font-size: 2rem;
 }
 
-/*Menu section*/
+/*Navigation*/
 
 .nav-list {
     background: rgb(155, 163, 126);
@@ -83,7 +85,7 @@ header {
     font-weight: 900;
 }
 
-/*About-Us section*/
+/*About Us*/
 
 #about-us p {
     padding: 1px;
@@ -123,10 +125,10 @@ header {
     padding-bottom: 0.5rem;
 }
 
-/*Gallery section*/
+/*Gallery*/
 .grit-wrapper {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(40rem, 1fr));
 }
 
 img {
@@ -184,12 +186,8 @@ img {
     cursor: pointer;
 }
 
-/* Footer section*/
+/* Footer*/
 
-/*footer {
-    height: 15rem;
-}
-*/
 .social-networks {
     text-align: center;
 }
@@ -204,7 +202,7 @@ img {
     padding: 5%;
 }
 
-/*Contact-Us*/
+/*Confirmation page*/
 
 .button a {
     text-decoration: none;
@@ -222,7 +220,7 @@ img {
     margin-bottom: 2rem;
 }
 
-/* Media query*/
+/*Media queries*/
 
 @media screen and (min-width: 320px) and (max-width: 640px) {
 

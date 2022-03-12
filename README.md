@@ -38,8 +38,7 @@
 <ul>
   <li>As a frequent user I would like to check if the gallery has been updated with new photos that might inspire me for hiking trips,</li>
   <li>As a frequent user I would like to find information about upcoming events that might be suitable for me,</li>
-  <li>As a frequent user I would like to use a contact form to get more information about the topic I'm interested about.</li>
-</ul>
+ </ul>
 </ul>  
 </ul>
 </ul>
@@ -316,14 +315,27 @@ It is confirmed that all sections are all readable and easy to understand.
 <ul>
 <li>As a returning user I would like to find more information about the club in social media channels</li>
 <ul>
-<li>The user has a choice of four available social networking sites operated by Clonmel Hiking Club that provide additional information. Each of the selected social pages is displayed in a separate window to allow the user to quickly return to the club page</li>
+<li>The user has a choice of four available Clonmel Hiking Club social channels to visit. Social channels are a very important part of the website because they allow the user to contact other club members or exchange information. Each of the selected social pages is displayed in a separate tab, which allows user  to quickly return to the club's website.</li>
 </ul>
-<ul>
 <li>As a returning user I would like to be able to use the contact form to send a message regarding my inquiries</li>
+<ul>
+<li>The contact section is very simple to use and requires a minimum amount of information that the user has to enter in order to send a message.</li>
+</ul>
+</ul>
+<li>Frequent User</li>
+<ul><li>As a frequent user I would like to check if the gallery has been updated with new photos that might inspire me for hiking trips,</li>
+<ul>
+<li>
+Photos in the gallery section are almost the most important pillar of this website. They allow the user to check the club's activities and can be a source of inspiration. In addition, the regular addition of new photos by club members can significantly encourage the user to visit the site frequently</li>
+</ul>
+<li>As a frequent user I would like to find information about upcoming events that might be suitable for me,</li>
+<ul>
+</ul>
+<ul><li>The Upcoming Events section contains information about the currently planned hiking trip. It is presented in a very simple way by means of a short text information and an interactive google map with the exact location of the event. If interested, the user can always use the contact form to obtain additional information about the trip.<li>
 </ul>
 </ul>
 </ul>
-</li>
+
 
 # **Bugs**
 ### **Solved Bugs**

@@ -167,7 +167,7 @@
    <li><strong>Contact Us</strong></li>
    <ul>
       <li>This section allows the user to send a message with their queries,</li>
-      <li>Relevant information must be provided by the user to send a message i.e., all sections of the form must be filled with appropriate information.</li>
+      <li>Relevant information must be provided by the user to send a message i.e., all sections of the form must be filled out with appropriate information.</li>
    </ul>
 </ul>
 
@@ -215,11 +215,11 @@
    </ul>
    <li><a href="https://fonts.google.com/">Google Fonts</a></li>
    <ul>
-      <li>Official Google Fonts website was used to import relevant fonts which are used in the project</li>
+      <li>Official Google Fonts website was used to import relevant fonts which are used in the project.</li>
    </ul>
    <li><a href="https://fontawesome.com/">Font Awesome</a></li>
    <ul>
-      <li>Font Awesome was used to add icons that represent links to social media</li>
+      <li>Font Awesome was used to add icons that represent links to social media.</li>
    </ul>
    <li><a href="https://github.com/">GitHub</a></li>
    <ul>
@@ -227,19 +227,19 @@
    </ul>
    <li><a href="https://picresize.com/">The Internet's Original Picture Resizing Tool</a></li>
    <ul>
-      <li>Picture Online Resizing Tool was used to resize relevant images which are displayed in the gallery section</li>
+      <li>Picture Online Resizing Tool was used to resize relevant images which are displayed in the gallery section.</li>
    </ul>
    <li><a href="https://convert-dpi.com/">Online DPI Converter</a></li>
    <ul>
-      <li>An online DPI Converter was used to change the DPI ratio of the images downloaded from the Pexels website</li>
+      <li>An online DPI Converter was used to change the DPI ratio of the images downloaded from the Rawpixel website.</li>
    </ul>
    <li><a href="https://ezgif.com/jpg-to-webp">Online JPG to WEBP Converter</a></li>
    <ul>
-      <li>Online JPG to WEBP Converter was used to change images type from JPG to WEBP</li>
+      <li>Online JPG to WEBP Converter was used to change images type from JPG to WEBP.</li>
    </ul>
    <li><a href="https://coolors.co">The super fast color palettes generator</a></li>
    <ul>
-      <li>An online tool was used to determine the appropriate color scheme for the website</li>
+      <li>An online tool was used to determine the appropriate color scheme for the website.</li>
    </ul>
    <li><a href="https://balsamiq.com">UI Design</a></li>
    <ul>

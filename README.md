@@ -82,7 +82,7 @@
    <li><strong>Colour Scheme</strong></li>
    <ul>
       <li>The colors used on the website are to be in line with the theme of hiking in the mountains. The appropriate shade of colors on the page ensures that there are no large contrasts between the individual sections of the page.</li>
-      <li>I have used <a href="https://coolors.co">Coolors</a> to come up with a color scheme. I used a <a href="https://contrastchecker.com/">contrast checker</a> to make sure that the contrast is sufficient and there are no issues with website readability.</li>
+      <li>I used <a href="https://coolors.co">Coolors</a> to come up with a color scheme. I used a <a href="https://contrastchecker.com/">contrast checker</a> to make sure that the contrast is sufficient and there are no issues with website readability.</li>
 
 ![Responsive Design](assets/docs/main-website-colors.PNG "Main website colors")
    <ul>

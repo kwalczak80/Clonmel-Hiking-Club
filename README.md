@@ -13,7 +13,7 @@
    <li>The website has to be easy and intuitive to use.</li>
    <li>The website has to work well on mobile phones, tablets, and desktops.</li>
    <li>The website is visually attractive.</li>
-   <li>As the website is displayed on a single page all sections are visually separated.</li>
+   <li>As the website is displayed on a single page all sections should be visually separated.</li>
 </ul>
 
 <h2>User Stories</h2>

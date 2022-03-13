@@ -164,7 +164,7 @@
 <ul>
    <li><strong>Contact Us</strong></li>
    <ul>
-      <li>This section allows the user to send a message with their queries,</li>
+      <li>This section allows the user to send a message with their inquiries.</li>
       <li>Relevant information must be provided by the user to send a message i.e., all sections of the form must be filled out with appropriate information.</li>
    </ul>
 </ul>

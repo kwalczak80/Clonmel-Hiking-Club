@@ -8,16 +8,14 @@
 # **User Experience (UX)**
 
 <h2>User Goals</h2>
+
 <ul>
-   <li>
-      <strong>First-time User Goals</strong>
-      <ul>
-         <li>The website has to be easy and intuitive to use.</li>
-         <li>The website has to work well on mobile phones, tablets, and desktops.</li>
-         <li>The website is visually attractive.</li>
-         <li>As the website is displayed on a single page all sections are visually separated.</li>
-      </ul>
+   <li>The website has to be easy and intuitive to use.</li>
+   <li>The website has to work well on mobile phones, tablets, and desktops.</li>
+   <li>The website is visually attractive.</li>
+   <li>As the website is displayed on a single page all sections are visually separated.</li>
 </ul>
+
 <h2>User Stories</h2>
 <ul>
    <li>
@@ -52,13 +50,13 @@
 
 <h2>User Requirements and Expectations</h2>
 <ul>
-   <li>Requirements</li>
+   <li><strong>Requirements</strong></li>
    <ul>
       <li>Easy to navigate through the website by using links in the menu.</li>
       <li>A visually appealing website with a functional structure.</li>
       <li>Ability to contact the club with any inquiries.</li>
    </ul>
-   <li>Expectations</li>
+   <li><strong>Expectations</strong></li>
    <ul>
       <li>To have a nicely designed web layout that can be seen on different screen sizes.</li>
       <li>It should be easy to contact the club by using a simple contact form.</li>
@@ -84,15 +82,15 @@
    <li><strong>Colour Scheme</strong></li>
    <ul>
       <li>The colors used on the website are to be in line with the theme of hiking in the mountains. The appropriate shade of colors on the page ensures that there are no large contrasts between the individual sections of the page.</li>
-      <li>I have used <a href="https://coolors.co">Coolors</a> to come up with a color scheme. I used a contrast checker to make sure that the contrast is sufficient and there are no issues with website readability.</li>
+      <li>I have used <a href="https://coolors.co">Coolors</a> to come up with a color scheme. I used a <a href="https://contrastchecker.com/">contrast checker</a> to make sure that the contrast is sufficient and there are no issues with website readability.</li>
 
 ![Responsive Design](assets/docs/main-website-colors.PNG "Main website colors")
-      <ul>
-       <li>#9BA37E is the main background color for the menu section.</li>
-        <li>#D9DDC9 is the main background color for the body of the website.</li>
-        <li>#EBEBEC is the main background color for the contact form input fields.</li>
-        <li>#000000 is the main color for all text information displayed on the webpage.</li>
-      </ul>
+   <ul>
+         <li>#9BA37E is the main background color for the menu section.</li>
+         <li>#D9DDC9 is the main background color for the body of the website.</li>
+         <li>#EBEBEC is the main background color for the contact form input fields.</li>
+         <li>#000000 is the main color for all text information displayed on the webpage.</li>
+   </ul>
    </ul>
    <ul>
       <li><strong>Typography</strong></li>
@@ -150,7 +148,7 @@
    </ul>
 </ul>
 
-![Navigation](assets/docs/gallery-section.PNG "Gallery sectionn Bar")
+![Navigation](assets/docs/gallery-section.PNG "Gallery section Bar")
 <ul>
    <li><strong>Upcoming events</strong></li>
    <ul>
@@ -175,7 +173,7 @@
 <ul>
    <li><strong>Form Confirmation</strong></li>
    <ul>
-      <li>Once the user clicks on a <strong>Send message</strong> button a confirmation page will open(in the same window) informing that their message was received.</li>
+      <li>Once the user clicks on a <strong>Send message</strong> button a confirmation page will open(in the same window) informing that their message was sent to the Clonmel Hiking Club. For this project it validates the form only.</li>
       <li>The <strong>Home Page</strong> button provides a direct link back to the main page.
    </ul>
 </ul>
@@ -195,23 +193,22 @@
 <hr>
 
 # **Responsive design**
+
 <ul>
-   <li>Responsive design</li>
-   <ul>
-      <li>This website is designed to be responsive on all devices sizes.</li>
-      <li>Additionally, it contains interactive elements.</li>
-   </ul>
+   <li>This website is designed to be responsive on all devices sizes.</li>
+   <li>Additionally, it contains interactive elements.</li>
 </ul>
+<hr>
 
 # **Technologies Used**
 <ol type="1">
    <li><a href="https://en.wikipedia.org/wiki/HTML5">HTML</a></li>
    <ul>
-   <li>Markup language </li>
+      <li>Markup language </li>
    </ul>
    <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a></li>
    <ul>
-   <li>Cascading Style Sheets</li>
+      <li>Cascading Style Sheets</li>
    </ul>
    <li><a href="https://fonts.google.com/">Google Fonts</a></li>
    <ul>
@@ -223,7 +220,7 @@
    </ul>
    <li><a href="https://github.com/">GitHub</a></li>
    <ul>
-      <li>GitHub was used to store all the project files.</li>
+      <li>GitHub was used to store all the project files written in Gitpod.</li>
    </ul>
    <li><a href="https://picresize.com/">The Internet's Original Picture Resizing Tool</a></li>
    <ul>
@@ -249,9 +246,13 @@
    <ul>
       <li>An extremely helpful tool that helped me to find out where overflows were located on my website.</li>
    </ul>
-   <li><a href="https://www.freeformatter.com/">HTML Formatter</a></li>
+   <li><a href="https://www.freeformatter.com/">HTML and CSS free formatter</a></li>
    <ul>
       <li>An online tool which was used to improve HTML and CSS code presentation.</li>
+   </ul>
+   <li><a href="https://contrastchecker.com/">Contrast Checker</a></li>
+   <ul>
+      <li>This tool was used to check if there is no contrast issue on the web page.</li>
    </ul>
 </ol>
 <hr>
@@ -276,7 +277,7 @@
       </ul>
    </li>
    <li>
-      The website was also viewed on a variety of different devices such as Desktop, Laptop, Tablet, iPhone 6, iPhone 7, Samsung Galaxy S7, iPhone SE, iPhone 12 Pro, Google Pixel.
+      The website was also viewed on a variety of different devices such as Desktop, Laptop, Tablet, iPhone 6, iPhone 7, Samsung Galaxy S8+, iPhone 12 Pro, Google Pixel 4a.
    </li>
    <li>
       It is confirmed that the website is fully operational and its design allows the user for easy navigation. 
@@ -292,9 +293,11 @@
    <li>HTML - No errors or warnings were found during the code validation process when using the official <a href="https://validator.w3.org/">W3C Validator</a>. Results of the test can be found <a href="assets/docs/html-validator-check.PNG">here</a></li>
    <li>CSS - No errors or warnings were found during the code validation process when using the official <a href="https://jigsaw.w3.org/css-validator/">(Jigsaw) Validator</a>. Results of the test can be found <a href="assets/docs/css-validator-check.PNG">here</a></li>
    <li>The Lighthouse tool was used to assess the website accessibility and the results are shown below.</li>
+
+   ![Navigation](assets/docs/accessibility-performance.PNG "Accessibility performance")
+   <li>The result of 73 in performance is due to a large number of photos in the gallery section, which impacts the loading time of the page.</li>
 </ul>
 
-![Navigation](assets/docs/accessibility-performance.PNG "Navigation Bar")
 <hr>
 
 # **Testing User Stories from User Experience (UX) Section**
@@ -360,20 +363,21 @@
 ### **Solved Bugs**
 <ul>
    <li>When the project was deployed to Github I noticed that images in the gallery section were not displayed correctly. To fix the issue I went to the GitPod application and I right-clicked on each picture to obtain a copy of the relative path. Once the code was updated and pushed to Github this problem was no longer an issue.</li>
-   <li>During the design process, I noticed that some elements in the footer section were not correctly positioned on the page. This was related to divs overflow. To quickly locate the problem I used Unicorn Revealer to make relevant corrections in the code.</li>
+   <li>During the design process, I noticed that some elements in the footer section were not correctly positioned on the page. This was related to divs overflow. To quickly locate the problem I used <a href="https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB">Unicorn Revealer</a> to make relevant corrections in the code.</li>
 </ul>
 <hr>
 
 # **Website Performance**
 <ul>
-   <li>During the Lighthouse testing, I discovered that the website performance result was quite low(69%). This was related to the size of the pictures displayed in the gallery section. To improve the website's overall performance the following steps were performed:</li>
+   <li>During the Lighthouse testing, I discovered that the website performance result was quite low(69%). This was related to the size of the pictures displayed in the gallery section and their number. To improve the website's overall performance the following steps were performed:</li>
    <ul>
       <li>Size all pictures were reduced to 600x400px.</li>
       <li>DPI was reduced from 300 to 72.</li>
-      <li>All pictures in gallery section were converted from JPG to WEBP using WEBP Converter.</li>
-    </ul> 
-   <li>The main picture is still in JPG format as after conversion to WEBP format its appearance was too dark therefore I decided not to change the format.</li>
+      <li>All pictures in the gallery section were converted from JPG to WEBP using the WEBP Converter.</li>
+   </ul>
+
    <li>All links to the programs that were used to complete the steps above can be found in the Frameworks, Libraries & Programs Used section of this document.</li>
+   <li>The main picture is still in JPG format as after conversion to WEBP format its appearance was too dark therefore I decided not to change the format.</li>
 </ul>
 <hr>
 
@@ -417,4 +421,5 @@
    <li>Code Institute's <a href="https://app.slack.com/client/">Slack</a> community for their support.</li>
    <li>HTML and CSS tutorials on <a href="https://www.w3schools.com/html/">W3 Schools</a> as an additional source of knowledge.</li>
    <li>Mike's Dane <a href="https://www.youtube.com/watch?v=6FedyF0F2i8&t=3s">Flex-box</a> tutorial was a great help to understand the flex-box concept.</li>
+   <li>Angela's Delise <a href="https://www.youtube.com/channel/UC_TjoSnaI3CTgIgmSn3rruA">HTML and CSS</a> tutorials.</li>
 </ul>

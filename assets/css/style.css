@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     border: none;
-    color: rgb(0, 0, 0);
+    color: #000000;
 }
 
 html {
@@ -14,7 +14,7 @@ html {
 }
 
 body {
-    background-color: rgb(217, 221, 201);
+    background-color: #d9ddc9;
     font-family: 'Lato', sans-serif;
 }
 
@@ -62,7 +62,7 @@ header {
 /*Navigation*/
 
 .nav-list {
-    background: rgb(155, 163, 126);
+    background: #9ba37e;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -80,7 +80,7 @@ header {
 
 .nav-item a:hover {
     color: rgb(41, 177, 41);
-    background-color: rgb(55, 83, 74);
+    background-color: #37534a;
     font-weight: 900;
 }
 
@@ -152,7 +152,7 @@ img {
     max-width: 68rem;
     padding: 2rem;
     box-sizing: border-box;
-    border: 1px solid rgb(0, 0, 0);
+    border: 1px solid #000000;
     background-color: rgba(145, 135, 135, 0.2);
 }
 
@@ -161,7 +161,7 @@ img {
     height: 4rem;
     margin-top: 2rem;
     padding-left: 0.5rem;
-    border: 1px solid rgb(119, 119, 119);
+    border: 1px solid #777777;
     border-radius: 1rem;
     outline: none;
     background-color: #EBEBEC;
@@ -177,7 +177,7 @@ img {
 .button {
     margin: 0 auto;
     border-radius: 1rem;
-    color: rgb(255, 255, 255);
+    color: #ffffff;
     margin-top: 2rem;
     padding: 1rem;
     background-color: #3a3a3a;
@@ -214,7 +214,7 @@ img {
 
 .top-bar {
     width: 100%;
-    background: rgb(155, 163, 126);
+    background: #9ba37e;
     text-align: center;
     margin-bottom: 2rem;
 }
@@ -249,7 +249,7 @@ img {
     }
 
     .nav-item a:hover {
-        color: rgb(41, 177, 41);
+        color: #29b129;
         padding: 2px;
         font-weight: 500;
     }

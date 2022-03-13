@@ -354,7 +354,7 @@
 
 ## **User Experience (UX) Testing Results**
 <ul>
-   <li>After this website was designed, a link to the project was sent to my friends and true hiking enthusiasts with the request to test the website and to express a general opinion about the website's appearance, content, and functionality. The feedback I got was very positive. The opinions expressed the fact that the website is very legible and easy to use. Some small bugs related mostly to the typo errors were corrected immediately.</li>
+   <li>After this website was designed, a link to the project was sent to my friends and true hiking enthusiasts with the request to test the website and to express a general opinion about the website's appearance, content, and functionality. The feedback I received was very positive. The opinions expressed the fact that the website is very legible and easy to use. Some small bugs related mostly to the typo errors were corrected immediately.</li>
 </ul>
 </ul>
 <hr>

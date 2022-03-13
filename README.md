@@ -341,7 +341,7 @@
       <li>As a frequent user, I would like to check if the gallery has been updated with new photos that might inspire me for hiking trips.</li>
       <ul>
          <li>
-            Photos in the gallery section are almost the most important pillar of this website. They allow the user to check the club's activities and can be a source of inspiration. In addition, the regular addition of new photos by club members can significantly encourage the user to visit the site frequently.
+            Photos in the gallery section are almost the most important pillar of this website. They allow the user to check the club's activities and can be a source of inspiration. Furthermore, updating this section regularly can significantly encourage users to visit the website frequently.
          </li>
       </ul>
       <li>As a frequent user, I would like to find information about upcoming events that might be suitable for me.</li>

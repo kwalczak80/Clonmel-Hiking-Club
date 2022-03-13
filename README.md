@@ -311,7 +311,7 @@
       </ul>
       <li>As a first-time user, I would like to read information about the Clonmel Hiking Club.</li>
       <ul>
-         <li>The about us section very clearly and briefly describes what the Clonmel Hiking Club is and in addition inspires website users to join its group..</li>
+         <li>The about us section very clearly and briefly describes what the Clonmel Hiking Club is and in addition inspires website users to join its group.</li>
       </ul>
       <li>As a first-time user, I would like to easily read the text information displayed on the webpage regardless of the device screen size I'm using.</li>
       <ul>
@@ -344,7 +344,7 @@
       <li>As a frequent user, I would like to find information about upcoming events that might be suitable for me.</li>
       <ul></ul>
       <ul>
-         <li>The Upcoming Events section contains information about the currently planned hiking trip. It is presented in a very simple way using short text information and an interactive google map with the exact location of the event. If interested, the user can always use the contact form to obtain additional information about the trip.</li>
+         <li>The Upcoming Events section contains information about the currently planned hiking trip. It is presented in a very simple way using short text information and an interactive google map with the exact location of the event. If interested, the user can always use the contact form to obtain additional information about the hiking trip.</li>
       </ul>
    </ul>
 </ul>
@@ -371,8 +371,8 @@
       <li>Size all pictures were reduced to 600x400px.</li>
       <li>DPI was reduced from 300 to 72.</li>
       <li>All pictures in gallery section were converted from JPG to WEBP using WEBP Converter.</li>
-      <li>The main picture is still in jpg format as after conversion its appearance was too dark therefore I decided not to change the format.</li>
-   </ul>
+    </ul> 
+   <li>The main picture is still in JPG format as after conversion to WEBP format its appearance was too dark therefore I decided not to change the format.</li>
    <li>All links to the programs that were used to complete the steps above can be found in the Frameworks, Libraries & Programs Used section of this document.</li>
 </ul>
 <hr>

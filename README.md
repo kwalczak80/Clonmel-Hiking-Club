@@ -369,13 +369,13 @@
 
 # **Website Performance**
 <ul>
-   <li>During the Lighthouse testing, I discovered that the website performance result was quite low(69%). This was related to the size of the pictures displayed in the gallery section and their number. To improve the website's overall performance the following steps were performed:</li>
+   <li>During the Lighthouse testing, I discovered that the website performance result was quite low(61%). This was related to the size of the pictures displayed in the gallery section and their number. To improve the website's overall performance the following steps were performed:</li>
    <ul>
       <li>Size all pictures were reduced to 600x400px.</li>
       <li>DPI was reduced from 300 to 72.</li>
       <li>All pictures in the gallery section were converted from JPG to WEBP using the WEBP Converter.</li>
    </ul>
-   <li>After the pictures conversion, the website performance was slightly increased.</li>
+   <li>After the pictures were converted, the website performance was slightly increased(73).</li>
    <li>All links to the programs that were used to complete the steps above can be found in the Frameworks, Libraries & Programs Used section of this document.</li>
    <li>The main picture is still in JPG format as after conversion to WEBP format its appearance was too dark therefore I decided not to change the format.</li>
 </ul>

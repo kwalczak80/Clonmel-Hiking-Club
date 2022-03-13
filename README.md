@@ -289,8 +289,8 @@
 
 # **Validator Testing**
 <ul>
-   <li>HTML - No errors or warnings were found during the code validation process when using the official W3C Validator. Results can be found <a href="assets/docs/html-validator-check.PNG">here</a></li>
-   <li>CSS - No errors or warnings were found during the code validation process when using the official (Jigsaw) Validator.Results can be found <a href="assets/docs/css-validator-check.PNG">here</a></li>
+   <li>HTML - No errors or warnings were found during the code validation process when using the official <a href="https://validator.w3.org/">W3C Validator</a>. Results of the test can be found <a href="assets/docs/html-validator-check.PNG">here</a></li>
+   <li>CSS - No errors or warnings were found during the code validation process when using the official <a href="https://jigsaw.w3.org/css-validator/">(Jigsaw) Validator</a>. Results of the test can be found <a href="assets/docs/css-validator-check.PNG">here</a></li>
    <li>The Lighthouse tool was used to assess the website accessibility and the results are shown below.</li>
 </ul>
 
@@ -311,7 +311,7 @@
       </ul>
       <li>As a first-time user, I would like to read information about the Clonmel Hiking Club.</li>
       <ul>
-         <li>The about us section very clearly and briefly describes what the Clonmel hiking club is and inspires website visitors to join its group.</li>
+         <li>The about us section very clearly and briefly describes what the Clonmel Hiking Club is and in addition inspires website users to join its group..</li>
       </ul>
       <li>As a first-time user, I would like to easily read the text information displayed on the webpage regardless of the device screen size I'm using.</li>
       <ul>

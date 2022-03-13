@@ -120,7 +120,7 @@
    <ul>
       <li>The navigation menu is located at the top of the page. The page navigation system consists of the club name which is located on the left-hand side while the other navigation links are located on the right-hand side.</li>
       <li>The navigation bar is very intuitive and easy to use.</li>
-      <li>The navigation bar is positioned on top of the page(sticky) at all times to allow the user quickly move between individual sections of the page.</li>
+      <li>The navigation bar is positioned on top of the page at all times to allow the user quickly move between individual sections of the page.</li>
       <li>The navigation menu layout differs (website navigation links) depending on which screen size the website is displayed.</li>
       <li>A hover effect is implemented to visually highlight menu links when the user hovers over them.</li>
       <li>Once the relevant menu link is clicked by the user the website will automatically scroll up or scroll down to display the selected section.</li>

@@ -44,14 +44,14 @@
         <div id="main-logo"></div>
     </div>
     <!-- About us -->
-    <section>
-        <div id="about-us" class="common-section">
+    <section id="about-us" class="common-section">
+        <div>
             <h2>About Us</h2>
             <p>We are a group of people from the Clonmel area who are passionate about hiking. If you think about joining our club please don't hesitate. There are no age restrictions, no sign-ups, or annual fees !!</p>
             <p>Just bring yourself to join our hiking family. Still not quite sure to join?</p>
             <p> Here are some reasons how hiking can improve your life.</p>
-            <div class="container">
-                <div class="box">
+            <div class="information-container">
+                <div class="text-box">
                     <h3>Health and well-being</h3>
                     <p>Walking is an excellent way to maintain fitness and general health. Studies show that even a
                         short
@@ -62,7 +62,7 @@
                         most
                         abilities and requires minimal equipment. </p>
                 </div>
-                <div class="box">
+                <div class="text-box">
                     <h3>Learn something</h3>
                     <p>Whether it is learning how to identify an unknown summit on the horizon or a rare bird perched
                         on a
@@ -74,7 +74,7 @@
                         the
                         learning process.</p>
                 </div>
-                <div class="box">
+                <div class="text-box">
                     <h3>A Different Kind of High</h3>
                     <p>Hiking offers a different kind of high. A high not associated with drugs or alcohol or going out
                         to
@@ -84,7 +84,7 @@
                         way.
                     </p>
                 </div>
-                <div class="box">
+                <div class="text-box">
                     <h3>Nature bathing</h3>
                     <p>Nature is benefits to health are well documented. The Japanese even have a term for it:
                         Shinrin-yoko
@@ -95,7 +95,7 @@
                         mind.
                     </p>
                 </div>
-                <div class="box">
+                <div class="text-box">
                     <h3>Meet friends: old and new</h3>
                     <p>Walking on your own can be very therapeutic, but it is also an excellent social activity! Joining
                         an
@@ -105,7 +105,7 @@
                         can
                         then plan to do as friends, with your family, independently, or on another group tour.</p>
                 </div>
-                <div class="box">
+                <div class="text-box">
                     <h3>Challenges Your Limits</h3>
                     <p>Hiking offers a sense of competition without competing with anyone else, only yourself. It is not
                         a
@@ -170,13 +170,14 @@
     <!-- Contact us -->
     <section id="contact-us" class="common-section">
         <h2>Contact Us</h2>
+        <form action="confirmation-page.html" method="get">
         <div class="contact-box">
-            <form action="confirmation-page.html" method="get">
                 <label for="fname"></label>
-                <input id="fname" type="text" class="input-field" placeholder="Your Name" name="full_name" required>
+                <input type="text" id="fname" class="input-field" placeholder="Your Name" name="fname" required>
                 <label for="email"></label>
-                <input id="email" type="email" class="input-field" placeholder="Your Email" name="email" required>
-                <input type="text" class="input-field" placeholder="Subject" required>
+                <input type="email" id="email" class="input-field" placeholder="Your Email" name="email" required>
+                <label for="subject"></label>
+                <input type="text" id="subject" class="input-field" placeholder="Subject" name="subject" required>
                 <label for="message"></label>
                 <textarea id="message" class="input-field textarea-field" placeholder="Your Message" name="message"
                     required></textarea>

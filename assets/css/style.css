@@ -91,14 +91,14 @@ header {
     text-align: center;
 }
 
-.container {
+.information-container {
     border: 1px solid #000;
     margin: 1px;
     padding: 0.5rem 0;
     text-align: center;
 }
 
-.box {
+.text-box {
     height: auto;
     width: 32%;
     display: inline-block;
@@ -231,7 +231,7 @@ img {
         font-size: 2rem;
     }
 
-    .box {
+    .text-box {
         width: 99%;
     }
 
@@ -272,7 +272,7 @@ img {
         margin-right: 1rem;
     }
 
-    .box {
+    .text-box {
         width: 99%;
     }
 

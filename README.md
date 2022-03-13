@@ -129,7 +129,7 @@
 
 ![Navigation](assets/docs/navigation-bar.PNG "Navigation Bar")
 
-![Navigation](assets/docs/navigation-bar-mobile.PNG "Navigation Bar Mobile")
+![Navigation](assets/docs/navigation-bar-mobile.PNG "Navigation bar mobile version")
 
 <ul>
    <li><strong>About Us</strong></li>

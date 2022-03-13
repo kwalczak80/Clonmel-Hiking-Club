@@ -279,7 +279,7 @@
       The website was also viewed on a variety of different devices such as Desktop, Laptop, Tablet, iPhone 6, iPhone 7, Samsung Galaxy S7, iPhone SE, iPhone 12 Pro, Google Pixel.
    </li>
    <li>
-      It is confirmed that the website is fully operational and its design allows users for easy navigation. 
+      It is confirmed that the website is fully operational and its design allows the user for easy navigation. 
    </li>
    <li>
       It is confirmed that all sections are readable and easy to understand.  

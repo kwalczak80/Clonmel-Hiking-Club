@@ -1,303 +1,292 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
-
 * {
-    margin: 0;
-    padding: 0;
-    border: none;
-    color: #000000;
+	margin: 0;
+	padding: 0;
+	border: none;
+	color: #000000;
 }
 
 html {
-    font-size: 62.5%;
-    scroll-padding-top: 5.4rem;
-    scroll-behavior: smooth;
+	font-size: 62.5%;
+	scroll-padding-top: 5.4rem;
+	scroll-behavior: smooth;
 }
 
 body {
-    background-color: #d9ddc9;
-    font-family: 'Lato', sans-serif;
+	background-color: #d9ddc9;
+	font-family: 'Lato', sans-serif;
 }
 
 a {
-    text-decoration: none;
+	text-decoration: none;
 }
 
 h2 {
-    background-color: #809283;
-    text-align: center;
-    text-transform: uppercase;
-    margin-bottom: 0.5rem;
+	background-color: #809283;
+	text-align: center;
+	text-transform: uppercase;
+	margin-bottom: 0.5rem;
 }
 
 header {
-    position: sticky;
-    top: 0;
-    box-sizing: border-box;
-    z-index: 9999;
+	position: sticky;
+	top: 0;
+	box-sizing: border-box;
+	z-index: 9999;
 }
 
 #club-name {
-    font-family: 'Oswald', sans-serif;
-    text-transform: uppercase;
-    font-size: 3.5rem;
+	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase;
+	font-size: 3.5rem;
 }
 
 #logo-outer {
-    width: 100%;
-    height: 40rem;
+	width: 100%;
+	height: 40rem;
 }
 
 #main-logo {
-    width: 100%;
-    height: 40rem;
-    background: url('../images/main-picture.jpg') no-repeat center center;
-    /*background-repeat: no-repeat;
-    background-size: auto;*/
-    }
+	width: 100%;
+	height: 40rem;
+	background: url('../images/main-picture.jpg') no-repeat center center;
+}
 
 .common-section {
-    font-size: 2rem;
+	font-size: 2rem;
 }
+
 
 /*Navigation*/
 
 .nav-list {
-    background: #9ba37e;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
+	background: #9ba37e;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
 }
 
 .nav-item {
-    list-style: none;
-    margin-right: 2rem;
+	list-style: none;
+	margin-right: 2rem;
 }
 
 .nav-item a {
-    font-size: 2rem;
-    letter-spacing: 2px;
+	font-size: 2rem;
+	letter-spacing: 2px;
 }
 
 .nav-item a:hover {
-    color: rgb(41, 177, 41);
-    background-color: #37534a;
-    font-weight: 900;
+	color: rgb(41, 177, 41);
+	background-color: #37534a;
+	font-weight: 900;
 }
+
 
 /*About Us*/
 
 #about-us p {
-    padding: 1px 2px;
-    text-align: center;
+	padding: 1px 2px;
+	text-align: center;
 }
 
 .information-container {
-    border: 1px solid rgb(0, 0, 0);
-    margin: 1px;
-    padding: 0.5rem 0;
-    text-align: center;
+	border: 1px solid rgb(0, 0, 0);
+	margin: 1px;
+	padding: 0.5rem 0;
+	text-align: center;
 }
 
 .text-box {
-    height: auto;
-    width: 32%;
-    display: inline-block;
-    border: 2px #2b2727 solid;
-    vertical-align: top;
-    margin: 2px 0;
-    border-radius: 1rem;
-    }
+	height: auto;
+	width: 32%;
+	display: inline-block;
+	border: 2px #2b2727 solid;
+	vertical-align: top;
+	margin: 2px 0;
+	border-radius: 1rem;
+}
+
 
 /*Upcoming Events*/
 
 .information-list {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    list-style: none;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	list-style: none;
 }
 
 .information-item {
-    font-size: 2rem;
-    font-weight: bold;
-    text-align: center;
-    padding-bottom: 0.5rem;
+	font-size: 2rem;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 0.5rem;
 }
 
+
 /*Gallery*/
+
 .grit-wrapper {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
 }
 
 img {
-    width: 100%;
-    border-radius: 0.5rem;
+	width: 100%;
+	border-radius: 0.5rem;
 }
 
 .grit-box {
-    padding: 0.2rem;
+	padding: 0.2rem;
 }
 
 #events-map {
-    width: 100%;
-    height: 30rem;
+	width: 100%;
+	height: 30rem;
 }
+
 
 /*Contact Us*/
 
 .contact-box {
-    margin: 0px auto 0;
-    text-align: center;
-    max-width: 68rem;
-    padding: 2rem;
-    box-sizing: border-box;
-    border: 1px solid #000000;
-    background-color: rgba(145, 135, 135, 0.2);
+	margin: 0px auto 0;
+	text-align: center;
+	max-width: 68rem;
+	padding: 2rem;
+	box-sizing: border-box;
+	border: 1px solid #000000;
+	background-color: rgba(145, 135, 135, 0.2);
 }
 
 .input-field {
-    width: 100%;
-    height: 4rem;
-    margin-top: 2rem;
-    padding-left: 0.5rem;
-    border: 1px solid #777777;
-    border-radius: 1rem;
-    outline: none;
-    background-color: #EBEBEC;
-    box-sizing: border-box;
+	width: 100%;
+	height: 4rem;
+	margin-top: 2rem;
+	padding-left: 0.5rem;
+	border: 1px solid #777777;
+	border-radius: 1rem;
+	outline: none;
+	background-color: #EBEBEC;
+	box-sizing: border-box;
 }
 
 .textarea-field {
-    height: 15rem;
-    padding-top: 1rem;
-    resize: none;
+	height: 15rem;
+	padding-top: 1rem;
+	resize: none;
 }
 
 .button {
-    margin: 0 auto;
-    border-radius: 1rem;
-    color: #ffffff;
-    margin-top: 2rem;
-    padding: 1rem;
-    background-color: #3a3a3a;
-    font-size: 1.5rem;
-    cursor: pointer;
+	margin: 0 auto;
+	border-radius: 1rem;
+	color: #ffffff;
+	margin-top: 2rem;
+	padding: 1rem;
+	background-color: #3a3a3a;
+	font-size: 1.5rem;
+	cursor: pointer;
 }
+
 
 /* Footer*/
 
 .social-networks {
-    text-align: center;
+	text-align: center;
 }
 
 .social-networks>li {
-    display: inline;
+	display: inline;
 }
 
 .social-networks i {
-    font-size: 2.5rem;
-    margin: 1%;
-    padding: 5%;
+	font-size: 2.5rem;
+	margin: 1%;
+	padding: 5%;
 }
+
 
 /*Confirmation page*/
 
 .button a {
-    text-decoration: none;
-    cursor: pointer;
+	text-decoration: none;
+	cursor: pointer;
 }
 
 .button-container {
-    margin-top: 2rem;
+	margin-top: 2rem;
 }
 
 .top-bar {
-    width: 100%;
-    background: #9ba37e;
-    text-align: center;
-    margin-bottom: 2rem;
+	width: 100%;
+	background: #9ba37e;
+	text-align: center;
+	margin-bottom: 2rem;
 }
+
 
 /*Media queries*/
 
 @media screen and (min-width: 320px) and (max-width: 640px) {
-
-    html {
-        scroll-padding-top: 13.6rem;
-    }
-
-    #club-name {
-        font-size: 2rem;
-    }
-
-    .text-box {
-        width: 99%;
-    }
-
-    .nav-list {
-        padding: 2px 0;
-        flex-direction: column;
-    }
-
-    .nav-item {
-        margin-top: 2px;
-    }
-
-    .nav-item a {
-        font-size: 1.5rem;
-    }
-
-    .nav-item a:hover {
-        color: #29b129;
-        padding: 2px;
-        font-weight: 500;
-    }
-    .grit-wrapper {
-        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    }
+	html {
+		scroll-padding-top: 13.6rem;
+	}
+	#club-name {
+		font-size: 2rem;
+	}
+	.text-box {
+		width: 99%;
+	}
+	.nav-list {
+		padding: 2px 0;
+		flex-direction: column;
+	}
+	.nav-item {
+		margin-top: 2px;
+	}
+	.nav-item a {
+		font-size: 1.5rem;
+	}
+	.nav-item a:hover {
+		color: #29b129;
+		padding: 2px;
+		font-weight: 500;
+	}
+	.grit-wrapper {
+		grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	}
 }
 
 @media screen and (min-width: 641px) and (max-width: 1000px) {
-
-    html {
-        scroll-padding-top: 3.7rem;
-    }
-
-    #club-name {
-        font-size: 2.5rem;
-    }
-
-    .nav-item {
-        margin-right: 1rem;
-    }
-
-    .text-box {
-        width: 99%;
-    }
-
-    .nav-item a {
-        font-size: 1.8rem;
-        letter-spacing: 1px;
-    }
-
-    .nav-item:first-child {
-        margin-right: auto;
-        margin-left: 1rem;
-    }
-
-    .nav-item a:hover {
-        padding: 0px;
-        font-weight: 400;
-    }
+	html {
+		scroll-padding-top: 3.7rem;
+	}
+	#club-name {
+		font-size: 2.5rem;
+	}
+	.nav-item {
+		margin-right: 1rem;
+	}
+	.text-box {
+		width: 99%;
+	}
+	.nav-item a {
+		font-size: 1.8rem;
+		letter-spacing: 1px;
+	}
+	.nav-item:first-child {
+		margin-right: auto;
+		margin-left: 1rem;
+	}
+	.nav-item a:hover {
+		padding: 0px;
+		font-weight: 400;
+	}
 }
 
 @media screen and (min-width: 1001px) and (max-width: 1920px) {
-
-    .nav-item:first-child {
-        margin-right: auto;
-        margin-left: 1rem;
-    }
-
+	.nav-item:first-child {
+		margin-right: auto;
+		margin-left: 1rem;
+	}
 }
-

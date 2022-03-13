@@ -56,7 +56,6 @@ header {
 	font-size: 2rem;
 }
 
-
 /*Navigation*/
 
 .nav-list {
@@ -82,7 +81,6 @@ header {
 	font-weight: 900;
 }
 
-
 /*About Us*/
 
 #about-us p {
@@ -107,7 +105,6 @@ header {
 	border-radius: 1rem;
 }
 
-
 /*Upcoming Events*/
 
 .information-list {
@@ -123,7 +120,6 @@ header {
 	text-align: center;
 	padding-bottom: 0.5rem;
 }
-
 
 /*Gallery*/
 
@@ -145,7 +141,6 @@ img {
 	width: 100%;
 	height: 30rem;
 }
-
 
 /*Contact Us*/
 
@@ -188,7 +183,6 @@ img {
 	cursor: pointer;
 }
 
-
 /* Footer*/
 
 .social-networks {
@@ -204,7 +198,6 @@ img {
 	margin: 1%;
 	padding: 5%;
 }
-
 
 /*Confirmation page*/
 
@@ -223,7 +216,6 @@ img {
 	text-align: center;
 	margin-bottom: 2rem;
 }
-
 
 /*Media queries*/
 

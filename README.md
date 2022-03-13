@@ -173,7 +173,7 @@
 <ul>
    <li><strong>Form Confirmation</strong></li>
    <ul>
-      <li>Once the user clicks on a <strong>Send message</strong> button a confirmation page will open(in the same window) informing that their message was sent to the Clonmel Hiking Club. For this project it validates the form only.</li>
+      <li>Once the user clicks on a <strong>Send message</strong> button a confirmation page will open(in the same window) informing that their message was sent to the Clonmel Hiking Club.</li>
       <li>The <strong>Home Page</strong> button provides a direct link back to the main page.
    </ul>
 </ul>

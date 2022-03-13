@@ -369,7 +369,7 @@
 
 # **Website Performance**
 <ul>
-   <li>During the Lighthouse testing, I discovered that the website performance result was quite low(61%). This was related to the size of the pictures displayed in the gallery section and their number. To improve the website's overall performance the following steps were performed:</li>
+   <li>During the Lighthouse testing, I discovered that the website performance result was quite low(61). This was related to the size of the pictures displayed in the gallery section and their number. To improve the website's overall performance the following steps were performed:</li>
    <ul>
       <li>Size all pictures were reduced to 600x400px.</li>
       <li>DPI was reduced from 300 to 72.</li>

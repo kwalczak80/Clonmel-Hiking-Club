@@ -143,7 +143,7 @@
 <ul>
    <li><strong>Gallery</strong></li>
    <ul>
-      <li>The content of this section is showing the photos taken by the club members from their hiking trips.</li>
+      <li>The content of this section is showing photos taken by the club members from their hiking trips.</li>
       <li>This section can be very inspiring for both new and existing club members.</li>
    </ul>
 </ul>
